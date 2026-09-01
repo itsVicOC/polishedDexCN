@@ -31,10 +31,16 @@ export const events:EventData={daily:[],weekly:[],rematches:[]}
 export const types=['Normal','Fire','Water','Electric','Grass','Ice','Fighting','Poison','Ground','Flying','Psychic','Bug','Rock','Ghost','Dragon','Dark','Steel','Fairy']
 export const nav=[['pokemon','宝可梦','Pokémon'],['moves','技能','Moves'],['items','物品','Items'],['abilities','特性','Abilities'],['locations','地点','Locations'],['evolutions','进化','Evolutions'],['egg-groups','蛋组','Egg Groups'],['stats','能力值','Stats'],['types','属性','Types'],['trainers','训练家','Trainers'],['map','地图','Map'],['events','事件','Events'],['guides','攻略','Guides']]
 
+// Vite exposes the project-site prefix on GitHub Pages (for example
+// /polishedDexCN/). Keep all runtime requests under that prefix so the app
+// also works when deployed below a repository path.
+export const APP_BASE=import.meta.env.BASE_URL
+export const assetUrl=(path:string)=>`${APP_BASE}${path.replace(/^\/+/,'')}`
+
 let loading:Promise<void>|undefined
 export function loadDexData(){
   if(loading)return loading
-  loading=fetch('/data/app-data.json').then(async response=>{
+  loading=fetch(assetUrl('data/app-data.json')).then(async response=>{
     if(!response.ok)throw new Error(`Failed to load app data: ${response.status}`)
     const data=await response.json() as AppData
     if(data.schemaVersion!==2||data.pokemon.length!==289||data.moves.length!==255||data.items.length!==396||data.abilities.length!==154||data.locations.length!==649||data.trainers.length!==761)throw new Error('The local Polished Crystal snapshot is incomplete or incompatible.')
@@ -48,7 +54,7 @@ const detailCache=new Map<string,unknown>()
 export async function loadEntityDetail<T>(kind:DetailKind,slug:string):Promise<T>{
   const key=`${kind}/${slug}`
   if(detailCache.has(key))return detailCache.get(key) as T
-  const response=await fetch(`/data/details/${key}.json`)
+  const response=await fetch(assetUrl(`data/details/${key}.json`))
   if(!response.ok)throw new Error(`Failed to load ${key}: ${response.status}`)
   const detail=await response.json() as T
   detailCache.set(key,detail)
@@ -57,7 +63,7 @@ export async function loadEntityDetail<T>(kind:DetailKind,slug:string):Promise<T
 export async function loadToolData<T>(name:string):Promise<T>{
   const key=`tools/${name}`
   if(detailCache.has(key))return detailCache.get(key) as T
-  const response=await fetch(`/data/${key}.json`)
+  const response=await fetch(assetUrl(`data/${key}.json`))
   if(!response.ok)throw new Error(`Failed to load ${key}: ${response.status}`)
   const data=await response.json() as T
   detailCache.set(key,data)
