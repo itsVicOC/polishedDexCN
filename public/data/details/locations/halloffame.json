@@ -1,0 +1,1 @@
+{"id":585,"slug":"halloffame","name":{"en":"Hall Of Fame","zh":"Hall Of Fame","aliases":["Hall Of Fame","halloffame"]},"region":"Kanto","kind":"indoor","description":"Hall Of Fame in Pokémon Polished Crystal.","pokemon":[],"items":[],"itemDetails":[],"trainers":[],"children":[],"connections":[{"direction":"warp","to":"Lances Room","toId":"lancesroom"}],"encounters":[]}

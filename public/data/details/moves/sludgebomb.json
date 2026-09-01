@@ -1,0 +1,1 @@
+{"id":200,"slug":"sludgebomb","name":{"en":"Sludge Bomb","zh":"污泥炸弹","aliases":["Sludge Bomb","sludgebomb"]},"type":"Poison","category":"Special","power":90,"accuracy":100,"pp":10,"effect":"An attack that may poison the foe.","learners":[],"machines":["tm36"]}

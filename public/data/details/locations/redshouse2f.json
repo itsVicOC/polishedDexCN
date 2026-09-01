@@ -1,0 +1,1 @@
+{"id":302,"slug":"redshouse2f","name":{"en":"Reds House 2F","zh":"Reds 的家 2层","aliases":["Reds House 2F","redshouse2f"]},"region":"Kanto","kind":"indoor","description":"Reds House 2F in Pokémon Polished Crystal.","pokemon":[],"items":[],"itemDetails":[],"trainers":[],"children":[],"connections":[{"direction":"warp","to":"Reds House 1F","toId":"redshouse1f"}],"encounters":[]}

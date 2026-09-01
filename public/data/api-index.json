@@ -1,0 +1,47 @@
+{
+  "description": "Offline Polished Crystal bilingual reference API",
+  "collections": [
+    {
+      "name": "pokemon",
+      "path": "/data/pokemon.json"
+    },
+    {
+      "name": "moves",
+      "path": "/data/moves.json"
+    },
+    {
+      "name": "items",
+      "path": "/data/items.json"
+    },
+    {
+      "name": "abilities",
+      "path": "/data/abilities.json"
+    },
+    {
+      "name": "locations",
+      "path": "/data/locations.json"
+    },
+    {
+      "name": "trainers",
+      "path": "/data/trainers.json"
+    }
+  ],
+  "details": [
+    {
+      "name": "pokemon",
+      "path": "/data/pokemon-details.json"
+    },
+    {
+      "name": "evolutions",
+      "path": "/data/evolutions.json"
+    },
+    {
+      "name": "events",
+      "path": "/data/events.json"
+    },
+    {
+      "name": "guides",
+      "path": "/data/guides.json"
+    }
+  ]
+}

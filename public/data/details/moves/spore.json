@@ -1,0 +1,1 @@
+{"id":207,"slug":"spore","name":{"en":"Spore","zh":"蘑菇孢子","aliases":["Spore","spore"]},"type":"Grass","category":"Status","power":0,"accuracy":100,"pp":15,"effect":"A move that puts the foe to sleep.","learners":[{"slug":"paras","methods":["升级 · Level up"]},{"slug":"parasect","methods":["升级 · Level up"]}],"machines":[]}

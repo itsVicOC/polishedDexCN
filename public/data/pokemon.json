@@ -1,0 +1,9540 @@
+[
+  {
+    "id": "bulbasaur",
+    "name": "Bulbasaur",
+    "dexNo": 264,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "monster",
+      "plant"
+    ],
+    "dexEntry": {
+      "category": "Seed",
+      "description": "While it is young, it uses the nutrients that are stored in the seeds on its back in order to grow."
+    }
+  },
+  {
+    "id": "ivysaur",
+    "name": "Ivysaur",
+    "dexNo": 265,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "monster",
+      "plant"
+    ],
+    "dexEntry": {
+      "category": "Seed",
+      "description": "The bulb on its back grows as it absorbs nutrients. The bulb gives off a pleasant aroma when it blooms."
+    }
+  },
+  {
+    "id": "venusaur",
+    "name": "Venusaur",
+    "dexNo": 266,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "monster",
+      "plant"
+    ],
+    "dexEntry": {
+      "category": "Seed",
+      "description": "As it warms itself and absorbs the sunlight, its flower petals release a pleasant fragrance."
+    }
+  },
+  {
+    "id": "charmander",
+    "name": "Charmander",
+    "dexNo": 267,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "monster",
+      "dragon"
+    ],
+    "dexEntry": {
+      "category": "Lizard",
+      "description": "If it's healthy, the flame on the tip of its tail will burn vigorously, even if it gets a bit wet."
+    }
+  },
+  {
+    "id": "charmeleon",
+    "name": "Charmeleon",
+    "dexNo": 268,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "monster",
+      "dragon"
+    ],
+    "dexEntry": {
+      "category": "Flame",
+      "description": "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings."
+    }
+  },
+  {
+    "id": "charizard",
+    "name": "Charizard",
+    "dexNo": 269,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fire",
+            "dragon"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fire",
+            "flying"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "monster",
+      "dragon"
+    ],
+    "dexEntry": {
+      "category": "Flame",
+      "description": "It uses its wings to fly high. The temperature of its fire increases as it gains experience in battle."
+    }
+  },
+  {
+    "id": "squirtle",
+    "name": "Squirtle",
+    "dexNo": 270,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "monster",
+      "water1"
+    ],
+    "dexEntry": {
+      "category": "Tiny Turtle",
+      "description": "When it feels threatened, it draws its legs inside its shell and sprays water from its mouth."
+    }
+  },
+  {
+    "id": "wartortle",
+    "name": "Wartortle",
+    "dexNo": 271,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "monster",
+      "water1"
+    ],
+    "dexEntry": {
+      "category": "Turtle",
+      "description": "Its long, furry tail is a symbol of longevity, making it quite popular among older people."
+    }
+  },
+  {
+    "id": "blastoise",
+    "name": "Blastoise",
+    "dexNo": 272,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "steel"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "monster",
+      "water1"
+    ],
+    "dexEntry": {
+      "category": "Shell",
+      "description": "It firmly plants its feet on the ground before shooting water from the jets on its back."
+    }
+  },
+  {
+    "id": "caterpie",
+    "name": "Caterpie",
+    "dexNo": 24,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "bug"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "bug"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "bug"
+    ],
+    "dexEntry": {
+      "category": "Worm",
+      "description": "It crawls into foliage where it camouflages itself among leaves that are the same color as its body."
+    }
+  },
+  {
+    "id": "metapod",
+    "name": "Metapod",
+    "dexNo": 25,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "bug"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "bug"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "bug"
+    ],
+    "dexEntry": {
+      "category": "Cocoon",
+      "description": "This is its preevolved form. At this stage, it can only harden, so it remains motionless to avoid attack."
+    }
+  },
+  {
+    "id": "butterfree",
+    "name": "Butterfree",
+    "dexNo": 26,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "bug",
+            "psychic"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "bug",
+            "flying"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "bug"
+    ],
+    "dexEntry": {
+      "category": "Butterfly",
+      "description": "It flits from flower to flower, collecting nectar. It can even identify distant flowers in bloom."
+    }
+  },
+  {
+    "id": "weedle",
+    "name": "Weedle",
+    "dexNo": 27,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "bug",
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "bug",
+            "poison"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "bug"
+    ],
+    "dexEntry": {
+      "category": "Hairy Bug",
+      "description": "The barb on top of its head secretes a strong poison. It uses this toxic barb to protect itself."
+    }
+  },
+  {
+    "id": "kakuna",
+    "name": "Kakuna",
+    "dexNo": 28,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "bug",
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "bug",
+            "poison"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "bug"
+    ],
+    "dexEntry": {
+      "category": "Cocoon",
+      "description": "Nearly incapable of movement, it leans against stout trees while waiting for its evolution."
+    }
+  },
+  {
+    "id": "beedrill",
+    "name": "Beedrill",
+    "dexNo": 29,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "bug",
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "bug",
+            "poison"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "bug"
+    ],
+    "dexEntry": {
+      "category": "Poison Bee",
+      "description": "It uses sharp, poisonous stings to defeat prey, then takes the victim back to its nest for food."
+    }
+  },
+  {
+    "id": "pidgey",
+    "name": "Pidgey",
+    "dexNo": 10,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "flying"
+    ],
+    "dexEntry": {
+      "category": "Tiny Bird",
+      "description": "It rapidly flaps its wings in the grass, stirring up a dust cloud that drives insect prey out into the open."
+    }
+  },
+  {
+    "id": "pidgeotto",
+    "name": "Pidgeotto",
+    "dexNo": 11,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "flying"
+    ],
+    "dexEntry": {
+      "category": "Bird",
+      "description": "It slowly flies in a circular pattern, all the while keeping a sharp lookout for prey."
+    }
+  },
+  {
+    "id": "pidgeot",
+    "name": "Pidgeot",
+    "dexNo": 12,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "flying"
+    ],
+    "dexEntry": {
+      "category": "Bird",
+      "description": "This Pokémon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons."
+    }
+  },
+  {
+    "id": "rattata",
+    "name": "Rattata",
+    "dexNo": 17,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "dark",
+            "normal"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "dark",
+            "normal"
+          ]
+        }
+      }
+    },
+    "hasRegionalVariant": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Rat",
+      "description": "This Pokémon's impressive vitality allows it to live anywhere. It also multiplies very quickly."
+    }
+  },
+  {
+    "id": "raticate",
+    "name": "Raticate",
+    "dexNo": 18,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "dark",
+            "normal"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "dark",
+            "normal"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasRegionalVariant": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Rat",
+      "description": "The webs on its hind legs enable it to cross rivers. It searches wide areas for food."
+    }
+  },
+  {
+    "id": "spearow",
+    "name": "Spearow",
+    "dexNo": 13,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "flying"
+    ],
+    "dexEntry": {
+      "category": "Tiny Bird",
+      "description": "To protect its territory, it flies around ceaselessly, making highpitched cries."
+    }
+  },
+  {
+    "id": "fearow",
+    "name": "Fearow",
+    "dexNo": 14,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "flying"
+    ],
+    "dexEntry": {
+      "category": "Beak",
+      "description": "It uses its long beak to attack. It has a surprisingly long reach, so it must be treated with caution."
+    }
+  },
+  {
+    "id": "ekans",
+    "name": "Ekans",
+    "dexNo": 51,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "poison"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "ground",
+      "dragon"
+    ],
+    "dexEntry": {
+      "category": "Snake",
+      "description": "It flutters the tip of its tongue to seek out the scent of prey, then swallows the prey whole."
+    }
+  },
+  {
+    "id": "arbok",
+    "name": "Arbok",
+    "dexNo": 52,
+    "versions": {
+      "polished": {
+        "johtonian": {
+          "types": [
+            "poison"
+          ]
+        },
+        "kantonian": {
+          "types": []
+        },
+        "koga": {
+          "types": []
+        },
+        "agatha": {
+          "types": []
+        },
+        "ariana": {
+          "types": []
+        }
+      },
+      "faithful": {
+        "johtonian": {
+          "types": [
+            "poison"
+          ]
+        },
+        "kantonian": {
+          "types": []
+        },
+        "koga": {
+          "types": []
+        },
+        "agatha": {
+          "types": []
+        },
+        "ariana": {
+          "types": []
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasRegionalVariant": true,
+    "dexEntry": {
+      "category": "Cobra",
+      "description": "To intimidate foes, it spreads its chest wide and makes eerie sounds by expelling air from its mouth."
+    }
+  },
+  {
+    "id": "pikachu",
+    "name": "Pikachu",
+    "dexNo": 22,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "electric"
+          ]
+        },
+        "fly": {
+          "types": []
+        },
+        "surf": {
+          "types": []
+        },
+        "red": {
+          "types": []
+        },
+        "yellow": {
+          "types": []
+        },
+        "spark": {
+          "types": []
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "electric"
+          ]
+        },
+        "fly": {
+          "types": []
+        },
+        "surf": {
+          "types": []
+        },
+        "red": {
+          "types": []
+        },
+        "yellow": {
+          "types": []
+        },
+        "spark": {
+          "types": []
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground",
+      "fairy"
+    ],
+    "dexEntry": {
+      "category": "Mouse",
+      "description": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks."
+    }
+  },
+  {
+    "id": "raichu",
+    "name": "Raichu",
+    "dexNo": 23,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "electric"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "electric",
+            "psychic"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "electric"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "electric",
+            "psychic"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasRegionalVariant": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground",
+      "fairy"
+    ],
+    "dexEntry": {
+      "category": "Mouse",
+      "description": "If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere."
+    }
+  },
+  {
+    "id": "sandshrew",
+    "name": "Sandshrew",
+    "dexNo": 49,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ground"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "ice",
+            "steel"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ground"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "ice",
+            "steel"
+          ]
+        }
+      }
+    },
+    "hasRegionalVariant": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Mouse",
+      "description": "It prefers dry, sandy places because it uses the sand to protect itself when threatened."
+    }
+  },
+  {
+    "id": "sandslash",
+    "name": "Sandslash",
+    "dexNo": 50,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ground"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "ice",
+            "steel"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ground"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "ice",
+            "steel"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasRegionalVariant": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Mouse",
+      "description": "Adept at climbing trees, it rolls into a spiny ball, then attacks its enemies from above."
+    }
+  },
+  {
+    "id": "nidoranf",
+    "name": "Nidoran♀",
+    "dexNo": 100,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "poison"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "monster",
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Poison Pin",
+      "description": "Small and very docile, it protects itself with its small, poisonous horn when attacked."
+    }
+  },
+  {
+    "id": "nidorina",
+    "name": "Nidorina",
+    "dexNo": 101,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "poison"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "monster",
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Poison Pin",
+      "description": "It has a docile nature. If it is threatened with attack, it raises the barbs that are all over its body."
+    }
+  },
+  {
+    "id": "nidoqueen",
+    "name": "Nidoqueen",
+    "dexNo": 102,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "poison",
+            "ground"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "poison",
+            "ground"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "monster",
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Drill",
+      "description": "The hard scales that cover its strong body serve as excellent protection from any attack."
+    }
+  },
+  {
+    "id": "nidoranm",
+    "name": "Nidoran♂",
+    "dexNo": 103,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "poison"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "monster",
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Poison Pin",
+      "description": "It constantly moves its large ears in many directions in order to detect danger right away."
+    }
+  },
+  {
+    "id": "nidorino",
+    "name": "Nidorino",
+    "dexNo": 104,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "poison"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "monster",
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Poison Pin",
+      "description": "It is easily agitated and uses its horn for offense as soon as it notices an attacker."
+    }
+  },
+  {
+    "id": "nidoking",
+    "name": "Nidoking",
+    "dexNo": 105,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "poison",
+            "ground"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "poison",
+            "ground"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "monster",
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Drill",
+      "description": "It uses its thick arms, legs and tail to attack forcefully. Melee combat is its specialty."
+    }
+  },
+  {
+    "id": "clefairy",
+    "name": "Clefairy",
+    "dexNo": 41,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fairy"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fairy"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "fairy"
+    ],
+    "dexEntry": {
+      "category": "Fairy",
+      "description": "Though rarely seen, it becomes easier to spot, for some reason, on the night of a full moon."
+    }
+  },
+  {
+    "id": "clefable",
+    "name": "Clefable",
+    "dexNo": 42,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fairy"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fairy"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "fairy"
+    ],
+    "dexEntry": {
+      "category": "Fairy",
+      "description": "Said to live in quiet, remote mountains, this type of fairy has a strong aversion to being seen."
+    }
+  },
+  {
+    "id": "vulpix",
+    "name": "Vulpix",
+    "dexNo": 134,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "ice"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "ice"
+          ]
+        }
+      }
+    },
+    "hasRegionalVariant": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Fox",
+      "description": "As its body grows larger, its six warm tails become more beautiful, with a more luxurious coat of fur."
+    }
+  },
+  {
+    "id": "ninetales",
+    "name": "Ninetales",
+    "dexNo": 135,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fire",
+            "ghost"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "ice",
+            "fairy"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "ice",
+            "fairy"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasRegionalVariant": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Fox",
+      "description": "It is said to live a thousand years, and each of its tails is loaded with supernatural powers."
+    }
+  },
+  {
+    "id": "jigglypuff",
+    "name": "Jigglypuff",
+    "dexNo": 44,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal",
+            "fairy"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal",
+            "fairy"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "fairy"
+    ],
+    "dexEntry": {
+      "category": "Balloon",
+      "description": "It rolls its cute eyes as it sings a soothing lullaby. Its gentle song puts anyone who hears it to sleep."
+    }
+  },
+  {
+    "id": "wigglytuff",
+    "name": "Wigglytuff",
+    "dexNo": 45,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal",
+            "fairy"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal",
+            "fairy"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "fairy"
+    ],
+    "dexEntry": {
+      "category": "Balloon",
+      "description": "The rich, fluffy fur that covers its body feels so good that anyone who feels it can't stop touching it."
+    }
+  },
+  {
+    "id": "zubat",
+    "name": "Zubat",
+    "dexNo": 37,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "poison",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "poison",
+            "flying"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "flying"
+    ],
+    "dexEntry": {
+      "category": "Bat",
+      "description": "During the day, it gathers with others and hangs from the ceilings of old buildings and caves."
+    }
+  },
+  {
+    "id": "golbat",
+    "name": "Golbat",
+    "dexNo": 38,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "poison",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "poison",
+            "flying"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "flying"
+    ],
+    "dexEntry": {
+      "category": "Bat",
+      "description": "However hard its victim's hide may be, it punctures with sharp fangs and gorges itself with blood."
+    }
+  },
+  {
+    "id": "oddish",
+    "name": "Oddish",
+    "dexNo": 88,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "plant"
+    ],
+    "dexEntry": {
+      "category": "Weed",
+      "description": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight."
+    }
+  },
+  {
+    "id": "gloom",
+    "name": "Gloom",
+    "dexNo": 89,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "plant"
+    ],
+    "dexEntry": {
+      "category": "Weed",
+      "description": "The smell from its drool-like syrup and the pollen on its petals is so bad, it may make opponents faint."
+    }
+  },
+  {
+    "id": "vileplume",
+    "name": "Vileplume",
+    "dexNo": 90,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "plant"
+    ],
+    "dexEntry": {
+      "category": "Flower",
+      "description": "By shaking its big petals, it scatters toxic pollen into the air, turning the air yellow."
+    }
+  },
+  {
+    "id": "paras",
+    "name": "Paras",
+    "dexNo": 75,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "bug",
+            "grass"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "bug",
+            "grass"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "bug",
+      "plant"
+    ],
+    "dexEntry": {
+      "category": "Mushroom",
+      "description": "The tochukaso growing on this Pokémon's back orders it to extract juice from tree trunks."
+    }
+  },
+  {
+    "id": "parasect",
+    "name": "Parasect",
+    "dexNo": 76,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "bug",
+            "grass"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "bug",
+            "grass"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "bug",
+      "plant"
+    ],
+    "dexEntry": {
+      "category": "Mushroom",
+      "description": "When nothing's left to extract from the bug, the mushrooms on its back leave spores on the bug's egg."
+    }
+  },
+  {
+    "id": "venonat",
+    "name": "Venonat",
+    "dexNo": 114,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "bug",
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "bug",
+            "poison"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "bug"
+    ],
+    "dexEntry": {
+      "category": "Insect",
+      "description": "The small bugs it eats appear only at night, so it sleeps in a hole in a tree until night falls."
+    }
+  },
+  {
+    "id": "venomoth",
+    "name": "Venomoth",
+    "dexNo": 115,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "bug",
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "bug",
+            "poison"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "bug"
+    ],
+    "dexEntry": {
+      "category": "Poison Moth",
+      "description": "The scales it scatters will paralyze anyone who touches them, making that person unable to stand."
+    }
+  },
+  {
+    "id": "diglett",
+    "name": "Diglett",
+    "dexNo": 143,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ground"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "ground",
+            "steel"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ground"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "ground",
+            "steel"
+          ]
+        }
+      }
+    },
+    "hasRegionalVariant": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Mole",
+      "description": "It digs underground and chews on tree roots, sticking its head out only when the sun isn't bright."
+    }
+  },
+  {
+    "id": "dugtrio",
+    "name": "Dugtrio",
+    "dexNo": 144,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ground"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "ground",
+            "steel"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ground"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "ground",
+            "steel"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasRegionalVariant": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Mole",
+      "description": "Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow."
+    }
+  },
+  {
+    "id": "meowth",
+    "name": "Meowth",
+    "dexNo": 148,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "dark"
+          ]
+        },
+        "galarian": {
+          "types": [
+            "steel"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "dark"
+          ]
+        },
+        "galarian": {
+          "types": [
+            "steel"
+          ]
+        }
+      }
+    },
+    "hasRegionalVariant": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Scratch Cat",
+      "description": "It loves things that sparkle. When it sees a shiny object, the gold coin on its head shines too."
+    }
+  },
+  {
+    "id": "persian",
+    "name": "Persian",
+    "dexNo": 149,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "dark"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "dark"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasRegionalVariant": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Classy Cat",
+      "description": "Behind its lithe, elegant appearance lies a barbaric side. It will tear apart its prey on a mere whim."
+    }
+  },
+  {
+    "id": "psyduck",
+    "name": "Psyduck",
+    "dexNo": 151,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "water1",
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Duck",
+      "description": "The only time it can use its psychic power is when its sleeping brain cells happen to wake."
+    }
+  },
+  {
+    "id": "golduck",
+    "name": "Golduck",
+    "dexNo": 152,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "psychic"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "water1",
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Duck",
+      "description": "It swims gracefully along on the quiet, slow-moving rivers and lakes of which it is so fond."
+    }
+  },
+  {
+    "id": "mankey",
+    "name": "Mankey",
+    "dexNo": 145,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fighting"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fighting"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Pig Monkey",
+      "description": "It lives in groups in the treetops. If it loses sight of its group, it becomes infuriated by its loneliness."
+    }
+  },
+  {
+    "id": "primeape",
+    "name": "Primeape",
+    "dexNo": 146,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fighting"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fighting"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Pig Monkey",
+      "description": "It will beat up anyone who makes it mad, even if it has to chase them until the end of the world."
+    }
+  },
+  {
+    "id": "growlithe",
+    "name": "Growlithe",
+    "dexNo": 136,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        },
+        "hisuian": {
+          "types": [
+            "fire",
+            "rock"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        },
+        "hisuian": {
+          "types": [
+            "fire",
+            "rock"
+          ]
+        }
+      }
+    },
+    "hasRegionalVariant": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Puppy",
+      "description": "It controls a big territory. If it detects an unknown smell, it roars loudly to force out the intruder."
+    }
+  },
+  {
+    "id": "arcanine",
+    "name": "Arcanine",
+    "dexNo": 137,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        },
+        "hisuian": {
+          "types": [
+            "fire",
+            "rock"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        },
+        "hisuian": {
+          "types": [
+            "fire",
+            "rock"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasRegionalVariant": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Legendary",
+      "description": "An ancient picture scroll shows that people were attracted to its movement as it ran through prairies."
+    }
+  },
+  {
+    "id": "poliwag",
+    "name": "Poliwag",
+    "dexNo": 77,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "water1"
+    ],
+    "dexEntry": {
+      "category": "Tadpole",
+      "description": "The swirl on its belly is its insides showing through the skin. It looks clearer after it eats."
+    }
+  },
+  {
+    "id": "poliwhirl",
+    "name": "Poliwhirl",
+    "dexNo": 78,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "water1"
+    ],
+    "dexEntry": {
+      "category": "Tadpole",
+      "description": "Though it is skilled at walking, it prefers to live underwater where there is less danger."
+    }
+  },
+  {
+    "id": "poliwrath",
+    "name": "Poliwrath",
+    "dexNo": 79,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "fighting"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water",
+            "fighting"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "water1"
+    ],
+    "dexEntry": {
+      "category": "Tadpole",
+      "description": "It can use its well-developed arms and legs to run on the surface of the water for a split second."
+    }
+  },
+  {
+    "id": "abra",
+    "name": "Abra",
+    "dexNo": 94,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "psychic"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "psychic"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "humanshape"
+    ],
+    "dexEntry": {
+      "category": "Psi",
+      "description": "It hypnotizes itself so that it can teleport away when it senses danger, even if it is asleep."
+    }
+  },
+  {
+    "id": "kadabra",
+    "name": "Kadabra",
+    "dexNo": 95,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "psychic"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "psychic"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "humanshape"
+    ],
+    "dexEntry": {
+      "category": "Psi",
+      "description": "When it closes its eyes, twice as many alpha particles come out of the surface of its body."
+    }
+  },
+  {
+    "id": "alakazam",
+    "name": "Alakazam",
+    "dexNo": 96,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "psychic"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "psychic"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "humanshape"
+    ],
+    "dexEntry": {
+      "category": "Psi",
+      "description": "It has an IQ of 5000. It calculates many things in order to gain the edge in every battle."
+    }
+  },
+  {
+    "id": "machop",
+    "name": "Machop",
+    "dexNo": 153,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fighting"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fighting"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "humanshape"
+    ],
+    "dexEntry": {
+      "category": "Superpower",
+      "description": "It trains by lifting rocks in the mountains. It can even pick up a Graveler with ease."
+    }
+  },
+  {
+    "id": "machoke",
+    "name": "Machoke",
+    "dexNo": 154,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fighting"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fighting"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "humanshape"
+    ],
+    "dexEntry": {
+      "category": "Superpower",
+      "description": "This tough Pokémon always stays in the zone. Its muscles become thicker after every battle."
+    }
+  },
+  {
+    "id": "machamp",
+    "name": "Machamp",
+    "dexNo": 155,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fighting"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fighting"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "humanshape"
+    ],
+    "dexEntry": {
+      "category": "Superpower",
+      "description": "With four arms that react more quickly than it can think, it can execute many punches at once."
+    }
+  },
+  {
+    "id": "bellsprout",
+    "name": "Bellsprout",
+    "dexNo": 69,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "plant"
+    ],
+    "dexEntry": {
+      "category": "Flower",
+      "description": "If it notices anything that moves, it immediately flings its vine at the object."
+    }
+  },
+  {
+    "id": "weepinbell",
+    "name": "Weepinbell",
+    "dexNo": 70,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "plant"
+    ],
+    "dexEntry": {
+      "category": "Flycatcher",
+      "description": "When it's hungry, it swings its razor-sharp leaves, slicing up any unlucky object nearby for food."
+    }
+  },
+  {
+    "id": "victreebel",
+    "name": "Victreebel",
+    "dexNo": 71,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "grass",
+            "poison"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "plant"
+    ],
+    "dexEntry": {
+      "category": "Flycatcher",
+      "description": "Once ingested into this Pokémon's body, even the hardest object will melt into nothing."
+    }
+  },
+  {
+    "id": "tentacool",
+    "name": "Tentacool",
+    "dexNo": 182,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water",
+            "poison"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "water3"
+    ],
+    "dexEntry": {
+      "category": "Jellyfish",
+      "description": "As it floats along on the waves, it uses its toxic feelers to stab anything it touches."
+    }
+  },
+  {
+    "id": "tentacruel",
+    "name": "Tentacruel",
+    "dexNo": 183,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water",
+            "poison"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "water3"
+    ],
+    "dexEntry": {
+      "category": "Jellyfish",
+      "description": "When its 80 feelers absorb water, it stretches to become like a net to entangle its prey."
+    }
+  },
+  {
+    "id": "geodude",
+    "name": "Geodude",
+    "dexNo": 34,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "rock",
+            "ground"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "rock",
+            "electric"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "rock",
+            "ground"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "rock",
+            "electric"
+          ]
+        }
+      }
+    },
+    "hasRegionalVariant": true,
+    "eggGroups": [
+      "mineral"
+    ],
+    "dexEntry": {
+      "category": "Rock",
+      "description": "Proud of their sturdy bodies, they bash against each other in a contest to prove whose is harder."
+    }
+  },
+  {
+    "id": "graveler",
+    "name": "Graveler",
+    "dexNo": 35,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "rock",
+            "ground"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "rock",
+            "electric"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "rock",
+            "ground"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "rock",
+            "electric"
+          ]
+        }
+      }
+    },
+    "hasRegionalVariant": true,
+    "eggGroups": [
+      "mineral"
+    ],
+    "dexEntry": {
+      "category": "Rock",
+      "description": "It travels by rolling on mountain paths. If it gains too much speed, it stops by running into huge rocks."
+    }
+  },
+  {
+    "id": "golem",
+    "name": "Golem",
+    "dexNo": 36,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "rock",
+            "ground"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "rock",
+            "electric"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "rock",
+            "ground"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "rock",
+            "electric"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasRegionalVariant": true,
+    "eggGroups": [
+      "mineral"
+    ],
+    "dexEntry": {
+      "category": "Megaton",
+      "description": "Its rock-like body is so durable, even high-powered dynamite blasts fail to scratch its rugged hide."
+    }
+  },
+  {
+    "id": "ponyta",
+    "name": "Ponyta",
+    "dexNo": 231,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        },
+        "galarian": {
+          "types": [
+            "psychic"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        },
+        "galarian": {
+          "types": [
+            "psychic"
+          ]
+        }
+      }
+    },
+    "hasRegionalVariant": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Fire Horse",
+      "description": "Training by jumping over grass that grows longer every day has made it a world-class jumper."
+    }
+  },
+  {
+    "id": "rapidash",
+    "name": "Rapidash",
+    "dexNo": 232,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fire",
+            "fairy"
+          ]
+        },
+        "galarian": {
+          "types": [
+            "psychic",
+            "fairy"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        },
+        "galarian": {
+          "types": [
+            "psychic",
+            "fairy"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasRegionalVariant": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Fire Horse",
+      "description": "It just loves to gallop. The faster it goes, the longer the swaying flames of its mane will become."
+    }
+  },
+  {
+    "id": "slowpoke",
+    "name": "Slowpoke",
+    "dexNo": 85,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "psychic"
+          ]
+        },
+        "galarian": {
+          "types": [
+            "psychic"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water",
+            "psychic"
+          ]
+        },
+        "galarian": {
+          "types": [
+            "psychic"
+          ]
+        }
+      }
+    },
+    "hasRegionalVariant": true,
+    "eggGroups": [
+      "monster",
+      "water1"
+    ],
+    "dexEntry": {
+      "category": "Dopey",
+      "description": "It is always so absent-minded that it won't react, even if its flavorful tail is bitten."
+    }
+  },
+  {
+    "id": "slowbro",
+    "name": "Slowbro",
+    "dexNo": 86,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "psychic"
+          ]
+        },
+        "galarian": {
+          "types": [
+            "poison",
+            "psychic"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water",
+            "psychic"
+          ]
+        },
+        "galarian": {
+          "types": [
+            "poison",
+            "psychic"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasRegionalVariant": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "monster",
+      "water1"
+    ],
+    "dexEntry": {
+      "category": "Squatter",
+      "description": "An attached Shellder won't let go because of the tasty flavor that oozes out of its tail."
+    }
+  },
+  {
+    "id": "magnemite",
+    "name": "Magnemite",
+    "dexNo": 125,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "electric",
+            "steel"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "electric",
+            "steel"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "mineral"
+    ],
+    "dexEntry": {
+      "category": "Magnet",
+      "description": "The electricity emitted by the units on each side of its body cause it to become a strong magnet."
+    }
+  },
+  {
+    "id": "magneton",
+    "name": "Magneton",
+    "dexNo": 126,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "electric",
+            "steel"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "electric",
+            "steel"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "mineral"
+    ],
+    "dexEntry": {
+      "category": "Magnet",
+      "description": "When many Magneton gather together, the resulting magnetic storm disrupts radio waves."
+    }
+  },
+  {
+    "id": "farfetchd",
+    "name": "Farfetch'd",
+    "dexNo": 176,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal",
+            "flying"
+          ]
+        },
+        "galarian": {
+          "types": [
+            "fighting"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal",
+            "flying"
+          ]
+        },
+        "galarian": {
+          "types": [
+            "fighting"
+          ]
+        }
+      }
+    },
+    "hasRegionalVariant": true,
+    "eggGroups": [
+      "flying",
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Wild Duck",
+      "description": "In order to prevent their extinction, more people have made an effort to breed these Pokémon."
+    }
+  },
+  {
+    "id": "doduo",
+    "name": "Doduo",
+    "dexNo": 229,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "flying"
+    ],
+    "dexEntry": {
+      "category": "Twin Bird",
+      "description": "By alternately raising and lowering its two heads, it balances itself to be more stable while running."
+    }
+  },
+  {
+    "id": "dodrio",
+    "name": "Dodrio",
+    "dexNo": 230,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "flying"
+    ],
+    "dexEntry": {
+      "category": "Triple Bird",
+      "description": "An enemy that takes its eyes off any of the three heads--even for a second--will get pecked severely."
+    }
+  },
+  {
+    "id": "seel",
+    "name": "Seel",
+    "dexNo": 197,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "water1",
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Sea Lion",
+      "description": "The light blue fur that covers it keeps it protected against the cold. It loves icebergfilled oceans."
+    }
+  },
+  {
+    "id": "dewgong",
+    "name": "Dewgong",
+    "dexNo": 198,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "ice"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water",
+            "ice"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "water1",
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Sea Lion",
+      "description": "It sleeps under shallow ocean waters during the day, then looks for food at night when it's cold."
+    }
+  },
+  {
+    "id": "grimer",
+    "name": "Grimer",
+    "dexNo": 123,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "poison"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "poison",
+            "dark"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "poison"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "poison",
+            "dark"
+          ]
+        }
+      }
+    },
+    "hasRegionalVariant": true,
+    "eggGroups": [
+      "indeterminate"
+    ],
+    "dexEntry": {
+      "category": "Sludge",
+      "description": "When two of these Pokémon's bodies are combined together, new poisons are created."
+    }
+  },
+  {
+    "id": "muk",
+    "name": "Muk",
+    "dexNo": 124,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "poison"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "poison",
+            "dark"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "poison"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "poison",
+            "dark"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasRegionalVariant": true,
+    "eggGroups": [
+      "indeterminate"
+    ],
+    "dexEntry": {
+      "category": "Sludge",
+      "description": "As it moves, a very strong poison leaks from it, making the ground there barren for three years."
+    }
+  },
+  {
+    "id": "shellder",
+    "name": "Shellder",
+    "dexNo": 189,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "water3"
+    ],
+    "dexEntry": {
+      "category": "Bivalve",
+      "description": "Clamping on to an opponent reveals its vulnerable parts, so it uses this move only as a last resort."
+    }
+  },
+  {
+    "id": "cloyster",
+    "name": "Cloyster",
+    "dexNo": 190,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "ice"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water",
+            "ice"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "water3"
+    ],
+    "dexEntry": {
+      "category": "Bivalve",
+      "description": "Even a missile can't break the spikes it uses to stab opponents. They're even harder than its shell."
+    }
+  },
+  {
+    "id": "gastly",
+    "name": "Gastly",
+    "dexNo": 61,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ghost",
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ghost",
+            "poison"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "indeterminate"
+    ],
+    "dexEntry": {
+      "category": "Gas",
+      "description": "It wraps its opponent in its gaslike body, slowly weakening its prey by poisoning it through the skin."
+    }
+  },
+  {
+    "id": "haunter",
+    "name": "Haunter",
+    "dexNo": 62,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ghost",
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ghost",
+            "poison"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "indeterminate"
+    ],
+    "dexEntry": {
+      "category": "Gas",
+      "description": "It hides in the dark, planning to take the life of the next living thing that wanders close by."
+    }
+  },
+  {
+    "id": "gengar",
+    "name": "Gengar",
+    "dexNo": 63,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ghost",
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ghost",
+            "poison"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "indeterminate"
+    ],
+    "dexEntry": {
+      "category": "Shadow",
+      "description": "Hiding in people's shadows at night, it absorbs their heat. The chill it causes makes the victims shake."
+    }
+  },
+  {
+    "id": "onix",
+    "name": "Onix",
+    "dexNo": 67,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "rock",
+            "ground"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "rock",
+            "ground"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "mineral"
+    ],
+    "dexEntry": {
+      "category": "Rock Snake",
+      "description": "As it digs through the ground, it absorbs many hard objects. This is what makes its body so solid."
+    }
+  },
+  {
+    "id": "drowzee",
+    "name": "Drowzee",
+    "dexNo": 92,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "psychic"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "psychic"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "humanshape"
+    ],
+    "dexEntry": {
+      "category": "Hypnosis",
+      "description": "When it twitches its nose, it can tell where someone is sleeping and what that person is dreaming about."
+    }
+  },
+  {
+    "id": "hypno",
+    "name": "Hypno",
+    "dexNo": 93,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "psychic"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "psychic"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "humanshape"
+    ],
+    "dexEntry": {
+      "category": "Hypnosis",
+      "description": "The longer it swings its pendulum, the longer the effects of its hypnosis last."
+    }
+  },
+  {
+    "id": "krabby",
+    "name": "Krabby",
+    "dexNo": 184,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "water3"
+    ],
+    "dexEntry": {
+      "category": "River Crab",
+      "description": "If it is unable to find food, it will absorb nutrients by swallowing a mouthful of sand."
+    }
+  },
+  {
+    "id": "kingler",
+    "name": "Kingler",
+    "dexNo": 185,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "water3"
+    ],
+    "dexEntry": {
+      "category": "Pincer",
+      "description": "Its oversized claw is very powerful, but when it's not in battle, the claw just gets in the way."
+    }
+  },
+  {
+    "id": "voltorb",
+    "name": "Voltorb",
+    "dexNo": 128,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "electric"
+          ]
+        },
+        "hisuian": {
+          "types": [
+            "electric",
+            "grass"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "electric"
+          ]
+        },
+        "hisuian": {
+          "types": [
+            "electric",
+            "grass"
+          ]
+        }
+      }
+    },
+    "hasRegionalVariant": true,
+    "eggGroups": [
+      "mineral"
+    ],
+    "dexEntry": {
+      "category": "Ball",
+      "description": "During the study of this Pokémon, it was discovered that its components are not found in nature."
+    }
+  },
+  {
+    "id": "electrode",
+    "name": "Electrode",
+    "dexNo": 129,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "electric"
+          ]
+        },
+        "hisuian": {
+          "types": [
+            "electric",
+            "grass"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "electric"
+          ]
+        },
+        "hisuian": {
+          "types": [
+            "electric",
+            "grass"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasRegionalVariant": true,
+    "eggGroups": [
+      "mineral"
+    ],
+    "dexEntry": {
+      "category": "Ball",
+      "description": "The more energy it charges up, the faster it gets. But this also makes it more likely to explode."
+    }
+  },
+  {
+    "id": "exeggcute",
+    "name": "Exeggcute",
+    "dexNo": 110,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "grass",
+            "psychic"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "grass",
+            "psychic"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "plant"
+    ],
+    "dexEntry": {
+      "category": "Egg",
+      "description": "If even one is separated from the group, the energy bond between the six will make them rejoin instantly."
+    }
+  },
+  {
+    "id": "exeggutor",
+    "name": "Exeggutor",
+    "dexNo": 111,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "grass",
+            "psychic"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "grass",
+            "dragon"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "grass",
+            "psychic"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "grass",
+            "dragon"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasRegionalVariant": true,
+    "eggGroups": [
+      "plant"
+    ],
+    "dexEntry": {
+      "category": "Coconut",
+      "description": "Living in a good environment makes it grow lots of heads. A head that drops off becomes an Exeggcute."
+    }
+  },
+  {
+    "id": "cubone",
+    "name": "Cubone",
+    "dexNo": 233,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ground"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ground"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "monster"
+    ],
+    "dexEntry": {
+      "category": "Lonely",
+      "description": "It lost its mother after its birth. It wears its mother's skull, never revealing its true face."
+    }
+  },
+  {
+    "id": "marowak",
+    "name": "Marowak",
+    "dexNo": 234,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ground"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "fire",
+            "ghost"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ground"
+          ]
+        },
+        "alolan": {
+          "types": [
+            "fire",
+            "ghost"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasRegionalVariant": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "monster"
+    ],
+    "dexEntry": {
+      "category": "Bone Keeper",
+      "description": "Somewhere in the world is a cemetery just for Marowak. It gets its bones from those graves."
+    }
+  },
+  {
+    "id": "hitmonlee",
+    "name": "Hitmonlee",
+    "dexNo": 157,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fighting"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fighting"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "humanshape"
+    ],
+    "dexEntry": {
+      "category": "Kicking",
+      "description": "It is also called the Kick Master. It uses its elastic legs to execute every known kick."
+    }
+  },
+  {
+    "id": "hitmonchan",
+    "name": "Hitmonchan",
+    "dexNo": 158,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fighting"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fighting"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "humanshape"
+    ],
+    "dexEntry": {
+      "category": "Punching",
+      "description": "To increase the strength of all its punch moves, it spins its arms just before making contact."
+    }
+  },
+  {
+    "id": "lickitung",
+    "name": "Lickitung",
+    "dexNo": 199,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "monster"
+    ],
+    "dexEntry": {
+      "category": "Licking",
+      "description": "Its tongue has well-developed nerves that run to the very tip, so it can be deftly manipulated."
+    }
+  },
+  {
+    "id": "koffing",
+    "name": "Koffing",
+    "dexNo": 121,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "poison"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "indeterminate"
+    ],
+    "dexEntry": {
+      "category": "Poison Gas",
+      "description": "If one gets close enough to it when it expels poisonous gas, the gas swirling inside it can be seen."
+    }
+  },
+  {
+    "id": "weezing",
+    "name": "Weezing",
+    "dexNo": 122,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "poison"
+          ]
+        },
+        "galarian": {
+          "types": [
+            "poison",
+            "fairy"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "poison"
+          ]
+        },
+        "galarian": {
+          "types": [
+            "poison",
+            "fairy"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasRegionalVariant": true,
+    "eggGroups": [
+      "indeterminate"
+    ],
+    "dexEntry": {
+      "category": "Poison Gas",
+      "description": "When it inhales poisonous gases from garbage, its body expands, and its insides smell much worse."
+    }
+  },
+  {
+    "id": "rhyhorn",
+    "name": "Rhyhorn",
+    "dexNo": 236,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ground",
+            "rock"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ground",
+            "rock"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "monster",
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Spikes",
+      "description": "It can remember only one thing at a time. Once it starts rushing, it forgets why it started."
+    }
+  },
+  {
+    "id": "rhydon",
+    "name": "Rhydon",
+    "dexNo": 237,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ground",
+            "rock"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ground",
+            "rock"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "monster",
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Drill",
+      "description": "By lightly spinning its drilllike horn, it can easily shatter even a diamond in the rough."
+    }
+  },
+  {
+    "id": "chansey",
+    "name": "Chansey",
+    "dexNo": 254,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "fairy"
+    ],
+    "dexEntry": {
+      "category": "Egg",
+      "description": "People try to catch it for its extremely nutritious eggs, but it rarely can be found."
+    }
+  },
+  {
+    "id": "tangela",
+    "name": "Tangela",
+    "dexNo": 201,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "grass"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "grass"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "plant"
+    ],
+    "dexEntry": {
+      "category": "Vine",
+      "description": "During battle, it constantly moves the vines that cover its body in order to annoy its opponent."
+    }
+  },
+  {
+    "id": "kangaskhan",
+    "name": "Kangaskhan",
+    "dexNo": 235,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "monster"
+    ],
+    "dexEntry": {
+      "category": "Parent",
+      "description": "To avoid crushing the baby it carries in its pouch, it always sleeps standing up."
+    }
+  },
+  {
+    "id": "horsea",
+    "name": "Horsea",
+    "dexNo": 212,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "water1",
+      "dragon"
+    ],
+    "dexEntry": {
+      "category": "Dragon",
+      "description": "When they're in a safe location, they can be seen playfully tangling their tails together."
+    }
+  },
+  {
+    "id": "seadra",
+    "name": "Seadra",
+    "dexNo": 213,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "water1",
+      "dragon"
+    ],
+    "dexEntry": {
+      "category": "Dragon",
+      "description": "The male raises the young. If it is approached, it uses its toxic spikes to fend off the intruder."
+    }
+  },
+  {
+    "id": "goldeen",
+    "name": "Goldeen",
+    "dexNo": 83,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "water2"
+    ],
+    "dexEntry": {
+      "category": "Goldfish",
+      "description": "During spawning season, they swim gracefully in the water, searching for their perfect mate."
+    }
+  },
+  {
+    "id": "seaking",
+    "name": "Seaking",
+    "dexNo": 84,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "water2"
+    ],
+    "dexEntry": {
+      "category": "Goldfish",
+      "description": "When autumn comes, the males patrol the area around their nests in order to protect their offspring."
+    }
+  },
+  {
+    "id": "staryu",
+    "name": "Staryu",
+    "dexNo": 187,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "water3"
+    ],
+    "dexEntry": {
+      "category": "Star Shape",
+      "description": "When the stars twinkle at night, it floats up from the sea floor, and its body's center core flickers."
+    }
+  },
+  {
+    "id": "starmie",
+    "name": "Starmie",
+    "dexNo": 188,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "psychic"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water",
+            "psychic"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "water3"
+    ],
+    "dexEntry": {
+      "category": "Mysterious",
+      "description": "It is said that it uses the sevencolored core of its body to send electric waves into outer space."
+    }
+  },
+  {
+    "id": "mrmime",
+    "name": "Mr.Mime",
+    "dexNo": 173,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "psychic",
+            "fairy"
+          ]
+        },
+        "galarian": {
+          "types": [
+            "ice",
+            "psychic"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "psychic",
+            "fairy"
+          ]
+        },
+        "galarian": {
+          "types": [
+            "ice",
+            "psychic"
+          ]
+        }
+      }
+    },
+    "hasRegionalVariant": true,
+    "eggGroups": [
+      "humanshape"
+    ],
+    "dexEntry": {
+      "category": "Barrier",
+      "description": "It uses the mysterious power it has in its fingers to solidify air into an invisible wall."
+    }
+  },
+  {
+    "id": "scyther",
+    "name": "Scyther",
+    "dexNo": 116,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "bug",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "bug",
+            "flying"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "bug"
+    ],
+    "dexEntry": {
+      "category": "Mantis",
+      "description": "It's very proud of its speed. It moves so fast that its opponent does not even know what knocked it down."
+    }
+  },
+  {
+    "id": "jynx",
+    "name": "Jynx",
+    "dexNo": 168,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ice",
+            "psychic"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ice",
+            "psychic"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "humanshape"
+    ],
+    "dexEntry": {
+      "category": "Human Shape",
+      "description": "It has several different cry patterns, each of which seems to have its own meaning."
+    }
+  },
+  {
+    "id": "electabuzz",
+    "name": "Electabuzz",
+    "dexNo": 170,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "electric"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "electric"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "humanshape"
+    ],
+    "dexEntry": {
+      "category": "Electric",
+      "description": "When two Electabuzz touch, they control the electric currents to communicate their feelings."
+    }
+  },
+  {
+    "id": "magmar",
+    "name": "Magmar",
+    "dexNo": 165,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "humanshape"
+    ],
+    "dexEntry": {
+      "category": "Spitfire",
+      "description": "It moves more frequently in hot areas. It can heal itself by dipping its wound into lava."
+    }
+  },
+  {
+    "id": "pinsir",
+    "name": "Pinsir",
+    "dexNo": 119,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "bug"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "bug"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "bug"
+    ],
+    "dexEntry": {
+      "category": "Stag Beetle",
+      "description": "When the temperature drops at night, it sleeps on treetops or among roots where it is well hidden."
+    }
+  },
+  {
+    "id": "tauros",
+    "name": "Tauros",
+    "dexNo": 162,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        },
+        "paldean": {
+          "types": [
+            "fighting"
+          ]
+        },
+        "paldeanfire": {
+          "types": [
+            "fighting",
+            "fire"
+          ]
+        },
+        "paldeanwater": {
+          "types": [
+            "fighting",
+            "water"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        },
+        "paldean": {
+          "types": [
+            "fighting"
+          ]
+        },
+        "paldeanfire": {
+          "types": [
+            "fighting",
+            "fire"
+          ]
+        },
+        "paldeanwater": {
+          "types": [
+            "fighting",
+            "water"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasRegionalVariant": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Wild Bull",
+      "description": "These violent Pokémon fight with other members of their herd in order to prove their strength."
+    }
+  },
+  {
+    "id": "magikarp",
+    "name": "Magikarp",
+    "dexNo": 81,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        },
+        "skelly": {
+          "types": []
+        },
+        "calico1": {
+          "types": []
+        },
+        "calico2": {
+          "types": []
+        },
+        "calico3": {
+          "types": []
+        },
+        "twotone": {
+          "types": []
+        },
+        "orca": {
+          "types": []
+        },
+        "dapples": {
+          "types": []
+        },
+        "tiger": {
+          "types": []
+        },
+        "zebra": {
+          "types": []
+        },
+        "stripe": {
+          "types": []
+        },
+        "bubbles": {
+          "types": []
+        },
+        "diamonds": {
+          "types": []
+        },
+        "patches": {
+          "types": []
+        },
+        "forehead1": {
+          "types": []
+        },
+        "mask1": {
+          "types": []
+        },
+        "forehead2": {
+          "types": []
+        },
+        "mask2": {
+          "types": []
+        },
+        "saucy": {
+          "types": []
+        },
+        "raindrop": {
+          "types": []
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        },
+        "skelly": {
+          "types": []
+        },
+        "calico1": {
+          "types": []
+        },
+        "calico2": {
+          "types": []
+        },
+        "calico3": {
+          "types": []
+        },
+        "twotone": {
+          "types": []
+        },
+        "orca": {
+          "types": []
+        },
+        "dapples": {
+          "types": []
+        },
+        "tiger": {
+          "types": []
+        },
+        "zebra": {
+          "types": []
+        },
+        "stripe": {
+          "types": []
+        },
+        "bubbles": {
+          "types": []
+        },
+        "diamonds": {
+          "types": []
+        },
+        "patches": {
+          "types": []
+        },
+        "forehead1": {
+          "types": []
+        },
+        "mask1": {
+          "types": []
+        },
+        "forehead2": {
+          "types": []
+        },
+        "mask2": {
+          "types": []
+        },
+        "saucy": {
+          "types": []
+        },
+        "raindrop": {
+          "types": []
+        }
+      }
+    },
+    "eggGroups": [
+      "water2",
+      "dragon"
+    ],
+    "dexEntry": {
+      "category": "Fish",
+      "description": "This weak and pathetic Pokémon gets easily pushed along rivers when there are strong currents."
+    }
+  },
+  {
+    "id": "gyarados",
+    "name": "Gyarados",
+    "dexNo": 82,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "flying"
+          ]
+        },
+        "red": {
+          "types": []
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water",
+            "flying"
+          ]
+        },
+        "red": {
+          "types": []
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "water2",
+      "dragon"
+    ],
+    "dexEntry": {
+      "category": "Atrocious",
+      "description": "It appears whenever there is world conflict, burning down any place it travels through."
+    }
+  },
+  {
+    "id": "lapras",
+    "name": "Lapras",
+    "dexNo": 256,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "ice"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water",
+            "ice"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "monster",
+      "water1"
+    ],
+    "dexEntry": {
+      "category": "Transport",
+      "description": "This gentle Pokémon loves to give people rides and provides a very comfortable way to get around."
+    }
+  },
+  {
+    "id": "ditto",
+    "name": "Ditto",
+    "dexNo": 97,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ditto"
+    ],
+    "dexEntry": {
+      "category": "Transform",
+      "description": "When it encounters another Ditto, it will move faster than normal to duplicate that opponent exactly."
+    }
+  },
+  {
+    "id": "eevee",
+    "name": "Eevee",
+    "dexNo": 203,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Evolution",
+      "description": "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment."
+    }
+  },
+  {
+    "id": "vaporeon",
+    "name": "Vaporeon",
+    "dexNo": 204,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Bubble Jet",
+      "description": "As it uses the fins on the tip of its tail to swim, it blends with the water perfectly."
+    }
+  },
+  {
+    "id": "jolteon",
+    "name": "Jolteon",
+    "dexNo": 205,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "electric"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "electric"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Lightning",
+      "description": "The negatively charged ions generated in its fur create a constant sparking noise."
+    }
+  },
+  {
+    "id": "flareon",
+    "name": "Flareon",
+    "dexNo": 206,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Flame",
+      "description": "Once it has stored up enough heat, this Pokémon's body temperature can reach up to 1700 degrees."
+    }
+  },
+  {
+    "id": "porygon",
+    "name": "Porygon",
+    "dexNo": 250,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "mineral"
+    ],
+    "dexEntry": {
+      "category": "Virtual",
+      "description": "An artificial Pokémon created due to extensive research, it can perform only what is in its program."
+    }
+  },
+  {
+    "id": "omanyte",
+    "name": "Omanyte",
+    "dexNo": 257,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "rock",
+            "water"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "rock",
+            "water"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "water1",
+      "water3"
+    ],
+    "dexEntry": {
+      "category": "Spiral",
+      "description": "In prehistoric times, it swam on the sea floor, eating plankton. Its fossils are sometimes found."
+    }
+  },
+  {
+    "id": "omastar",
+    "name": "Omastar",
+    "dexNo": 258,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "rock",
+            "water"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "rock",
+            "water"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "water1",
+      "water3"
+    ],
+    "dexEntry": {
+      "category": "Spiral",
+      "description": "Its heavy shell allowed it to reach only nearby food. This could be the reason it is extinct."
+    }
+  },
+  {
+    "id": "kabuto",
+    "name": "Kabuto",
+    "dexNo": 259,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "rock",
+            "water"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "rock",
+            "water"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "water1",
+      "water3"
+    ],
+    "dexEntry": {
+      "category": "Shellfish",
+      "description": "Three hundred million years ago, it hid on the sea floor. It also has eyes on its back that glow."
+    }
+  },
+  {
+    "id": "kabutops",
+    "name": "Kabutops",
+    "dexNo": 260,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "rock",
+            "water"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "rock",
+            "water"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "water1",
+      "water3"
+    ],
+    "dexEntry": {
+      "category": "Shellfish",
+      "description": "It was able to swim quickly through the water by compactly folding up its razor-sharp sickles."
+    }
+  },
+  {
+    "id": "aerodactyl",
+    "name": "Aerodactyl",
+    "dexNo": 261,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "rock",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "rock",
+            "flying"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "flying"
+    ],
+    "dexEntry": {
+      "category": "Fossil",
+      "description": "In prehistoric times, this Pokémon flew freely and fearlessly through the skies."
+    }
+  },
+  {
+    "id": "snorlax",
+    "name": "Snorlax",
+    "dexNo": 263,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "monster"
+    ],
+    "dexEntry": {
+      "category": "Sleeping",
+      "description": "This Pokémon's stomach is so strong, even eating moldy or rotten food will not affect it."
+    }
+  },
+  {
+    "id": "articuno",
+    "name": "Articuno",
+    "dexNo": 273,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ice",
+            "flying"
+          ]
+        },
+        "galarian": {
+          "types": [
+            "psychic",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ice",
+            "flying"
+          ]
+        },
+        "galarian": {
+          "types": [
+            "psychic",
+            "flying"
+          ]
+        }
+      }
+    },
+    "isLegendary": true,
+    "isFinalEvolution": true,
+    "hasRegionalVariant": true,
+    "hasPolishedChanges": true,
+    "dexEntry": {
+      "category": "Freeze",
+      "description": "Legendary bird Pokémon. As it flies through the sky, it cools the air, causing snow to fall."
+    }
+  },
+  {
+    "id": "zapdos",
+    "name": "Zapdos",
+    "dexNo": 274,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "electric",
+            "flying"
+          ]
+        },
+        "galarian": {
+          "types": [
+            "fighting",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "electric",
+            "flying"
+          ]
+        },
+        "galarian": {
+          "types": [
+            "fighting",
+            "flying"
+          ]
+        }
+      }
+    },
+    "isLegendary": true,
+    "isFinalEvolution": true,
+    "hasRegionalVariant": true,
+    "hasPolishedChanges": true,
+    "dexEntry": {
+      "category": "Electric",
+      "description": "Legendary bird Pokémon. They say lightning caused by the flapping of its wings causes summer storms."
+    }
+  },
+  {
+    "id": "moltres",
+    "name": "Moltres",
+    "dexNo": 275,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fire",
+            "flying"
+          ]
+        },
+        "galarian": {
+          "types": [
+            "dark",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fire",
+            "flying"
+          ]
+        },
+        "galarian": {
+          "types": [
+            "dark",
+            "flying"
+          ]
+        }
+      }
+    },
+    "isLegendary": true,
+    "isFinalEvolution": true,
+    "hasRegionalVariant": true,
+    "hasPolishedChanges": true,
+    "dexEntry": {
+      "category": "Flame",
+      "description": "Legendary bird Pokémon. It is said to migrate from the south along with the spring."
+    }
+  },
+  {
+    "id": "dratini",
+    "name": "Dratini",
+    "dexNo": 279,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "dragon"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "dragon"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "water1",
+      "dragon"
+    ],
+    "dexEntry": {
+      "category": "Dragon",
+      "description": "It sheds many layers of skin as it grows larger. During this process, it is protected by a rapid waterfall."
+    }
+  },
+  {
+    "id": "dragonair",
+    "name": "Dragonair",
+    "dexNo": 280,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "dragon"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "dragon"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "water1",
+      "dragon"
+    ],
+    "dexEntry": {
+      "category": "Dragon",
+      "description": "It is called the divine Pokémon. When its entire body brightens slightly, the weather changes."
+    }
+  },
+  {
+    "id": "dragonite",
+    "name": "Dragonite",
+    "dexNo": 281,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "dragon",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "dragon",
+            "flying"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "water1",
+      "dragon"
+    ],
+    "dexEntry": {
+      "category": "Dragon",
+      "description": "It is said that somewhere in the ocean lies an island where these gather. Only they live there."
+    }
+  },
+  {
+    "id": "mewtwo",
+    "name": "Mewtwo",
+    "dexNo": 287,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "psychic"
+          ]
+        },
+        "armored": {
+          "types": [
+            "psychic",
+            "steel"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "psychic"
+          ]
+        },
+        "armored": {
+          "types": []
+        }
+      }
+    },
+    "isLegendary": true,
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "dexEntry": {
+      "category": "Genetic",
+      "description": "Said to rest quietly in an undiscovered cave, this Pokémon was created solely for battling."
+    }
+  },
+  {
+    "id": "mew",
+    "name": "Mew",
+    "dexNo": 288,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "psychic"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "psychic"
+          ]
+        }
+      }
+    },
+    "isLegendary": true,
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "dexEntry": {
+      "category": "New Species",
+      "description": "Because it can learn any move, some people began research to see if it is the ancestor of all Pokémon."
+    }
+  },
+  {
+    "id": "chikorita",
+    "name": "Chikorita",
+    "dexNo": 1,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "grass"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "grass"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "monster",
+      "plant"
+    ],
+    "dexEntry": {
+      "category": "Leaf",
+      "description": "It loves to bask in the sunlight. It uses the leaf on its head to seek out warm places."
+    }
+  },
+  {
+    "id": "bayleef",
+    "name": "Bayleef",
+    "dexNo": 2,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "grass"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "grass"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "monster",
+      "plant"
+    ],
+    "dexEntry": {
+      "category": "Leaf",
+      "description": "The scent that wafts from the leaves on its neck causes anyone who smells it to become energetic."
+    }
+  },
+  {
+    "id": "meganium",
+    "name": "Meganium",
+    "dexNo": 3,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "grass",
+            "fairy"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "grass"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "monster",
+      "plant"
+    ],
+    "dexEntry": {
+      "category": "Herb",
+      "description": "Anyone who stands beside it becomes refreshed, just as if they were relaxing in a sunny forest."
+    }
+  },
+  {
+    "id": "cyndaquil",
+    "name": "Cyndaquil",
+    "dexNo": 4,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Fire Mouse",
+      "description": "The fire that spouts from its back burns hottest when it is angry. The flaring flames intimidate foes."
+    }
+  },
+  {
+    "id": "quilava",
+    "name": "Quilava",
+    "dexNo": 5,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Volcano",
+      "description": "Before battle, it turns its back on its opponent to demonstrate how ferociously its fire blazes."
+    }
+  },
+  {
+    "id": "typhlosion",
+    "name": "Typhlosion",
+    "dexNo": 6,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fire",
+            "ground"
+          ]
+        },
+        "hisuian": {
+          "types": [
+            "fire",
+            "ghost"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        },
+        "hisuian": {
+          "types": [
+            "fire",
+            "ghost"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasRegionalVariant": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Volcano",
+      "description": "When heat from its body causes the air around it to shimmer, this is a sign that it is ready to battle."
+    }
+  },
+  {
+    "id": "totodile",
+    "name": "Totodile",
+    "dexNo": 7,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "monster",
+      "water1"
+    ],
+    "dexEntry": {
+      "category": "Big Jaw",
+      "description": "This rough critter chomps at any moving object it sees. Turning your back on it is not recommended."
+    }
+  },
+  {
+    "id": "croconaw",
+    "name": "Croconaw",
+    "dexNo": 8,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "monster",
+      "water1"
+    ],
+    "dexEntry": {
+      "category": "Big Jaw",
+      "description": "The tips of its fangs are slanted backward. Once those fangs clamp down, the prey has no hope of escape."
+    }
+  },
+  {
+    "id": "feraligatr",
+    "name": "Feraligatr",
+    "dexNo": 9,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "dark"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "monster",
+      "water1"
+    ],
+    "dexEntry": {
+      "category": "Big Jaw",
+      "description": "Although it has a massive body, its powerful hind legs enable it to move quickly, even on the ground."
+    }
+  },
+  {
+    "id": "sentret",
+    "name": "Sentret",
+    "dexNo": 19,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Scout",
+      "description": "When acting as a lookout, it warns others of danger by screeching and hitting the ground with its tail."
+    }
+  },
+  {
+    "id": "furret",
+    "name": "Furret",
+    "dexNo": 20,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Long Body",
+      "description": "It lives in narrow burrows that fit its slim body. The deeper the nests go, the more mazelike they become."
+    }
+  },
+  {
+    "id": "hoothoot",
+    "name": "Hoothoot",
+    "dexNo": 15,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "flying"
+    ],
+    "dexEntry": {
+      "category": "Owl",
+      "description": "It begins to hoot at the same time every day. Some trainers use them in place of clocks."
+    }
+  },
+  {
+    "id": "noctowl",
+    "name": "Noctowl",
+    "dexNo": 16,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ghost",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal",
+            "flying"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "flying"
+    ],
+    "dexEntry": {
+      "category": "Owl",
+      "description": "Its extremely soft feathers make no sound in flight. It silently sneaks up on prey without being detected."
+    }
+  },
+  {
+    "id": "ledyba",
+    "name": "Ledyba",
+    "dexNo": 30,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "bug",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "bug",
+            "flying"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "bug"
+    ],
+    "dexEntry": {
+      "category": "Five Star",
+      "description": "It is timid and clusters together with others. The fluid secreted by its feet indicates its location."
+    }
+  },
+  {
+    "id": "ledian",
+    "name": "Ledian",
+    "dexNo": 31,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "bug",
+            "fighting"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "bug",
+            "flying"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "bug"
+    ],
+    "dexEntry": {
+      "category": "Five Star",
+      "description": "In the daytime when it gets warm, it curls up inside a big leaf and drifts off into a deep slumber."
+    }
+  },
+  {
+    "id": "spinarak",
+    "name": "Spinarak",
+    "dexNo": 32,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "bug",
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "bug",
+            "poison"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "bug"
+    ],
+    "dexEntry": {
+      "category": "String Spit",
+      "description": "If prey becomes ensnared in its nest of spun string, it waits motionlessly until it becomes dark."
+    }
+  },
+  {
+    "id": "ariados",
+    "name": "Ariados",
+    "dexNo": 33,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "bug",
+            "dark"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "bug",
+            "poison"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "bug"
+    ],
+    "dexEntry": {
+      "category": "Long Leg",
+      "description": "Rather than making a nest in one specific spot, it wanders in search of food after darkness falls."
+    }
+  },
+  {
+    "id": "crobat",
+    "name": "Crobat",
+    "dexNo": 39,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "poison",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "poison",
+            "flying"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "flying"
+    ],
+    "dexEntry": {
+      "category": "Bat",
+      "description": "As a result of its pursuit of faster, yet more silent flight, a new set of wings grew on its hind legs."
+    }
+  },
+  {
+    "id": "chinchou",
+    "name": "Chinchou",
+    "dexNo": 195,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "electric"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water",
+            "electric"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "water2"
+    ],
+    "dexEntry": {
+      "category": "Angler",
+      "description": "Its antennae, which evolved from a fin, have both positive and negative charges flowing through them."
+    }
+  },
+  {
+    "id": "lanturn",
+    "name": "Lanturn",
+    "dexNo": 196,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "electric"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water",
+            "electric"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "water2"
+    ],
+    "dexEntry": {
+      "category": "Light",
+      "description": "This Pokémon uses the bright part of its body, which changed from a dorsal fin, to lure prey."
+    }
+  },
+  {
+    "id": "pichu",
+    "name": "Pichu",
+    "dexNo": 21,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "electric"
+          ]
+        },
+        "spikyeared": {
+          "types": []
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "electric"
+          ]
+        },
+        "spikyeared": {
+          "types": []
+        }
+      }
+    },
+    "dexEntry": {
+      "category": "Tiny Mouse",
+      "description": "It is unskilled at storing electric power. Any kind of shock causes it to discharge energy spontaneously."
+    }
+  },
+  {
+    "id": "cleffa",
+    "name": "Cleffa",
+    "dexNo": 40,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fairy"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fairy"
+          ]
+        }
+      }
+    },
+    "dexEntry": {
+      "category": "Star Shape",
+      "description": "If the impact site of a meteorite is found, this Pokémon is certain to be within the immediate area."
+    }
+  },
+  {
+    "id": "igglybuff",
+    "name": "Igglybuff",
+    "dexNo": 43,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal",
+            "fairy"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal",
+            "fairy"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "dexEntry": {
+      "category": "Balloon",
+      "description": "Instead of walking with its short legs, it moves around by bouncing on its soft, tender body."
+    }
+  },
+  {
+    "id": "togepi",
+    "name": "Togepi",
+    "dexNo": 46,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fairy"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fairy"
+          ]
+        }
+      }
+    },
+    "dexEntry": {
+      "category": "Spike Ball",
+      "description": "It is considered to be a symbol of good luck. Its shell is said to be filled with happiness."
+    }
+  },
+  {
+    "id": "togetic",
+    "name": "Togetic",
+    "dexNo": 47,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fairy",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fairy",
+            "flying"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "flying",
+      "fairy"
+    ],
+    "dexEntry": {
+      "category": "Happiness",
+      "description": "Although it does not flap its wings very much, it can stay up in the air as it tags along after its trainer."
+    }
+  },
+  {
+    "id": "natu",
+    "name": "Natu",
+    "dexNo": 178,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "psychic",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "psychic",
+            "flying"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "flying"
+    ],
+    "dexEntry": {
+      "category": "Little Bird",
+      "description": "It is extremely good at climbing tree trunks and likes to eat the new sprouts on the trees."
+    }
+  },
+  {
+    "id": "xatu",
+    "name": "Xatu",
+    "dexNo": 179,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "psychic",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "psychic",
+            "flying"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "flying"
+    ],
+    "dexEntry": {
+      "category": "Mystic",
+      "description": "Once it begins to meditate at sunrise, the entire day will pass before it will move again."
+    }
+  },
+  {
+    "id": "mareep",
+    "name": "Mareep",
+    "dexNo": 55,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "electric"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "electric"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "monster",
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Wool",
+      "description": "It stores lots of air in its soft fur, allowing it to stay cool in summer and warm in winter."
+    }
+  },
+  {
+    "id": "flaaffy",
+    "name": "Flaaffy",
+    "dexNo": 56,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "electric"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "electric"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "monster",
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Wool",
+      "description": "Because of its rubbery, electricity-resistant skin, it can store lots of electricity in its fur."
+    }
+  },
+  {
+    "id": "ampharos",
+    "name": "Ampharos",
+    "dexNo": 57,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "electric",
+            "dragon"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "electric"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "monster",
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Light",
+      "description": "When it gets dark, the light from its bright, shiny tail can be seen from far away on the ocean's surface."
+    }
+  },
+  {
+    "id": "bellossom",
+    "name": "Bellossom",
+    "dexNo": 91,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "grass",
+            "fairy"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "grass"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "plant"
+    ],
+    "dexEntry": {
+      "category": "Flower",
+      "description": "When these dance together, their petals rub against each other, making pretty, relaxing sounds."
+    }
+  },
+  {
+    "id": "marill",
+    "name": "Marill",
+    "dexNo": 141,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "fairy"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water",
+            "fairy"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "water1",
+      "fairy"
+    ],
+    "dexEntry": {
+      "category": "Aqua Mouse",
+      "description": "The fur on its body naturally repels water. It can stay dry, even when it plays in the water."
+    }
+  },
+  {
+    "id": "azumarill",
+    "name": "Azumarill",
+    "dexNo": 142,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "fairy"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water",
+            "fairy"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "water1",
+      "fairy"
+    ],
+    "dexEntry": {
+      "category": "Aqua Rabbit",
+      "description": "The bubble-like pattern on its stomach helps it camouflage itself when it's in the water."
+    }
+  },
+  {
+    "id": "sudowoodo",
+    "name": "Sudowoodo",
+    "dexNo": 113,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "rock"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "rock"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "mineral"
+    ],
+    "dexEntry": {
+      "category": "Imitation",
+      "description": "If a tree branch shakes when there is no wind, it's a Sudowoodo, not a tree. It hides from the rain."
+    }
+  },
+  {
+    "id": "politoed",
+    "name": "Politoed",
+    "dexNo": 80,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "grass"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "water1"
+    ],
+    "dexEntry": {
+      "category": "Frog",
+      "description": "When it expands its throat to croak out a tune, nearby Poliwag and Poliwhirl gather immediately."
+    }
+  },
+  {
+    "id": "hoppip",
+    "name": "Hoppip",
+    "dexNo": 72,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "grass",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "grass",
+            "flying"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "fairy",
+      "plant"
+    ],
+    "dexEntry": {
+      "category": "Cottonweed",
+      "description": "It can be carried away on even the gentlest breeze. It may even float all the way to the next town."
+    }
+  },
+  {
+    "id": "skiploom",
+    "name": "Skiploom",
+    "dexNo": 73,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "grass",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "grass",
+            "flying"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "fairy",
+      "plant"
+    ],
+    "dexEntry": {
+      "category": "Cottonweed",
+      "description": "As soon as it rains, it closes its flower and hides in the shade of a tree to avoid getting wet."
+    }
+  },
+  {
+    "id": "jumpluff",
+    "name": "Jumpluff",
+    "dexNo": 74,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "grass",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "grass",
+            "flying"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "fairy",
+      "plant"
+    ],
+    "dexEntry": {
+      "category": "Cottonweed",
+      "description": "Even in the fiercest wind, it can control its fluff to make its way to any place in the world it wants."
+    }
+  },
+  {
+    "id": "aipom",
+    "name": "Aipom",
+    "dexNo": 130,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Long Tail",
+      "description": "It uses its tail to hang on to tree branches. It uses its momentum to swing from one branch to another."
+    }
+  },
+  {
+    "id": "sunkern",
+    "name": "Sunkern",
+    "dexNo": 108,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "grass"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "grass"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "plant"
+    ],
+    "dexEntry": {
+      "category": "Seed",
+      "description": "It is very weak. Its only means of defense is to shake its leaves desperately at its attacker."
+    }
+  },
+  {
+    "id": "sunflora",
+    "name": "Sunflora",
+    "dexNo": 109,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "grass",
+            "fire"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "grass"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "plant"
+    ],
+    "dexEntry": {
+      "category": "Sun",
+      "description": "As the hot season approaches, the petals on this Pokémon's face become more vivid and lively."
+    }
+  },
+  {
+    "id": "yanma",
+    "name": "Yanma",
+    "dexNo": 106,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "bug",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "bug",
+            "flying"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "bug"
+    ],
+    "dexEntry": {
+      "category": "Clear Wing",
+      "description": "It can see in all directions without moving its big eyes, helping it spot attackers and food right away."
+    }
+  },
+  {
+    "id": "wooper",
+    "name": "Wooper",
+    "dexNo": 58,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "ground"
+          ]
+        },
+        "paldean": {
+          "types": [
+            "poison",
+            "ground"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water",
+            "ground"
+          ]
+        },
+        "paldean": {
+          "types": [
+            "poison",
+            "ground"
+          ]
+        }
+      }
+    },
+    "hasRegionalVariant": true,
+    "eggGroups": [
+      "water1",
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Water Fish",
+      "description": "A mucous membrane covers its body. Touching it barehanded will cause a shooting pain."
+    }
+  },
+  {
+    "id": "quagsire",
+    "name": "Quagsire",
+    "dexNo": 59,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "ground"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water",
+            "ground"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "water1",
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Water Fish",
+      "description": "Its body is always slimy. It often bangs its head on the river bottom as it swims but seems not to care."
+    }
+  },
+  {
+    "id": "espeon",
+    "name": "Espeon",
+    "dexNo": 207,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "psychic"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "psychic"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Sun",
+      "description": "The tip of its forked tail quivers when it is predicting its opponent's next move."
+    }
+  },
+  {
+    "id": "umbreon",
+    "name": "Umbreon",
+    "dexNo": 208,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "dark"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "dark"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Moonlight",
+      "description": "On the night of a full moon, or when it gets excited, the ring patterns on its body glow yellow."
+    }
+  },
+  {
+    "id": "murkrow",
+    "name": "Murkrow",
+    "dexNo": 239,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "dark",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "dark",
+            "flying"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "flying"
+    ],
+    "dexEntry": {
+      "category": "Darkness",
+      "description": "It hides any shiny object it finds in a secret location. Murkrow and Meowth loot one another's stashes."
+    }
+  },
+  {
+    "id": "slowking",
+    "name": "Slowking",
+    "dexNo": 87,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "psychic"
+          ]
+        },
+        "galarian": {
+          "types": [
+            "poison",
+            "psychic"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water",
+            "psychic"
+          ]
+        },
+        "galarian": {
+          "types": [
+            "poison",
+            "psychic"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasRegionalVariant": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "monster",
+      "water1"
+    ],
+    "dexEntry": {
+      "category": "Royal",
+      "description": "Every time it yawns, Shellder injects more poison into it. The poison makes it more intelligent."
+    }
+  },
+  {
+    "id": "misdreavus",
+    "name": "Misdreavus",
+    "dexNo": 248,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ghost"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ghost"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "indeterminate"
+    ],
+    "dexEntry": {
+      "category": "Screech",
+      "description": "It loves to watch people it's scared. It frightens them by screaming loudly or appearing suddenly."
+    }
+  },
+  {
+    "id": "unown",
+    "name": "Unown",
+    "dexNo": 64,
+    "versions": {
+      "polished": {
+        "a": {
+          "types": [
+            "psychic"
+          ]
+        },
+        "b": {
+          "types": []
+        },
+        "c": {
+          "types": []
+        },
+        "d": {
+          "types": []
+        },
+        "e": {
+          "types": []
+        },
+        "f": {
+          "types": []
+        },
+        "g": {
+          "types": []
+        },
+        "h": {
+          "types": []
+        },
+        "i": {
+          "types": []
+        },
+        "j": {
+          "types": []
+        },
+        "k": {
+          "types": []
+        },
+        "l": {
+          "types": []
+        },
+        "m": {
+          "types": []
+        },
+        "n": {
+          "types": []
+        },
+        "o": {
+          "types": []
+        },
+        "p": {
+          "types": []
+        },
+        "q": {
+          "types": []
+        },
+        "r": {
+          "types": []
+        },
+        "s": {
+          "types": []
+        },
+        "t": {
+          "types": []
+        },
+        "u": {
+          "types": []
+        },
+        "v": {
+          "types": []
+        },
+        "w": {
+          "types": []
+        },
+        "x": {
+          "types": []
+        },
+        "y": {
+          "types": []
+        },
+        "z": {
+          "types": []
+        },
+        "exclamation": {
+          "types": []
+        },
+        "question": {
+          "types": []
+        }
+      },
+      "faithful": {
+        "a": {
+          "types": [
+            "psychic"
+          ]
+        },
+        "b": {
+          "types": []
+        },
+        "c": {
+          "types": []
+        },
+        "d": {
+          "types": []
+        },
+        "e": {
+          "types": []
+        },
+        "f": {
+          "types": []
+        },
+        "g": {
+          "types": []
+        },
+        "h": {
+          "types": []
+        },
+        "i": {
+          "types": []
+        },
+        "j": {
+          "types": []
+        },
+        "k": {
+          "types": []
+        },
+        "l": {
+          "types": []
+        },
+        "m": {
+          "types": []
+        },
+        "n": {
+          "types": []
+        },
+        "o": {
+          "types": []
+        },
+        "p": {
+          "types": []
+        },
+        "q": {
+          "types": []
+        },
+        "r": {
+          "types": []
+        },
+        "s": {
+          "types": []
+        },
+        "t": {
+          "types": []
+        },
+        "u": {
+          "types": []
+        },
+        "v": {
+          "types": []
+        },
+        "w": {
+          "types": []
+        },
+        "x": {
+          "types": []
+        },
+        "y": {
+          "types": []
+        },
+        "z": {
+          "types": []
+        },
+        "exclamation": {
+          "types": []
+        },
+        "question": {
+          "types": []
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "dexEntry": {
+      "category": "Symbol",
+      "description": "Because different types of Unown exist, it is said that they must have a variety of abilities."
+    }
+  },
+  {
+    "id": "wobbuffet",
+    "name": "Wobbuffet",
+    "dexNo": 66,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "psychic"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "psychic"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "indeterminate"
+    ],
+    "dexEntry": {
+      "category": "Patient",
+      "description": "In order to conceal its black tail, it lives in a dark cave and only moves about at night."
+    }
+  },
+  {
+    "id": "girafarig",
+    "name": "Girafarig",
+    "dexNo": 160,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "psychic",
+            "dark"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal",
+            "psychic"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Long Neck",
+      "description": "When it is in danger, its tail uses some sort of mysterious powers to drive away the enemy."
+    }
+  },
+  {
+    "id": "pineco",
+    "name": "Pineco",
+    "dexNo": 98,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "bug"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "bug"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "bug"
+    ],
+    "dexEntry": {
+      "category": "Bagworm",
+      "description": "It spits out a fluid that it uses to glue tree bark to its body. The fluid hardens when it touches air."
+    }
+  },
+  {
+    "id": "forretress",
+    "name": "Forretress",
+    "dexNo": 99,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "bug",
+            "steel"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "bug",
+            "steel"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "bug"
+    ],
+    "dexEntry": {
+      "category": "Bagworm",
+      "description": "Usually found hanging on to a fat tree trunk. It shoots out bits of its shell when it sees action."
+    }
+  },
+  {
+    "id": "dunsparce",
+    "name": "Dunsparce",
+    "dexNo": 53,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal",
+            "ground"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Land Snake",
+      "description": "It hides deep inside caves where no light ever reaches it and remains virtually motionless there."
+    }
+  },
+  {
+    "id": "gligar",
+    "name": "Gligar",
+    "dexNo": 215,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ground",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ground",
+            "flying"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "bug"
+    ],
+    "dexEntry": {
+      "category": "FlyScorpion",
+      "description": "It builds its nest on a steep cliff. When it is done gliding, it hops along the ground back to its nest."
+    }
+  },
+  {
+    "id": "steelix",
+    "name": "Steelix",
+    "dexNo": 68,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "steel",
+            "ground"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "steel",
+            "ground"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "mineral"
+    ],
+    "dexEntry": {
+      "category": "Iron Snake",
+      "description": "The many small metal particles that cover this Pokémon's body reflect bright light well."
+    }
+  },
+  {
+    "id": "snubbull",
+    "name": "Snubbull",
+    "dexNo": 132,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fairy"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fairy"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "ground",
+      "fairy"
+    ],
+    "dexEntry": {
+      "category": "Fairy",
+      "description": "In truth, it is a cowardly Pokémon. It growls eagerly in order to hide its fear from its opponent."
+    }
+  },
+  {
+    "id": "granbull",
+    "name": "Granbull",
+    "dexNo": 133,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fairy"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fairy"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "ground",
+      "fairy"
+    ],
+    "dexEntry": {
+      "category": "Fairy",
+      "description": "It can make most any Pokémon run away simply by opening its mouth wide to reveal its big fangs."
+    }
+  },
+  {
+    "id": "qwilfish",
+    "name": "Qwilfish",
+    "dexNo": 180,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "poison"
+          ]
+        },
+        "hisuian": {
+          "types": [
+            "dark",
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water",
+            "poison"
+          ]
+        },
+        "hisuian": {
+          "types": [
+            "dark",
+            "poison"
+          ]
+        }
+      }
+    },
+    "hasRegionalVariant": true,
+    "eggGroups": [
+      "water2"
+    ],
+    "dexEntry": {
+      "category": "Balloon",
+      "description": "When faced with a larger opponent, it swallows as much water as it can to match the opponent's size."
+    }
+  },
+  {
+    "id": "scizor",
+    "name": "Scizor",
+    "dexNo": 117,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "bug",
+            "steel"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "bug",
+            "steel"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "bug"
+    ],
+    "dexEntry": {
+      "category": "Scissors",
+      "description": "This Pokémon's pincers, which contain steel, can crush any hard object it gets a hold of into bits."
+    }
+  },
+  {
+    "id": "shuckle",
+    "name": "Shuckle",
+    "dexNo": 186,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "bug",
+            "rock"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "bug",
+            "rock"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "bug"
+    ],
+    "dexEntry": {
+      "category": "Mold",
+      "description": "The fluid secreted by its toes carves holes in rocks for nesting and can be mixed with Berries to make a drink."
+    }
+  },
+  {
+    "id": "heracross",
+    "name": "Heracross",
+    "dexNo": 120,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "bug",
+            "fighting"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "bug",
+            "fighting"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "bug"
+    ],
+    "dexEntry": {
+      "category": "Single Horn",
+      "description": "With its Herculean powers, it can easily throw around an object that is 100 times its own weight."
+    }
+  },
+  {
+    "id": "sneasel",
+    "name": "Sneasel",
+    "dexNo": 245,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "dark",
+            "ice"
+          ]
+        },
+        "hisuian": {
+          "types": [
+            "poison",
+            "fighting"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "dark",
+            "ice"
+          ]
+        },
+        "hisuian": {
+          "types": [
+            "poison",
+            "fighting"
+          ]
+        }
+      }
+    },
+    "hasRegionalVariant": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Sharp Claw",
+      "description": "This cunning Pokémon hides under the cover of darkness, waiting to attack its prey."
+    }
+  },
+  {
+    "id": "teddiursa",
+    "name": "Teddiursa",
+    "dexNo": 221,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Little Bear",
+      "description": "It always licks honey. Its palm tastes sweet because of all the honey it has absorbed."
+    }
+  },
+  {
+    "id": "ursaring",
+    "name": "Ursaring",
+    "dexNo": 222,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Hibernator",
+      "description": "Although it has a large body, it is quite skilled at climbing trees. It eats and sleeps in the treetops."
+    }
+  },
+  {
+    "id": "slugma",
+    "name": "Slugma",
+    "dexNo": 243,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "indeterminate"
+    ],
+    "dexEntry": {
+      "category": "Lava",
+      "description": "These group together in areas that are hotter than normal. If it cools off, its skin hardens."
+    }
+  },
+  {
+    "id": "magcargo",
+    "name": "Magcargo",
+    "dexNo": 244,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fire",
+            "rock"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fire",
+            "rock"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "indeterminate"
+    ],
+    "dexEntry": {
+      "category": "Lava",
+      "description": "Its body is as hot as lava and is always billowing. Flames will occasionally burst from its shell."
+    }
+  },
+  {
+    "id": "swinub",
+    "name": "Swinub",
+    "dexNo": 218,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ice",
+            "ground"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ice",
+            "ground"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Pig",
+      "description": "It uses the tip of its nose to dig for food. Its nose is so tough that even frozen ground poses no problem."
+    }
+  },
+  {
+    "id": "piloswine",
+    "name": "Piloswine",
+    "dexNo": 219,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ice",
+            "ground"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ice",
+            "ground"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Swine",
+      "description": "Although its legs are short, its rugged hooves prevent it from slipping, even on icy ground."
+    }
+  },
+  {
+    "id": "corsola",
+    "name": "Corsola",
+    "dexNo": 191,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "rock"
+          ]
+        },
+        "galarian": {
+          "types": [
+            "ghost",
+            "rock"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water",
+            "rock"
+          ]
+        },
+        "galarian": {
+          "types": [
+            "ghost"
+          ]
+        }
+      }
+    },
+    "hasRegionalVariant": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "water1",
+      "water3"
+    ],
+    "dexEntry": {
+      "category": "Coral",
+      "description": "The points on its head absorb nutrients from clean water. They cannot survive in polluted water."
+    }
+  },
+  {
+    "id": "remoraid",
+    "name": "Remoraid",
+    "dexNo": 193,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "water1",
+      "water2"
+    ],
+    "dexEntry": {
+      "category": "Jet",
+      "description": "To escape from an attacker, it may shoot water out of its mouth, then use that force to swim backward."
+    }
+  },
+  {
+    "id": "octillery",
+    "name": "Octillery",
+    "dexNo": 194,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "fire"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "water1",
+      "water2"
+    ],
+    "dexEntry": {
+      "category": "Jet",
+      "description": "Its instinct is to bury itself in holes. It often steals the nesting holes of others to sleep in them."
+    }
+  },
+  {
+    "id": "delibird",
+    "name": "Delibird",
+    "dexNo": 217,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ice",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ice",
+            "flying"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "water1",
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Delivery",
+      "description": "It always carries its food with it, wherever it goes. If attacked, it throws its food at the opponent."
+    }
+  },
+  {
+    "id": "mantine",
+    "name": "Mantine",
+    "dexNo": 227,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water",
+            "flying"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "water1"
+    ],
+    "dexEntry": {
+      "category": "Kite",
+      "description": "It swims along freely, eating things that swim into its mouth. Its whole body is very coarse."
+    }
+  },
+  {
+    "id": "skarmory",
+    "name": "Skarmory",
+    "dexNo": 228,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "steel",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "steel",
+            "flying"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "flying"
+    ],
+    "dexEntry": {
+      "category": "Armor Bird",
+      "description": "The feathers that it sheds are very sharp. It is said that people once used the feathers as swords."
+    }
+  },
+  {
+    "id": "houndour",
+    "name": "Houndour",
+    "dexNo": 241,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "dark",
+            "fire"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "dark",
+            "fire"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Dark",
+      "description": "Around dawn, its ominous howl echoes through the area to announce that this is its territory."
+    }
+  },
+  {
+    "id": "houndoom",
+    "name": "Houndoom",
+    "dexNo": 242,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "dark",
+            "fire"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "dark",
+            "fire"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Dark",
+      "description": "The pungentsmelling flame that shoots from its mouth results from toxins burning in its body."
+    }
+  },
+  {
+    "id": "kingdra",
+    "name": "Kingdra",
+    "dexNo": 214,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "dragon"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water",
+            "dragon"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "water1",
+      "dragon"
+    ],
+    "dexEntry": {
+      "category": "Dragon",
+      "description": "It stores energy by sleeping at underwater depths at which no other life forms can survive."
+    }
+  },
+  {
+    "id": "phanpy",
+    "name": "Phanpy",
+    "dexNo": 224,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ground"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ground"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Long Nose",
+      "description": "During the deserted morning hours, it comes ashore where it deftly uses its trunk to take a shower."
+    }
+  },
+  {
+    "id": "donphan",
+    "name": "Donphan",
+    "dexNo": 225,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ground"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ground"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Armor",
+      "description": "Because this Pokémon's skin is so tough, a normal attack won't even leave a scratch on it."
+    }
+  },
+  {
+    "id": "porygon2",
+    "name": "Porygon2",
+    "dexNo": 251,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      }
+    },
+    "eggGroups": [
+      "mineral"
+    ],
+    "dexEntry": {
+      "category": "Virtual",
+      "description": "This man-made Pokémon evolved from the latest technology. It may have unprogrammed reactions."
+    }
+  },
+  {
+    "id": "stantler",
+    "name": "Stantler",
+    "dexNo": 138,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal",
+            "psychic"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Big Horn",
+      "description": "The round balls found on the fallen antlers can be ground into a powder that aids in sleeping."
+    }
+  },
+  {
+    "id": "smeargle",
+    "name": "Smeargle",
+    "dexNo": 175,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Painter",
+      "description": "The color of the mysterious fluid secreted from its tail is predetermined for each Smeargle."
+    }
+  },
+  {
+    "id": "tyrogue",
+    "name": "Tyrogue",
+    "dexNo": 156,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fighting"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fighting"
+          ]
+        }
+      }
+    },
+    "dexEntry": {
+      "category": "Scuffle",
+      "description": "To brush up on its fighting skills, it will challenge anyone. It has a very strong competitive spirit."
+    }
+  },
+  {
+    "id": "hitmontop",
+    "name": "Hitmontop",
+    "dexNo": 159,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fighting"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fighting"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "humanshape"
+    ],
+    "dexEntry": {
+      "category": "Handstand",
+      "description": "After doing a handstand to throw off the opponent's timing, it presents its fancy kick moves."
+    }
+  },
+  {
+    "id": "smoochum",
+    "name": "Smoochum",
+    "dexNo": 167,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ice",
+            "psychic"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ice",
+            "psychic"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "dexEntry": {
+      "category": "Kiss",
+      "description": "The sensitivity of its lips develops most quickly. It uses them to try to identify unknown objects."
+    }
+  },
+  {
+    "id": "elekid",
+    "name": "Elekid",
+    "dexNo": 169,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "electric"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "electric"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "dexEntry": {
+      "category": "Electric",
+      "description": "It loves violent thunder. The space between its horns flickers bluishwhite when it is charging energy."
+    }
+  },
+  {
+    "id": "magby",
+    "name": "Magby",
+    "dexNo": 164,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "dexEntry": {
+      "category": "Live Coal",
+      "description": "It naturally spits an 1100-degree flame. It is said when many appear, it heralds a volcanic eruption."
+    }
+  },
+  {
+    "id": "miltank",
+    "name": "Miltank",
+    "dexNo": 163,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Milk Cow",
+      "description": "In order to milk a Miltank, one must have a knack for rhythmically pulling up and down on its udders."
+    }
+  },
+  {
+    "id": "blissey",
+    "name": "Blissey",
+    "dexNo": 255,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "fairy"
+    ],
+    "dexEntry": {
+      "category": "Happiness",
+      "description": "Biting into one of the delicious eggs that Blissey provides will make everyone around smile with joy."
+    }
+  },
+  {
+    "id": "raikou",
+    "name": "Raikou",
+    "dexNo": 276,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "electric"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "electric"
+          ]
+        }
+      }
+    },
+    "isLegendary": true,
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "dexEntry": {
+      "category": "Thunder",
+      "description": "This rough Pokémon stores energy inside its body, then sweeps across the land, shooting off electricity."
+    }
+  },
+  {
+    "id": "entei",
+    "name": "Entei",
+    "dexNo": 277,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        }
+      }
+    },
+    "isLegendary": true,
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "dexEntry": {
+      "category": "Volcano",
+      "description": "This brawny Pokémon courses around the earth, spouting flames hotter than a volcano's magma."
+    }
+  },
+  {
+    "id": "suicune",
+    "name": "Suicune",
+    "dexNo": 278,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water"
+          ]
+        }
+      }
+    },
+    "isLegendary": true,
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "dexEntry": {
+      "category": "Aurora",
+      "description": "This divine Pokémon blows around the world, always in search of a pure reservoir."
+    }
+  },
+  {
+    "id": "larvitar",
+    "name": "Larvitar",
+    "dexNo": 282,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "rock",
+            "ground"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "rock",
+            "ground"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "monster"
+    ],
+    "dexEntry": {
+      "category": "Rock Skin",
+      "description": "Born deep underground, this Pokémon becomes a pupa after eating enough dirt to make a mountain."
+    }
+  },
+  {
+    "id": "pupitar",
+    "name": "Pupitar",
+    "dexNo": 283,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "rock",
+            "ground"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "rock",
+            "ground"
+          ]
+        }
+      }
+    },
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "monster"
+    ],
+    "dexEntry": {
+      "category": "Hard Shell",
+      "description": "It will not stay still, even while it's a pupa. It already has arms and legs under its solid shell."
+    }
+  },
+  {
+    "id": "tyranitar",
+    "name": "Tyranitar",
+    "dexNo": 284,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "rock",
+            "dark"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "rock",
+            "dark"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "monster"
+    ],
+    "dexEntry": {
+      "category": "Armor",
+      "description": "In just one of its mighty hands, it has the power to make the ground shake and mountains crumble."
+    }
+  },
+  {
+    "id": "lugia",
+    "name": "Lugia",
+    "dexNo": 285,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "psychic",
+            "flying"
+          ]
+        }
+      }
+    },
+    "isLegendary": true,
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "dexEntry": {
+      "category": "Diving",
+      "description": "It has an incredible ability to calm raging storms. It is said that Lugia appears when storms start."
+    }
+  },
+  {
+    "id": "hooh",
+    "name": "Ho-Oh",
+    "dexNo": 286,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fire",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fire",
+            "flying"
+          ]
+        }
+      }
+    },
+    "isLegendary": true,
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "dexEntry": {
+      "category": "Rainbow",
+      "description": "It will reveal itself before a pure-hearted trainer by shining its bright rainbow-colored wings."
+    }
+  },
+  {
+    "id": "celebi",
+    "name": "Celebi",
+    "dexNo": 289,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "grass",
+            "fairy"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "psychic",
+            "grass"
+          ]
+        }
+      }
+    },
+    "isLegendary": true,
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "dexEntry": {
+      "category": "Time Travel",
+      "description": "Revered as a guardian of the forest, Celebi appears wherever beautiful forests exist."
+    }
+  },
+  {
+    "id": "azurill",
+    "name": "Azurill",
+    "dexNo": 140,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal",
+            "fairy"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal",
+            "fairy"
+          ]
+        }
+      }
+    },
+    "dexEntry": {
+      "category": "Polka Dot",
+      "description": "Its tail is filled with the nutrients necessary for growth. It plays by bouncing on its tail."
+    }
+  },
+  {
+    "id": "wynaut",
+    "name": "Wynaut",
+    "dexNo": 65,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "psychic"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "psychic"
+          ]
+        }
+      }
+    },
+    "dexEntry": {
+      "category": "Bright",
+      "description": "It tends to move in a pack. Individuals squash against one another to toughen their spirits."
+    }
+  },
+  {
+    "id": "ambipom",
+    "name": "Ambipom",
+    "dexNo": 131,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Long Tail",
+      "description": "Split in two, the tails are so adept at handling and doing things. Ambipom rarely uses its hands."
+    }
+  },
+  {
+    "id": "mismagius",
+    "name": "Mismagius",
+    "dexNo": 249,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ghost",
+            "fairy"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ghost"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "indeterminate"
+    ],
+    "dexEntry": {
+      "category": "Magical",
+      "description": "Its cries sound like incantations to torment the foe. It appears where you least expect it."
+    }
+  },
+  {
+    "id": "honchkrow",
+    "name": "Honchkrow",
+    "dexNo": 240,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "dark",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "dark",
+            "flying"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "flying"
+    ],
+    "dexEntry": {
+      "category": "Big Boss",
+      "description": "It is merciless by nature. It is said that it never forgives the mistakes of its Murkrow followers."
+    }
+  },
+  {
+    "id": "bonsly",
+    "name": "Bonsly",
+    "dexNo": 112,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "rock"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "rock"
+          ]
+        }
+      }
+    },
+    "dexEntry": {
+      "category": "Bonsai",
+      "description": "It prefers an arid atmposhere. It leaks water that looks like tears when adjusting its moisture levels."
+    }
+  },
+  {
+    "id": "mimejr",
+    "name": "Mime Jr.",
+    "dexNo": 172,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "psychic",
+            "fairy"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "psychic",
+            "fairy"
+          ]
+        }
+      }
+    },
+    "dexEntry": {
+      "category": "Mime",
+      "description": "It mimics the expressions and motions of those it sees to understand the feelings of others."
+    }
+  },
+  {
+    "id": "happiny",
+    "name": "Happiny",
+    "dexNo": 253,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      }
+    },
+    "dexEntry": {
+      "category": "Playhouse",
+      "description": "It carries a round, egg-shaped rock in its belly pouch and gives the rock to its friends."
+    }
+  },
+  {
+    "id": "munchlax",
+    "name": "Munchlax",
+    "dexNo": 262,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      }
+    },
+    "dexEntry": {
+      "category": "Big Eater",
+      "description": "In its desperation to gulp down food, it forgets about the food it has hidden under its fur."
+    }
+  },
+  {
+    "id": "mantyke",
+    "name": "Mantyke",
+    "dexNo": 226,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "water",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "water",
+            "flying"
+          ]
+        }
+      }
+    },
+    "dexEntry": {
+      "category": "Kite",
+      "description": "People organize tours to see this Pokémon frolic and skim the tops of the waves with Remoraid."
+    }
+  },
+  {
+    "id": "weavile",
+    "name": "Weavile",
+    "dexNo": 246,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "dark",
+            "ice"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "dark",
+            "ice"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Sharp Claw",
+      "description": "It lives in snowy regions. It carves patterns in trees with its claws as a signal to others."
+    }
+  },
+  {
+    "id": "magnezone",
+    "name": "Magnezone",
+    "dexNo": 127,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "electric",
+            "steel"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "electric",
+            "steel"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "mineral"
+    ],
+    "dexEntry": {
+      "category": "Magnet Area",
+      "description": "It evolved from exposure to a special magnetic field. Three units generate magnetism."
+    }
+  },
+  {
+    "id": "lickilicky",
+    "name": "Lickilicky",
+    "dexNo": 200,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "monster"
+    ],
+    "dexEntry": {
+      "category": "Licking",
+      "description": "The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness."
+    }
+  },
+  {
+    "id": "rhyperior",
+    "name": "Rhyperior",
+    "dexNo": 238,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "steel",
+            "rock"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ground",
+            "rock"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "monster",
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Drill",
+      "description": "From holes in its palms, it fires out Geodude. Its carapace can withstand volcanic eruptions."
+    }
+  },
+  {
+    "id": "tangrowth",
+    "name": "Tangrowth",
+    "dexNo": 202,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "grass"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "grass"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "plant"
+    ],
+    "dexEntry": {
+      "category": "Vine",
+      "description": "It ensnares prey by extending arms made of vines. Losing arms to predators do not trouble it."
+    }
+  },
+  {
+    "id": "electivire",
+    "name": "Electivire",
+    "dexNo": 171,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "electric",
+            "fighting"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "electric"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "humanshape"
+    ],
+    "dexEntry": {
+      "category": "Thunderbolt",
+      "description": "It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power."
+    }
+  },
+  {
+    "id": "magmortar",
+    "name": "Magmortar",
+    "dexNo": 166,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fire",
+            "fighting"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fire"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "humanshape"
+    ],
+    "dexEntry": {
+      "category": "Blast",
+      "description": "There are still quite a few factories that rely on the flames provided by Magmortar to process metals."
+    }
+  },
+  {
+    "id": "togekiss",
+    "name": "Togekiss",
+    "dexNo": 48,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fairy",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fairy",
+            "flying"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "flying",
+      "fairy"
+    ],
+    "dexEntry": {
+      "category": "Jubilee",
+      "description": "It shares many blessings with people who respect one another's rights and avoid needless strife."
+    }
+  },
+  {
+    "id": "yanmega",
+    "name": "Yanmega",
+    "dexNo": 107,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "bug",
+            "dragon"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "bug",
+            "flying"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "bug"
+    ],
+    "dexEntry": {
+      "category": "Ogre Darner",
+      "description": "Its jaw power is incredible. It is adept at biting apart foes while flying by at high speed."
+    }
+  },
+  {
+    "id": "leafeon",
+    "name": "Leafeon",
+    "dexNo": 209,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "grass"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "grass"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Verdant",
+      "description": "Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air."
+    }
+  },
+  {
+    "id": "glaceon",
+    "name": "Glaceon",
+    "dexNo": 210,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ice"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ice"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Fresh Snow",
+      "description": "It causes small ice crystals to form by lowering the temperature of the surrounding atmosphere."
+    }
+  },
+  {
+    "id": "gliscor",
+    "name": "Gliscor",
+    "dexNo": 216,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ground",
+            "flying"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ground",
+            "flying"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "bug"
+    ],
+    "dexEntry": {
+      "category": "FangScorpio",
+      "description": "Its flight is soundless. It uses its lengthy tail to carry off its prey… Then its fangs do the rest."
+    }
+  },
+  {
+    "id": "mamoswine",
+    "name": "Mamoswine",
+    "dexNo": 220,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ice",
+            "ground"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ice",
+            "ground"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Twin Tusk",
+      "description": "Its impressive tusks are made of ice. The population thinned when it turned warm after the ice age."
+    }
+  },
+  {
+    "id": "porygonz",
+    "name": "Porygon-Z",
+    "dexNo": 252,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "mineral"
+    ],
+    "dexEntry": {
+      "category": "Virtual",
+      "description": "Its programming was modified to enable work in alien dimensions. It did not work as planned."
+    }
+  },
+  {
+    "id": "sylveon",
+    "name": "Sylveon",
+    "dexNo": 211,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fairy"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fairy"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Intertwined",
+      "description": "It wraps its ribbonlike feelers around the arm of its beloved trainer and walks with them."
+    }
+  },
+  {
+    "id": "perrserker",
+    "name": "Perrserker",
+    "dexNo": 150,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "steel"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "steel"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Viking",
+      "description": "After many battles it evolved dangerous claws that come together to form daggers when extended."
+    }
+  },
+  {
+    "id": "cursola",
+    "name": "Cursola",
+    "dexNo": 192,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ghost",
+            "rock"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ghost"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "water1",
+      "water3"
+    ],
+    "dexEntry": {
+      "category": "Coral",
+      "description": "Be cautious of the ectoplasmic body surrounding its soul. You'll become stiff as stone if you touch it."
+    }
+  },
+  {
+    "id": "sirfetchd",
+    "name": "Sirfetch'd",
+    "dexNo": 177,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fighting"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fighting"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "flying",
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Wild Duck",
+      "description": "After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk."
+    }
+  },
+  {
+    "id": "mrrime",
+    "name": "Mr.Rime",
+    "dexNo": 174,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ice",
+            "psychic"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ice",
+            "psychic"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "humanshape"
+    ],
+    "dexEntry": {
+      "category": "Comedian",
+      "description": "It's highly skilled at tap-dancing. It waves its cane of ice in time with its graceful movements."
+    }
+  },
+  {
+    "id": "wyrdeer",
+    "name": "Wyrdeer",
+    "dexNo": 139,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "normal",
+            "psychic"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal",
+            "psychic"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Big Horn",
+      "description": "The fur shed from its beard retains heat well and is a highly useful material for winter clothing."
+    }
+  },
+  {
+    "id": "kleavor",
+    "name": "Kleavor",
+    "dexNo": 118,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "bug",
+            "rock"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "bug",
+            "rock"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "bug"
+    ],
+    "dexEntry": {
+      "category": "Axe",
+      "description": "A violent creature that fells towering trees with its crude axes and shields itself with hard stone."
+    }
+  },
+  {
+    "id": "ursaluna",
+    "name": "Ursaluna",
+    "dexNo": 223,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "ground",
+            "normal"
+          ]
+        },
+        "bloodmoon": {
+          "types": [
+            "ground",
+            "normal"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "ground",
+            "normal"
+          ]
+        },
+        "bloodmoon": {
+          "types": [
+            "ground",
+            "normal"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Peat",
+      "description": "This Pokémon has a burly physique and a newfound capacity to manipulate peat at will."
+    }
+  },
+  {
+    "id": "sneasler",
+    "name": "Sneasler",
+    "dexNo": 247,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "poison",
+            "fighting"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "poison",
+            "fighting"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Free Climb",
+      "description": "It has virulent poison and daunting physical prowess. Preferring solitude, it does not form packs."
+    }
+  },
+  {
+    "id": "overqwil",
+    "name": "Overqwil",
+    "dexNo": 181,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "dark",
+            "poison"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "dark",
+            "poison"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "eggGroups": [
+      "water2"
+    ],
+    "dexEntry": {
+      "category": "Pin Cluster",
+      "description": "Its spikes and savage temperament have earned it the name Sea Fiend. It slurps poison to nourish itself."
+    }
+  },
+  {
+    "id": "dudunsparce",
+    "name": "Dudunsparce",
+    "dexNo": 54,
+    "versions": {
+      "polished": {
+        "twosegment": {
+          "types": [
+            "normal",
+            "dragon"
+          ]
+        },
+        "threesegment": {
+          "types": []
+        }
+      },
+      "faithful": {
+        "twosegment": {
+          "types": [
+            "normal"
+          ]
+        },
+        "threesegment": {
+          "types": []
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "dexEntry": {
+      "category": "Land Snake",
+      "description": "It makes its nest with its hard tail by boring holes into deep bedrock. The nest can reach over six miles."
+    }
+  },
+  {
+    "id": "farigiraf",
+    "name": "Farigiraf",
+    "dexNo": 161,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "psychic",
+            "dark"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "normal",
+            "psychic"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Long Neck",
+      "description": "Now that the brain waves from its head and tail are synced up, its psychic power is 10 times stronger."
+    }
+  },
+  {
+    "id": "clodsire",
+    "name": "Clodsire",
+    "dexNo": 60,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "poison",
+            "ground"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "poison",
+            "ground"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "water1",
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Spiny Fish",
+      "description": "When attacked, it will retaliate by sticking thick spines out from its body. It's a risky move."
+    }
+  },
+  {
+    "id": "annihilape",
+    "name": "Annihilape",
+    "dexNo": 147,
+    "versions": {
+      "polished": {
+        "plain": {
+          "types": [
+            "fighting",
+            "ghost"
+          ]
+        }
+      },
+      "faithful": {
+        "plain": {
+          "types": [
+            "fighting",
+            "ghost"
+          ]
+        }
+      }
+    },
+    "isFinalEvolution": true,
+    "hasPolishedChanges": true,
+    "eggGroups": [
+      "ground"
+    ],
+    "dexEntry": {
+      "category": "Rage Monkey",
+      "description": "When its anger rose beyond a critical point, it gained power unfettered by its physical body."
+    }
+  }
+]

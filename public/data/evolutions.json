@@ -1,0 +1,3923 @@
+{
+  "abra": {
+    "id": "abra",
+    "relatedPokemon": [
+      "abra",
+      "alakazam",
+      "kadabra"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "abra",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "kadabra",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 16
+          }
+        },
+        {
+          "from": {
+            "name": "kadabra",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "alakazam",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "trade",
+            "parameter": "linkingcord"
+          }
+        }
+      ]
+    ]
+  },
+  "aipom": {
+    "id": "aipom",
+    "relatedPokemon": [
+      "aipom",
+      "ambipom"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "aipom",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "ambipom",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "move",
+            "parameter": "doubleslap"
+          }
+        }
+      ]
+    ]
+  },
+  "ampharos": {
+    "id": "ampharos",
+    "relatedPokemon": [
+      "ampharos",
+      "flaaffy",
+      "mareep"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "mareep",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "flaaffy",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 15
+          }
+        },
+        {
+          "from": {
+            "name": "flaaffy",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "ampharos",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 36
+          }
+        }
+      ]
+    ]
+  },
+  "annihilape": {
+    "id": "annihilape",
+    "relatedPokemon": [
+      "annihilape",
+      "mankey",
+      "primeape"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "mankey",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "primeape",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 28
+          }
+        },
+        {
+          "from": {
+            "name": "primeape",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "annihilape",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "move",
+            "parameter": "outrage"
+          }
+        }
+      ]
+    ]
+  },
+  "arbok": {
+    "id": "arbok",
+    "relatedPokemon": [
+      "arbok",
+      "ekans"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "ekans",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "arbok",
+            "formName": "johtonian"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 22
+          }
+        }
+      ]
+    ]
+  },
+  "arcanine": {
+    "id": "arcanine",
+    "relatedPokemon": [
+      "arcanine",
+      "growlithe"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "growlithe",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "arcanine",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "firestone"
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "growlithe",
+            "formName": "hisuian"
+          },
+          "to": {
+            "name": "arcanine",
+            "formName": "hisuian"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "firestone"
+          }
+        }
+      ]
+    ]
+  },
+  "ariados": {
+    "id": "ariados",
+    "relatedPokemon": [
+      "ariados",
+      "spinarak"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "spinarak",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "ariados",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 22
+          }
+        }
+      ]
+    ]
+  },
+  "azumarill": {
+    "id": "azumarill",
+    "relatedPokemon": [
+      "azumarill",
+      "azurill",
+      "marill"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "azurill",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "marill",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "happiness",
+            "timeOfDay": "anytime"
+          }
+        },
+        {
+          "from": {
+            "name": "marill",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "azumarill",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 18
+          }
+        }
+      ]
+    ]
+  },
+  "bayleef": {
+    "id": "bayleef",
+    "relatedPokemon": [
+      "bayleef",
+      "chikorita",
+      "meganium"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "chikorita",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "bayleef",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 16
+          }
+        },
+        {
+          "from": {
+            "name": "bayleef",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "meganium",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 32
+          }
+        }
+      ]
+    ]
+  },
+  "beedrill": {
+    "id": "beedrill",
+    "relatedPokemon": [
+      "beedrill",
+      "kakuna",
+      "weedle"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "weedle",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "kakuna",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 7
+          }
+        },
+        {
+          "from": {
+            "name": "kakuna",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "beedrill",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 10
+          }
+        }
+      ]
+    ]
+  },
+  "bellossom": {
+    "id": "bellossom",
+    "relatedPokemon": [
+      "bellossom",
+      "gloom",
+      "oddish",
+      "vileplume"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "oddish",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "gloom",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 21
+          }
+        },
+        {
+          "from": {
+            "name": "gloom",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "bellossom",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "sunstone"
+          }
+        }
+      ]
+    ]
+  },
+  "bellsprout": {
+    "id": "bellsprout",
+    "relatedPokemon": [
+      "bellsprout",
+      "victreebel",
+      "weepinbell"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "bellsprout",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "weepinbell",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 21
+          }
+        },
+        {
+          "from": {
+            "name": "weepinbell",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "victreebel",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "leafstone"
+          }
+        }
+      ]
+    ]
+  },
+  "blastoise": {
+    "id": "blastoise",
+    "relatedPokemon": [
+      "blastoise",
+      "squirtle",
+      "wartortle"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "squirtle",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "wartortle",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 16
+          }
+        },
+        {
+          "from": {
+            "name": "wartortle",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "blastoise",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 36
+          }
+        }
+      ]
+    ]
+  },
+  "blissey": {
+    "id": "blissey",
+    "relatedPokemon": [
+      "blissey",
+      "chansey",
+      "happiny"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "happiny",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "chansey",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "holding",
+            "parameter": "ovalstone",
+            "timeOfDay": "mornday"
+          }
+        },
+        {
+          "from": {
+            "name": "chansey",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "blissey",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "happiness",
+            "timeOfDay": "anytime"
+          }
+        }
+      ]
+    ]
+  },
+  "bonsly": {
+    "id": "bonsly",
+    "relatedPokemon": [
+      "bonsly",
+      "sudowoodo"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "bonsly",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "sudowoodo",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "move",
+            "parameter": "rockthrow"
+          }
+        }
+      ]
+    ]
+  },
+  "bulbasaur": {
+    "id": "bulbasaur",
+    "relatedPokemon": [
+      "bulbasaur",
+      "ivysaur",
+      "venusaur"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "bulbasaur",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "ivysaur",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 16
+          }
+        },
+        {
+          "from": {
+            "name": "ivysaur",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "venusaur",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 32
+          }
+        }
+      ]
+    ]
+  },
+  "butterfree": {
+    "id": "butterfree",
+    "relatedPokemon": [
+      "butterfree",
+      "caterpie",
+      "metapod"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "caterpie",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "metapod",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 7
+          }
+        },
+        {
+          "from": {
+            "name": "metapod",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "butterfree",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 10
+          }
+        }
+      ]
+    ]
+  },
+  "charizard": {
+    "id": "charizard",
+    "relatedPokemon": [
+      "charizard",
+      "charmander",
+      "charmeleon"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "charmander",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "charmeleon",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 16
+          }
+        },
+        {
+          "from": {
+            "name": "charmeleon",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "charizard",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 36
+          }
+        }
+      ]
+    ]
+  },
+  "chinchou": {
+    "id": "chinchou",
+    "relatedPokemon": [
+      "chinchou",
+      "lanturn"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "chinchou",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "lanturn",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 27
+          }
+        }
+      ]
+    ]
+  },
+  "clefable": {
+    "id": "clefable",
+    "relatedPokemon": [
+      "clefable",
+      "clefairy",
+      "cleffa"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "cleffa",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "clefairy",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "happiness",
+            "timeOfDay": "anytime"
+          }
+        },
+        {
+          "from": {
+            "name": "clefairy",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "clefable",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "moonstone"
+          }
+        }
+      ]
+    ]
+  },
+  "clodsire": {
+    "id": "clodsire",
+    "relatedPokemon": [
+      "clodsire",
+      "quagsire",
+      "wooper"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "wooper",
+            "formName": "paldean"
+          },
+          "to": {
+            "name": "clodsire",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 20
+          }
+        }
+      ]
+    ]
+  },
+  "cloyster": {
+    "id": "cloyster",
+    "relatedPokemon": [
+      "cloyster",
+      "shellder"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "shellder",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "cloyster",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "waterstone"
+          }
+        }
+      ]
+    ]
+  },
+  "corsola": {
+    "id": "corsola",
+    "relatedPokemon": [
+      "corsola",
+      "cursola"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "corsola",
+            "formName": "galarian"
+          },
+          "to": {
+            "name": "cursola",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 38
+          }
+        }
+      ]
+    ]
+  },
+  "crobat": {
+    "id": "crobat",
+    "relatedPokemon": [
+      "crobat",
+      "golbat",
+      "zubat"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "zubat",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "golbat",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 22
+          }
+        },
+        {
+          "from": {
+            "name": "golbat",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "crobat",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "happiness",
+            "timeOfDay": "anytime"
+          }
+        }
+      ]
+    ]
+  },
+  "croconaw": {
+    "id": "croconaw",
+    "relatedPokemon": [
+      "croconaw",
+      "feraligatr",
+      "totodile"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "totodile",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "croconaw",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 18
+          }
+        },
+        {
+          "from": {
+            "name": "croconaw",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "feraligatr",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 30
+          }
+        }
+      ]
+    ]
+  },
+  "cubone": {
+    "id": "cubone",
+    "relatedPokemon": [
+      "cubone",
+      "marowak"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "cubone",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "marowak",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 28
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "cubone",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "marowak",
+            "formName": "alolan"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "oddsouvenir"
+          }
+        }
+      ]
+    ]
+  },
+  "cyndaquil": {
+    "id": "cyndaquil",
+    "relatedPokemon": [
+      "cyndaquil",
+      "quilava",
+      "typhlosion"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "cyndaquil",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "quilava",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 14
+          }
+        },
+        {
+          "from": {
+            "name": "quilava",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "typhlosion",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 36
+          }
+        }
+      ]
+    ]
+  },
+  "dewgong": {
+    "id": "dewgong",
+    "relatedPokemon": [
+      "dewgong",
+      "seel"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "seel",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "dewgong",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 34
+          }
+        }
+      ]
+    ]
+  },
+  "diglett": {
+    "id": "diglett",
+    "relatedPokemon": [
+      "diglett",
+      "dugtrio"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "diglett",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "dugtrio",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 26
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "diglett",
+            "formName": "alolan"
+          },
+          "to": {
+            "name": "dugtrio",
+            "formName": "alolan"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 26
+          }
+        }
+      ]
+    ]
+  },
+  "dodrio": {
+    "id": "dodrio",
+    "relatedPokemon": [
+      "dodrio",
+      "doduo"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "doduo",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "dodrio",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 31
+          }
+        }
+      ]
+    ]
+  },
+  "donphan": {
+    "id": "donphan",
+    "relatedPokemon": [
+      "donphan",
+      "phanpy"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "phanpy",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "donphan",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 25
+          }
+        }
+      ]
+    ]
+  },
+  "dragonair": {
+    "id": "dragonair",
+    "relatedPokemon": [
+      "dragonair",
+      "dragonite",
+      "dratini"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "dratini",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "dragonair",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 30
+          }
+        },
+        {
+          "from": {
+            "name": "dragonair",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "dragonite",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 55
+          }
+        }
+      ]
+    ]
+  },
+  "drowzee": {
+    "id": "drowzee",
+    "relatedPokemon": [
+      "drowzee",
+      "hypno"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "drowzee",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "hypno",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 26
+          }
+        }
+      ]
+    ]
+  },
+  "dudunsparce": {
+    "id": "dudunsparce",
+    "relatedPokemon": [
+      "dudunsparce",
+      "dunsparce"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "dunsparce",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "dudunsparce",
+            "formName": "twosegment"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 32
+          }
+        }
+      ]
+    ]
+  },
+  "eevee": {
+    "id": "eevee",
+    "relatedPokemon": [
+      "eevee",
+      "espeon",
+      "flareon",
+      "glaceon",
+      "jolteon",
+      "leafeon",
+      "sylveon",
+      "umbreon",
+      "vaporeon"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "eevee",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "jolteon",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "thunderstone"
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "eevee",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "vaporeon",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "waterstone"
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "eevee",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "flareon",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "firestone"
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "eevee",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "espeon",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "sunstone"
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "eevee",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "umbreon",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "moonstone"
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "eevee",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "leafeon",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "leafstone"
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "eevee",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "glaceon",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "icestone"
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "eevee",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "sylveon",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "shinystone"
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "eevee",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "leafeon",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "location",
+            "parameter": "ilexforest"
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "eevee",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "glaceon",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "location",
+            "parameter": "icepath"
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "eevee",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "espeon",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "happiness",
+            "timeOfDay": "mornday"
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "eevee",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "umbreon",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "happiness",
+            "timeOfDay": "evenite"
+          }
+        }
+      ]
+    ]
+  },
+  "electabuzz": {
+    "id": "electabuzz",
+    "relatedPokemon": [
+      "electabuzz",
+      "electivire",
+      "elekid"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "elekid",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "electabuzz",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 30
+          }
+        },
+        {
+          "from": {
+            "name": "electabuzz",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "electivire",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "trade",
+            "parameter": "electirizer"
+          }
+        }
+      ]
+    ]
+  },
+  "electrode": {
+    "id": "electrode",
+    "relatedPokemon": [
+      "electrode",
+      "voltorb"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "voltorb",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "electrode",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 30
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "voltorb",
+            "formName": "hisuian"
+          },
+          "to": {
+            "name": "electrode",
+            "formName": "hisuian"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "leafstone"
+          }
+        }
+      ]
+    ]
+  },
+  "exeggcute": {
+    "id": "exeggcute",
+    "relatedPokemon": [
+      "exeggcute",
+      "exeggutor"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "exeggcute",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "exeggutor",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "leafstone"
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "exeggcute",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "exeggutor",
+            "formName": "alolan"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "oddsouvenir"
+          }
+        }
+      ]
+    ]
+  },
+  "farfetchd": {
+    "id": "farfetchd",
+    "relatedPokemon": [
+      "farfetchd",
+      "sirfetchd"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "farfetchd",
+            "formName": "galarian"
+          },
+          "to": {
+            "name": "sirfetchd",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "crit",
+            "timeOfDay": "anytime"
+          }
+        }
+      ]
+    ]
+  },
+  "farigiraf": {
+    "id": "farigiraf",
+    "relatedPokemon": [
+      "farigiraf",
+      "girafarig"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "girafarig",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "farigiraf",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "move",
+            "parameter": "zenheadbutt"
+          }
+        }
+      ]
+    ]
+  },
+  "fearow": {
+    "id": "fearow",
+    "relatedPokemon": [
+      "fearow",
+      "spearow"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "spearow",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "fearow",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 20
+          }
+        }
+      ]
+    ]
+  },
+  "forretress": {
+    "id": "forretress",
+    "relatedPokemon": [
+      "forretress",
+      "pineco"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "pineco",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "forretress",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 31
+          }
+        }
+      ]
+    ]
+  },
+  "furret": {
+    "id": "furret",
+    "relatedPokemon": [
+      "furret",
+      "sentret"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "sentret",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "furret",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 15
+          }
+        }
+      ]
+    ]
+  },
+  "gastly": {
+    "id": "gastly",
+    "relatedPokemon": [
+      "gastly",
+      "gengar",
+      "haunter"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "gastly",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "haunter",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 25
+          }
+        },
+        {
+          "from": {
+            "name": "haunter",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "gengar",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "trade",
+            "parameter": "linkingcord"
+          }
+        }
+      ]
+    ]
+  },
+  "geodude": {
+    "id": "geodude",
+    "relatedPokemon": [
+      "geodude",
+      "golem",
+      "graveler"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "geodude",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "graveler",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 25
+          }
+        },
+        {
+          "from": {
+            "name": "graveler",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "golem",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "trade",
+            "parameter": "linkingcord"
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "geodude",
+            "formName": "alolan"
+          },
+          "to": {
+            "name": "graveler",
+            "formName": "alolan"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 25
+          }
+        },
+        {
+          "from": {
+            "name": "graveler",
+            "formName": "alolan"
+          },
+          "to": {
+            "name": "golem",
+            "formName": "alolan"
+          },
+          "method": {
+            "action": "trade",
+            "parameter": "linkingcord"
+          }
+        }
+      ]
+    ]
+  },
+  "gligar": {
+    "id": "gligar",
+    "relatedPokemon": [
+      "gligar",
+      "gliscor"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "gligar",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "gliscor",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "holding",
+            "parameter": "razorfang",
+            "timeOfDay": "evenite"
+          }
+        }
+      ]
+    ]
+  },
+  "goldeen": {
+    "id": "goldeen",
+    "relatedPokemon": [
+      "goldeen",
+      "seaking"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "goldeen",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "seaking",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 33
+          }
+        }
+      ]
+    ]
+  },
+  "golduck": {
+    "id": "golduck",
+    "relatedPokemon": [
+      "golduck",
+      "psyduck"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "psyduck",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "golduck",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 33
+          }
+        }
+      ]
+    ]
+  },
+  "granbull": {
+    "id": "granbull",
+    "relatedPokemon": [
+      "granbull",
+      "snubbull"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "snubbull",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "granbull",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 23
+          }
+        }
+      ]
+    ]
+  },
+  "grimer": {
+    "id": "grimer",
+    "relatedPokemon": [
+      "grimer",
+      "muk"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "grimer",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "muk",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 38
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "grimer",
+            "formName": "alolan"
+          },
+          "to": {
+            "name": "muk",
+            "formName": "alolan"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 38
+          }
+        }
+      ]
+    ]
+  },
+  "gyarados": {
+    "id": "gyarados",
+    "relatedPokemon": [
+      "gyarados",
+      "magikarp"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "magikarp",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "gyarados",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 20
+          }
+        }
+      ]
+    ]
+  },
+  "hitmonchan": {
+    "id": "hitmonchan",
+    "relatedPokemon": [
+      "hitmonchan",
+      "hitmonlee",
+      "hitmontop",
+      "tyrogue"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "tyrogue",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "hitmonchan",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "stat",
+            "parameter": "atkltdef"
+          }
+        }
+      ]
+    ]
+  },
+  "honchkrow": {
+    "id": "honchkrow",
+    "relatedPokemon": [
+      "honchkrow",
+      "murkrow"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "murkrow",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "honchkrow",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "duskstone"
+          }
+        }
+      ]
+    ]
+  },
+  "hoothoot": {
+    "id": "hoothoot",
+    "relatedPokemon": [
+      "hoothoot",
+      "noctowl"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "hoothoot",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "noctowl",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 20
+          }
+        }
+      ]
+    ]
+  },
+  "hoppip": {
+    "id": "hoppip",
+    "relatedPokemon": [
+      "hoppip",
+      "jumpluff",
+      "skiploom"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "hoppip",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "skiploom",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 18
+          }
+        },
+        {
+          "from": {
+            "name": "skiploom",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "jumpluff",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 27
+          }
+        }
+      ]
+    ]
+  },
+  "horsea": {
+    "id": "horsea",
+    "relatedPokemon": [
+      "horsea",
+      "kingdra",
+      "seadra"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "horsea",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "seadra",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 32
+          }
+        },
+        {
+          "from": {
+            "name": "seadra",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "kingdra",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "trade",
+            "parameter": "dragonscale"
+          }
+        }
+      ]
+    ]
+  },
+  "houndoom": {
+    "id": "houndoom",
+    "relatedPokemon": [
+      "houndoom",
+      "houndour"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "houndour",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "houndoom",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 24
+          }
+        }
+      ]
+    ]
+  },
+  "igglybuff": {
+    "id": "igglybuff",
+    "relatedPokemon": [
+      "igglybuff",
+      "jigglypuff",
+      "wigglytuff"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "igglybuff",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "jigglypuff",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "happiness",
+            "timeOfDay": "anytime"
+          }
+        },
+        {
+          "from": {
+            "name": "jigglypuff",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "wigglytuff",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "moonstone"
+          }
+        }
+      ]
+    ]
+  },
+  "jynx": {
+    "id": "jynx",
+    "relatedPokemon": [
+      "jynx",
+      "smoochum"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "smoochum",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "jynx",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 30
+          }
+        }
+      ]
+    ]
+  },
+  "kabuto": {
+    "id": "kabuto",
+    "relatedPokemon": [
+      "kabuto",
+      "kabutops"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "kabuto",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "kabutops",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 40
+          }
+        }
+      ]
+    ]
+  },
+  "kingler": {
+    "id": "kingler",
+    "relatedPokemon": [
+      "kingler",
+      "krabby"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "krabby",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "kingler",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 28
+          }
+        }
+      ]
+    ]
+  },
+  "kleavor": {
+    "id": "kleavor",
+    "relatedPokemon": [
+      "kleavor",
+      "scizor",
+      "scyther"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "scyther",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "kleavor",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "holding",
+            "parameter": "hardstone",
+            "timeOfDay": "anytime"
+          }
+        }
+      ]
+    ]
+  },
+  "koffing": {
+    "id": "koffing",
+    "relatedPokemon": [
+      "koffing",
+      "weezing"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "koffing",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "weezing",
+            "formName": "galarian"
+          },
+          "method": {
+            "action": "trade",
+            "parameter": "charcoal"
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "koffing",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "weezing",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 35
+          }
+        }
+      ]
+    ]
+  },
+  "larvitar": {
+    "id": "larvitar",
+    "relatedPokemon": [
+      "larvitar",
+      "pupitar",
+      "tyranitar"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "larvitar",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "pupitar",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 30
+          }
+        },
+        {
+          "from": {
+            "name": "pupitar",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "tyranitar",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 55
+          }
+        }
+      ]
+    ]
+  },
+  "ledian": {
+    "id": "ledian",
+    "relatedPokemon": [
+      "ledian",
+      "ledyba"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "ledyba",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "ledian",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 18
+          }
+        }
+      ]
+    ]
+  },
+  "lickilicky": {
+    "id": "lickilicky",
+    "relatedPokemon": [
+      "lickilicky",
+      "lickitung"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "lickitung",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "lickilicky",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "move",
+            "parameter": "rollout"
+          }
+        }
+      ]
+    ]
+  },
+  "machamp": {
+    "id": "machamp",
+    "relatedPokemon": [
+      "machamp",
+      "machoke",
+      "machop"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "machop",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "machoke",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 28
+          }
+        },
+        {
+          "from": {
+            "name": "machoke",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "machamp",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "trade",
+            "parameter": "linkingcord"
+          }
+        }
+      ]
+    ]
+  },
+  "magby": {
+    "id": "magby",
+    "relatedPokemon": [
+      "magby",
+      "magmar",
+      "magmortar"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "magby",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "magmar",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 30
+          }
+        },
+        {
+          "from": {
+            "name": "magmar",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "magmortar",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "trade",
+            "parameter": "magmarizer"
+          }
+        }
+      ]
+    ]
+  },
+  "magcargo": {
+    "id": "magcargo",
+    "relatedPokemon": [
+      "magcargo",
+      "slugma"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "slugma",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "magcargo",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 38
+          }
+        }
+      ]
+    ]
+  },
+  "magnemite": {
+    "id": "magnemite",
+    "relatedPokemon": [
+      "magnemite",
+      "magneton",
+      "magnezone"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "magnemite",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "magneton",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 30
+          }
+        },
+        {
+          "from": {
+            "name": "magneton",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "magnezone",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "thunderstone"
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "magnemite",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "magneton",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 30
+          }
+        },
+        {
+          "from": {
+            "name": "magneton",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "magnezone",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "location",
+            "parameter": "magnettunnel"
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "magnemite",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "magneton",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 30
+          }
+        },
+        {
+          "from": {
+            "name": "magneton",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "magnezone",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "location",
+            "parameter": "dimcave"
+          }
+        }
+      ]
+    ]
+  },
+  "mamoswine": {
+    "id": "mamoswine",
+    "relatedPokemon": [
+      "mamoswine",
+      "piloswine",
+      "swinub"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "swinub",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "piloswine",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 33
+          }
+        },
+        {
+          "from": {
+            "name": "piloswine",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "mamoswine",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "move",
+            "parameter": "ancientpower"
+          }
+        }
+      ]
+    ]
+  },
+  "mantine": {
+    "id": "mantine",
+    "relatedPokemon": [
+      "mantine",
+      "mantyke"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "mantyke",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "mantine",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "party",
+            "parameter": "remoraid"
+          }
+        }
+      ]
+    ]
+  },
+  "meowth": {
+    "id": "meowth",
+    "relatedPokemon": [
+      "meowth",
+      "perrserker",
+      "persian"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "meowth",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "persian",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 28
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "meowth",
+            "formName": "alolan"
+          },
+          "to": {
+            "name": "persian",
+            "formName": "alolan"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 28
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "meowth",
+            "formName": "galarian"
+          },
+          "to": {
+            "name": "perrserker",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 28
+          }
+        }
+      ]
+    ]
+  },
+  "mimejr": {
+    "id": "mimejr",
+    "relatedPokemon": [
+      "mimejr",
+      "mrmime",
+      "mrrime"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "mimejr",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "mrmime",
+            "formName": "galarian"
+          },
+          "method": {
+            "action": "location",
+            "parameter": "icepath"
+          }
+        },
+        {
+          "from": {
+            "name": "mrmime",
+            "formName": "galarian"
+          },
+          "to": {
+            "name": "mrrime",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 42
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "mimejr",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "mrmime",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 30
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "mimejr",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "mrmime",
+            "formName": "galarian"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "icestone"
+          }
+        },
+        {
+          "from": {
+            "name": "mrmime",
+            "formName": "galarian"
+          },
+          "to": {
+            "name": "mrrime",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 42
+          }
+        }
+      ]
+    ]
+  },
+  "misdreavus": {
+    "id": "misdreavus",
+    "relatedPokemon": [
+      "misdreavus",
+      "mismagius"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "misdreavus",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "mismagius",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "duskstone"
+          }
+        }
+      ]
+    ]
+  },
+  "munchlax": {
+    "id": "munchlax",
+    "relatedPokemon": [
+      "munchlax",
+      "snorlax"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "munchlax",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "snorlax",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "happiness",
+            "timeOfDay": "anytime"
+          }
+        }
+      ]
+    ]
+  },
+  "natu": {
+    "id": "natu",
+    "relatedPokemon": [
+      "natu",
+      "xatu"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "natu",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "xatu",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 25
+          }
+        }
+      ]
+    ]
+  },
+  "nidoking": {
+    "id": "nidoking",
+    "relatedPokemon": [
+      "nidoking",
+      "nidoranm",
+      "nidorino"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "nidoranm",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "nidorino",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 16
+          }
+        },
+        {
+          "from": {
+            "name": "nidorino",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "nidoking",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "moonstone"
+          }
+        }
+      ]
+    ]
+  },
+  "nidoqueen": {
+    "id": "nidoqueen",
+    "relatedPokemon": [
+      "nidoqueen",
+      "nidoranf",
+      "nidorina"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "nidoranf",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "nidorina",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 16
+          }
+        },
+        {
+          "from": {
+            "name": "nidorina",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "nidoqueen",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "moonstone"
+          }
+        }
+      ]
+    ]
+  },
+  "ninetales": {
+    "id": "ninetales",
+    "relatedPokemon": [
+      "ninetales",
+      "vulpix"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "vulpix",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "ninetales",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "firestone"
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "vulpix",
+            "formName": "alolan"
+          },
+          "to": {
+            "name": "ninetales",
+            "formName": "alolan"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "icestone"
+          }
+        }
+      ]
+    ]
+  },
+  "octillery": {
+    "id": "octillery",
+    "relatedPokemon": [
+      "octillery",
+      "remoraid"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "remoraid",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "octillery",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 25
+          }
+        }
+      ]
+    ]
+  },
+  "omanyte": {
+    "id": "omanyte",
+    "relatedPokemon": [
+      "omanyte",
+      "omastar"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "omanyte",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "omastar",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 40
+          }
+        }
+      ]
+    ]
+  },
+  "onix": {
+    "id": "onix",
+    "relatedPokemon": [
+      "onix",
+      "steelix"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "onix",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "steelix",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "trade",
+            "parameter": "metalcoat"
+          }
+        }
+      ]
+    ]
+  },
+  "overqwil": {
+    "id": "overqwil",
+    "relatedPokemon": [
+      "overqwil",
+      "qwilfish"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "qwilfish",
+            "formName": "hisuian"
+          },
+          "to": {
+            "name": "overqwil",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 33
+          }
+        }
+      ]
+    ]
+  },
+  "paras": {
+    "id": "paras",
+    "relatedPokemon": [
+      "paras",
+      "parasect"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "paras",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "parasect",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 24
+          }
+        }
+      ]
+    ]
+  },
+  "pichu": {
+    "id": "pichu",
+    "relatedPokemon": [
+      "pichu",
+      "pikachu",
+      "raichu"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "pichu",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "pikachu",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "happiness",
+            "timeOfDay": "anytime"
+          }
+        },
+        {
+          "from": {
+            "name": "pikachu",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "raichu",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "thunderstone"
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "pichu",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "pikachu",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "happiness",
+            "timeOfDay": "anytime"
+          }
+        },
+        {
+          "from": {
+            "name": "pikachu",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "raichu",
+            "formName": "alolan"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "oddsouvenir"
+          }
+        }
+      ]
+    ]
+  },
+  "pidgeot": {
+    "id": "pidgeot",
+    "relatedPokemon": [
+      "pidgeot",
+      "pidgeotto",
+      "pidgey"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "pidgey",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "pidgeotto",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 18
+          }
+        },
+        {
+          "from": {
+            "name": "pidgeotto",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "pidgeot",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 36
+          }
+        }
+      ]
+    ]
+  },
+  "politoed": {
+    "id": "politoed",
+    "relatedPokemon": [
+      "politoed",
+      "poliwag",
+      "poliwhirl",
+      "poliwrath"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "poliwag",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "poliwhirl",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 25
+          }
+        },
+        {
+          "from": {
+            "name": "poliwhirl",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "politoed",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "trade",
+            "parameter": "kingsrock"
+          }
+        }
+      ]
+    ]
+  },
+  "ponyta": {
+    "id": "ponyta",
+    "relatedPokemon": [
+      "ponyta",
+      "rapidash"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "ponyta",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "rapidash",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 40
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "ponyta",
+            "formName": "galarian"
+          },
+          "to": {
+            "name": "rapidash",
+            "formName": "galarian"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 40
+          }
+        }
+      ]
+    ]
+  },
+  "porygon": {
+    "id": "porygon",
+    "relatedPokemon": [
+      "porygon",
+      "porygon2",
+      "porygonz"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "porygon",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "porygon2",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "trade",
+            "parameter": "upgrade"
+          }
+        },
+        {
+          "from": {
+            "name": "porygon2",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "porygonz",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "trade",
+            "parameter": "dubiousdisc"
+          }
+        }
+      ]
+    ]
+  },
+  "raticate": {
+    "id": "raticate",
+    "relatedPokemon": [
+      "raticate",
+      "rattata"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "rattata",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "raticate",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 20
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "rattata",
+            "formName": "alolan"
+          },
+          "to": {
+            "name": "raticate",
+            "formName": "alolan"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 20
+          }
+        }
+      ]
+    ]
+  },
+  "rhydon": {
+    "id": "rhydon",
+    "relatedPokemon": [
+      "rhydon",
+      "rhyhorn",
+      "rhyperior"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "rhyhorn",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "rhydon",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 42
+          }
+        },
+        {
+          "from": {
+            "name": "rhydon",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "rhyperior",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "trade",
+            "parameter": "protector"
+          }
+        }
+      ]
+    ]
+  },
+  "sandshrew": {
+    "id": "sandshrew",
+    "relatedPokemon": [
+      "sandshrew",
+      "sandslash"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "sandshrew",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "sandslash",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 22
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "sandshrew",
+            "formName": "alolan"
+          },
+          "to": {
+            "name": "sandslash",
+            "formName": "alolan"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "icestone"
+          }
+        }
+      ]
+    ]
+  },
+  "slowbro": {
+    "id": "slowbro",
+    "relatedPokemon": [
+      "slowbro",
+      "slowking",
+      "slowpoke"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "slowpoke",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "slowbro",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 37
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "slowpoke",
+            "formName": "galarian"
+          },
+          "to": {
+            "name": "slowbro",
+            "formName": "galarian"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 37
+          }
+        }
+      ]
+    ]
+  },
+  "sneasel": {
+    "id": "sneasel",
+    "relatedPokemon": [
+      "sneasel",
+      "sneasler",
+      "weavile"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "sneasel",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "weavile",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "holding",
+            "parameter": "razorclaw",
+            "timeOfDay": "evenite"
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "sneasel",
+            "formName": "hisuian"
+          },
+          "to": {
+            "name": "sneasler",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "holding",
+            "parameter": "razorclaw",
+            "timeOfDay": "mornday"
+          }
+        }
+      ]
+    ]
+  },
+  "stantler": {
+    "id": "stantler",
+    "relatedPokemon": [
+      "stantler",
+      "wyrdeer"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "stantler",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "wyrdeer",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "location",
+            "parameter": "ruggedroad"
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "stantler",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "wyrdeer",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "location",
+            "parameter": "snowtopmountain"
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "stantler",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "wyrdeer",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "location",
+            "parameter": "sinjohruins"
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "stantler",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "wyrdeer",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "location",
+            "parameter": "mystristage"
+          }
+        }
+      ]
+    ]
+  },
+  "starmie": {
+    "id": "starmie",
+    "relatedPokemon": [
+      "starmie",
+      "staryu"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "staryu",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "starmie",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "waterstone"
+          }
+        }
+      ]
+    ]
+  },
+  "sunflora": {
+    "id": "sunflora",
+    "relatedPokemon": [
+      "sunflora",
+      "sunkern"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "sunkern",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "sunflora",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "sunstone"
+          }
+        }
+      ]
+    ]
+  },
+  "tangela": {
+    "id": "tangela",
+    "relatedPokemon": [
+      "tangela",
+      "tangrowth"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "tangela",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "tangrowth",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "move",
+            "parameter": "ancientpower"
+          }
+        }
+      ]
+    ]
+  },
+  "teddiursa": {
+    "id": "teddiursa",
+    "relatedPokemon": [
+      "teddiursa",
+      "ursaluna",
+      "ursaring"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "teddiursa",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "ursaring",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 30
+          }
+        },
+        {
+          "from": {
+            "name": "ursaring",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "ursaluna",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "moonstone"
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "teddiursa",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "ursaring",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 30
+          }
+        },
+        {
+          "from": {
+            "name": "ursaring",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "ursaluna",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "location",
+            "parameter": "sinjohruins"
+          }
+        }
+      ],
+      [
+        {
+          "from": {
+            "name": "teddiursa",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "ursaring",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 30
+          }
+        },
+        {
+          "from": {
+            "name": "ursaring",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "ursaluna",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "location",
+            "parameter": "mystristage"
+          }
+        }
+      ]
+    ]
+  },
+  "tentacool": {
+    "id": "tentacool",
+    "relatedPokemon": [
+      "tentacool",
+      "tentacruel"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "tentacool",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "tentacruel",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 30
+          }
+        }
+      ]
+    ]
+  },
+  "togekiss": {
+    "id": "togekiss",
+    "relatedPokemon": [
+      "togekiss",
+      "togepi",
+      "togetic"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "togepi",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "togetic",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "happiness",
+            "timeOfDay": "anytime"
+          }
+        },
+        {
+          "from": {
+            "name": "togetic",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "togekiss",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "item",
+            "parameter": "shinystone"
+          }
+        }
+      ]
+    ]
+  },
+  "venomoth": {
+    "id": "venomoth",
+    "relatedPokemon": [
+      "venomoth",
+      "venonat"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "venonat",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "venomoth",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 31
+          }
+        }
+      ]
+    ]
+  },
+  "wobbuffet": {
+    "id": "wobbuffet",
+    "relatedPokemon": [
+      "wobbuffet",
+      "wynaut"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "wynaut",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "wobbuffet",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "level",
+            "parameter": 15
+          }
+        }
+      ]
+    ]
+  },
+  "yanma": {
+    "id": "yanma",
+    "relatedPokemon": [
+      "yanma",
+      "yanmega"
+    ],
+    "evolutionChain": [
+      [
+        {
+          "from": {
+            "name": "yanma",
+            "formName": "plain"
+          },
+          "to": {
+            "name": "yanmega",
+            "formName": "plain"
+          },
+          "method": {
+            "action": "move",
+            "parameter": "ancientpower"
+          }
+        }
+      ]
+    ]
+  }
+}

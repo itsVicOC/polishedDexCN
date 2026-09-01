@@ -1,0 +1,1 @@
+{"id":343,"slug":"tm28","name":{"en":"TM28","zh":"招式学习器２８","aliases":["TM28","tm28"]},"category":"Tm","buy":0,"sell":0,"effect":"Teaches the move dig to a compatible Pokémon.","use":"—","locations":["National Park · item"],"moveName":"dig","locationDetails":[{"area":"nationalpark","locationId":"nationalpark","name":"National Park","method":"item"}],"pickup":[]}

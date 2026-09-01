@@ -1,0 +1,1 @@
+{"id":222,"slug":"maniashouse","name":{"en":"Manias House","zh":"Manias 的家","aliases":["Manias House","maniashouse"]},"region":"Johto","kind":"indoor","description":"Manias House in Pokémon Polished Crystal.","pokemon":[],"items":[],"itemDetails":[],"trainers":[],"children":[],"connections":[{"direction":"warp","to":"Cianwood City","toId":"cianwoodcity"}],"encounters":[]}

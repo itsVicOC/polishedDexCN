@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 2,
+  "source": "https://www.polisheddex.app",
+  "generatedAt": "2026-09-01T08:42:02.592Z",
+  "collections": {
+    "pokemon": 289,
+    "moves": 255,
+    "items": 396,
+    "abilities": 154,
+    "locations": 649,
+    "trainers": 761,
+    "evolutionChains": 105,
+    "guides": 47
+  },
+  "tools": {
+    "headbutt": 238,
+    "encountersByPokemon": 5623,
+    "compatibility": 289,
+    "eggMovePaths": 1440
+  },
+  "resources": {
+    "mapTiles": 10,
+    "trainerPortraitClasses": 135
+  },
+  "details": {
+    "pokemon": 289,
+    "moves": 255,
+    "items": 396,
+    "locations": 649,
+    "trainers": 761
+  }
+}

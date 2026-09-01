@@ -1,0 +1,425 @@
+[
+  {
+    "id": "emulators",
+    "title": "Which Emulator Should I Use?",
+    "description": "Recommended emulators for playing Polished Crystal",
+    "category": "start-here",
+    "hero": null,
+    "titleZh": "Which Emulator Should I Use?",
+    "descriptionZh": "Recommended emulators for playing 抛光水晶"
+  },
+  {
+    "id": "initial-options-menu",
+    "title": "Initial Setup Options",
+    "description": "Complete guide to configuring your Polished Crystal experience with the initial options menu",
+    "category": "start-here",
+    "hero": null,
+    "titleZh": "Initial Setup Options",
+    "descriptionZh": "Complete 指南 to configuring your 抛光水晶 experience with the initial options menu"
+  },
+  {
+    "id": "differences-from-vanilla",
+    "title": "Differences From Vanilla",
+    "description": "A list of differences between Polished Crystal and Vanilla Crystal.",
+    "category": "start-here",
+    "hero": null,
+    "titleZh": "Differences From Vanilla",
+    "descriptionZh": "A list of differences between 抛光水晶 and Vanilla Crystal."
+  },
+  {
+    "id": "version-history",
+    "title": "Changelog",
+    "description": "Complete version history, design philosophy, and development roadmap for Pokémon Polished Crystal",
+    "category": "start-here",
+    "hero": null,
+    "titleZh": "Changelog",
+    "descriptionZh": "Complete version history, design philosophy, and development roadmap for 宝可梦 抛光水晶"
+  },
+  {
+    "id": "type-chart",
+    "title": "Type Chart & Effectiveness",
+    "description": "Interactive type effectiveness chart for all 18 Pokémon types in Pokémon Polished Crystal. Learn about STAB bonuses, type coverage, defensive synergies, and the Fairy type.",
+    "category": "core-mechanics",
+    "hero": null,
+    "titleZh": "属性 Chart & Effectiveness",
+    "descriptionZh": "Interactive 属性 effectiveness chart for all 18 宝可梦 属性 in 宝可梦 抛光水晶. Learn about STAB bonuses, 属性 coverage, defensive synergies, and the Fairy 属性."
+  },
+  {
+    "id": "ivs-evs",
+    "title": "IVs & EVs Guide - Stats, Hyper Training, EV Training & Power Items",
+    "description": "Complete guide to Individual Values (IVs) and Effort Values (EVs) in Polished Crystal. Learn the hybrid Gen II/modern mechanics (IVs 0-15), Hyper Training at level 50 with Bottle Caps, EV training locations, Power Items (+8 EVs), EV-reducing berries, and the Stats Judge. Maximize your Pokémon's potential.",
+    "category": "core-mechanics",
+    "hero": null,
+    "titleZh": "IVs & EVs 指南 - 能力值, Hyper Training, EV Training & Power 物品",
+    "descriptionZh": "Complete 指南 to Individual Values (IVs) and Effort Values (EVs) in 抛光水晶. Learn the hybrid Gen II/modern mechanics (IVs 0-15), Hyper Training at 等级 50 with Bottle Caps, EV training 地点, Power 物品 (+8 EVs), EV-reducing berries, and the 能力值 Judge. Maximize your 宝可梦's potential."
+  },
+  {
+    "id": "nature-guide",
+    "title": "Natures Guide - Stat Boosts & Best Natures for Competitive",
+    "description": "Complete guide to Pokémon natures in Polished Crystal. Learn how natures boost and reduce stats by 10%, which nature to choose for sweepers and tanks, and how to get specific natures using Synchronize ability and Everstone breeding. Includes nature chart for all 25 natures.",
+    "category": "core-mechanics",
+    "hero": null,
+    "titleZh": "Natures 指南 - Stat Boosts & Best Natures for Competitive",
+    "descriptionZh": "Complete 指南 to 宝可梦 natures in 抛光水晶. Learn how natures boost and reduce 能力值 by 10%, which nature to choose for sweepers and tanks, and 如何 get specific natures using Synchronize 特性 and Everstone 繁殖. Includes nature chart for all 25 natures."
+  },
+  {
+    "id": "abilities",
+    "title": "Abilities Strategy Guide",
+    "description": "Strategic guide to Pokémon abilities in Polished Crystal. Learn about ability categories, competitive strategies, and the best abilities for different playstyles.",
+    "category": "core-mechanics",
+    "hero": null,
+    "titleZh": "特性 Strategy 指南",
+    "descriptionZh": "Strategic 指南 to 宝可梦 特性 in 抛光水晶. Learn about 特性 categories, competitive strategies, and the best 特性 for different playstyles."
+  },
+  {
+    "id": "gym-leader-strategies",
+    "title": "Polished Crystal Gym Leaders: Order, Levels, Teams & Counters",
+    "description": "Polished Crystal Gym Leader guide with Johto and Kanto order, level caps, teams, badge rewards, strategy notes, and counter recommendations for all 16 leaders.",
+    "category": "walkthrough-battles",
+    "hero": null,
+    "titleZh": "抛光水晶 道馆 Leaders: Order, Levels, Teams & Counters",
+    "descriptionZh": "抛光水晶 道馆 Leader 指南 with Johto and Kanto order, 等级 caps, teams, 徽章 奖励, strategy notes, and counter recommendations for all 16 leaders."
+  },
+  {
+    "id": "rival-battles",
+    "title": "Rival & Lyra Battles",
+    "description": "Comprehensive battle strategies for the Rival and Lyra battles in Pokémon Polished Crystal",
+    "category": "walkthrough-battles",
+    "hero": null,
+    "titleZh": "Rival & Lyra 战斗",
+    "descriptionZh": "Comprehensive 战斗 strategies for the Rival and Lyra 战斗 in 宝可梦 抛光水晶"
+  },
+  {
+    "id": "route-bosses",
+    "title": "Route Bosses",
+    "description": "Complete guide to Route Boss trainers in Pokémon Polished Crystal - defeat all trainers on a route to challenge the boss and earn rare items",
+    "category": "walkthrough-battles",
+    "hero": null,
+    "titleZh": "道路 Bosses",
+    "descriptionZh": "Complete 指南 to 道路 Boss trainers in 宝可梦 抛光水晶 - defeat all trainers on a 道路 to challenge the boss and earn rare 物品"
+  },
+  {
+    "id": "elite-four-guide",
+    "title": "Polished Crystal Elite Four & Champion Guide: Teams, Levels & Counters",
+    "description": "Polished Crystal Elite Four and Champion guide with teams, levels, weaknesses, preparation advice, and counter recommendations for Will, Koga, Bruno, Karen, and Lance.",
+    "category": "walkthrough-battles",
+    "hero": null,
+    "titleZh": "抛光水晶 Elite Four & Champion 指南: Teams, Levels & Counters",
+    "descriptionZh": "抛光水晶 Elite Four and Champion 指南 with teams, levels, weaknesses, preparation advice, and counter recommendations for Will, Koga, Bruno, Karen, and Lance."
+  },
+  {
+    "id": "team-building-basics",
+    "title": "Team Building Basics - Roles, Type Coverage & Synergy",
+    "description": "Learn how to build balanced, effective Pokémon teams in Polished Crystal. Understand team roles (sweepers, walls, support), type coverage strategies, offensive and defensive synergy, and common team archetypes. Build competitive teams that can handle any opponent.",
+    "category": "team-building-training",
+    "hero": null,
+    "titleZh": "队伍 Building Basics - Roles, 属性 Coverage & Synergy",
+    "descriptionZh": "Learn 如何 build balanced, effective 宝可梦 teams in 抛光水晶. Understand 队伍 roles (sweepers, walls, support), 属性 coverage strategies, offensive and defensive synergy, and common 队伍 archetypes. Build competitive teams that can handle any opponent."
+  },
+  {
+    "id": "moveset-building",
+    "title": "Building Effective Movesets",
+    "description": "Learn how to create strong movesets for different Pokémon roles in Pokémon Polished Crystal",
+    "category": "team-building-training",
+    "hero": null,
+    "titleZh": "Building Effective Movesets",
+    "descriptionZh": "Learn 如何 create strong movesets for different 宝可梦 roles in 宝可梦 抛光水晶"
+  },
+  {
+    "id": "type-matchup-strategies",
+    "title": "Type Matchup Strategies",
+    "description": "Pokémon Polished Crystal: Learn how to use type advantages and build teams with strong offensive and defensive coverage",
+    "category": "team-building-training",
+    "hero": null,
+    "titleZh": "属性 Matchup Strategies",
+    "descriptionZh": "宝可梦 抛光水晶: Learn 如何 use 属性 advantages and build teams with strong offensive and defensive coverage"
+  },
+  {
+    "id": "ability-tier-list",
+    "title": "Ability Tier List",
+    "description": "Ranking of the best abilities in Polished Crystal with usage strategies and Pokémon recommendations",
+    "category": "team-building-training",
+    "hero": null,
+    "titleZh": "特性 Tier List",
+    "descriptionZh": "Ranking of the best 特性 in 抛光水晶 with usage strategies and 宝可梦 recommendations"
+  },
+  {
+    "id": "tm-hm-locations",
+    "title": "Polished Crystal TM & HM Locations: Complete List, Rewards & Map Guide",
+    "description": "Find TM and HM locations in Pokémon Polished Crystal, including gym rewards, shop purchases, Game Corner prizes, hidden items, moves, and map links.",
+    "category": "items-services",
+    "hero": null,
+    "titleZh": "抛光水晶 TM & HM 地点: Complete List, 奖励 & Map 指南",
+    "descriptionZh": "Find TM and HM 地点 in 宝可梦 抛光水晶, including 道馆 奖励, shop purchases, Game Corner prizes, hidden 物品, 技能, and map links."
+  },
+  {
+    "id": "move-tutors",
+    "title": "Move Tutors",
+    "description": "Complete guide to all move tutors in Polished Crystal. Find every tutor location, the moves they teach, and what items you need to unlock their services.",
+    "category": "items-services",
+    "hero": null,
+    "titleZh": "技能 Tutors",
+    "descriptionZh": "Complete 指南 to all 技能 tutors in 抛光水晶. Find every tutor 地点, the 技能 they teach, and what 物品 you need to unlock their services."
+  },
+  {
+    "id": "evolution-items",
+    "title": "Polished Crystal Evolution Stones & Items: Locations and Evolutions",
+    "description": "Find every evolution stone and item in Pokémon Polished Crystal, where to get it, which Pokémon it evolves, and how direct-use, held-item, and trade evolutions work.",
+    "category": "items-services",
+    "hero": null,
+    "titleZh": "抛光水晶 进化 Stones & 物品: 地点 and 进化",
+    "descriptionZh": "Find every 进化 stone and 物品 in 宝可梦 抛光水晶, where to get it, which 宝可梦 it evolves, and how direct-use, held-物品, and trade 进化 work."
+  },
+  {
+    "id": "keyitems",
+    "title": "Key Items",
+    "description": "Complete guide to all key items in Polished Crystal. Find locations, uses, and how to obtain every key item in your adventure.",
+    "category": "items-services",
+    "hero": null,
+    "titleZh": "Key 物品",
+    "descriptionZh": "Complete 指南 to all key 物品 in 抛光水晶. Find 地点, uses, and 如何 obtain every key 物品 in your adventure."
+  },
+  {
+    "id": "gift-pokemon",
+    "title": "Gift Pokémon",
+    "description": "Every Pokémon you can receive as a gift in Polished Crystal. Includes locations, levels, held items, conditions, and full details verified from ROM source.",
+    "category": "pokemon-collecting",
+    "hero": null,
+    "titleZh": "Gift 宝可梦",
+    "descriptionZh": "Every 宝可梦 you can receive as a gift in 抛光水晶. Includes 地点, levels, held 物品, conditions, and full details verified from ROM source."
+  },
+  {
+    "id": "trades",
+    "title": "Polished Crystal NPC Trades: Locations, Pokémon & Rewards",
+    "description": "Complete Polished Crystal NPC trade guide: every requested and received Pokémon, exact locations, natures, Hidden Abilities, held items, and the most useful rewards.",
+    "category": "pokemon-collecting",
+    "hero": null,
+    "titleZh": "抛光水晶 NPC Trades: 地点, 宝可梦 & 奖励",
+    "descriptionZh": "Complete 抛光水晶 NPC trade 指南: every requested and received 宝可梦, exact 地点, natures, Hidden 特性, held 物品, and the most useful 奖励."
+  },
+  {
+    "id": "legendary-pokemon",
+    "title": "Polished Crystal Legendary & Special Pokémon: Locations and Catch Guide",
+    "description": "Find legendary and special Pokémon in Pokémon Polished Crystal, including locations, prerequisites, encounter levels, and roaming or static encounter details.",
+    "category": "pokemon-collecting",
+    "hero": null,
+    "titleZh": "抛光水晶 Legendary & Special 宝可梦: 地点 and 捕获 指南",
+    "descriptionZh": "Find legendary and special 宝可梦 in 宝可梦 抛光水晶, including 地点, prerequisites, 遭遇 levels, and roaming or static 遭遇 details."
+  },
+  {
+    "id": "kimono-girls",
+    "title": "Polished Crystal Kimono Girls: Ecruteak Locations, Teams & Rewards",
+    "description": "Find every Kimono Girl in Pokémon Polished Crystal: Dance Theatre locations, Eeveelution teams, Surf progression, traveling cousins, and reward items.",
+    "category": "pokemon-collecting",
+    "hero": null,
+    "titleZh": "抛光水晶 Kimono Girls: Ecruteak 地点, Teams & 奖励",
+    "descriptionZh": "Find every Kimono Girl in 宝可梦 抛光水晶: Dance Theatre 地点, Eeveelution teams, Surf progression, traveling cousins, and 奖励 物品."
+  },
+  {
+    "id": "battle-tower",
+    "title": "Battle Tower",
+    "description": "Pokémon Polished Crystal Battle Tower is a postgame challenge where you can test battle skills against optimized teams across 4 competitive tiers. Learn how streaks, rewards, threats, and team building work.",
+    "category": "battle-facilities-postgame",
+    "hero": null,
+    "titleZh": "战斗 塔",
+    "descriptionZh": "宝可梦 抛光水晶 战斗 塔 is a postgame challenge where you can test 战斗 skills against optimized teams across 4 competitive tiers. Learn how streaks, 奖励, threats, and 队伍 building work."
+  },
+  {
+    "id": "battle-factory",
+    "title": "Battle Factory Guide - Rentals, Swaps & Sample Strategies",
+    "description": "Learn how the Battle Factory works in Polished Crystal, how to choose rental Pokémon, when to swap after wins, and how to submit proven rental strategies for other players.",
+    "category": "battle-facilities-postgame",
+    "hero": null,
+    "titleZh": "战斗 Factory 指南 - Rentals, Swaps & Sample Strategies",
+    "descriptionZh": "Learn how the 战斗 Factory works in 抛光水晶, 如何 choose rental 宝可梦, when to swap after wins, and 如何 submit proven rental strategies for other players."
+  },
+  {
+    "id": "new-game",
+    "title": "Preparing for New Game+",
+    "description": "Start a new Pokémon Polished Crystal game with resources from a previous playthrough.",
+    "category": "battle-facilities-postgame",
+    "hero": null,
+    "titleZh": "Preparing for New Game+",
+    "descriptionZh": "Start a new 宝可梦 抛光水晶 game with resources from a previous playthrough."
+  },
+  {
+    "id": "overworld-ability-effects",
+    "title": "Overworld Ability Effects",
+    "description": "Verified out-of-battle and wild encounter ability effects in Pokemon Polished Crystal",
+    "category": "core-mechanics",
+    "hero": null,
+    "titleZh": "Overworld 特性 Effects",
+    "descriptionZh": "Verified out-of-战斗 and wild 遭遇 特性 effects in Pokemon 抛光水晶"
+  },
+  {
+    "id": "breeding",
+    "title": "Polished Crystal Breeding Guide: IVs, Natures, Egg Moves & Abilities",
+    "description": "Follow a Polished Crystal breeding guide for compatible parents, natures, IVs, egg moves, abilities, forms, Poké Balls, and shiny odds.",
+    "category": "core-mechanics",
+    "hero": null,
+    "titleZh": "抛光水晶 繁殖 指南: IVs, Natures, 蛋 技能 & 特性",
+    "descriptionZh": "Follow a 抛光水晶 繁殖 指南 for compatible parents, natures, IVs, 蛋 技能, 特性, forms, Poké Balls, and 闪光 odds."
+  },
+  {
+    "id": "friendship",
+    "title": "Friendship Guide",
+    "description": "A comprehensive guide to understanding and maximizing Friendship in Polished Crystal.",
+    "category": "core-mechanics",
+    "hero": null,
+    "titleZh": "Friendship 指南",
+    "descriptionZh": "A comprehensive 指南 to understanding and maximizing Friendship in 抛光水晶."
+  },
+  {
+    "id": "color-variation",
+    "title": "Color Variation - How DVs Affect Sprite Colors",
+    "description": "Explains the color variation mechanic in Polished Crystal, where each Pokémon's DVs (IVs) subtly shift their sprite palette colors. Learn how HP affects red, Attack affects green, and more.",
+    "category": "core-mechanics",
+    "hero": null,
+    "titleZh": "Color Variation - How DVs Affect Sprite Colors",
+    "descriptionZh": "Explains the color variation mechanic in 抛光水晶, where each 宝可梦's DVs (IVs) subtly shift their sprite palette colors. Learn how HP affects red, Attack affects green, and more."
+  },
+  {
+    "id": "shiny-rates",
+    "title": "Polished Crystal Shiny Odds: Complete Rates & Hunting Guide",
+    "description": "Check Polished Crystal shiny odds for wild encounters, static Pokémon, eggs, Wonder Trade, Shiny Charm, and the Masuda Method, with exact rate comparisons.",
+    "category": "core-mechanics",
+    "hero": null,
+    "titleZh": "抛光水晶 闪光 Odds: Complete Rates & Hunting 指南",
+    "descriptionZh": "Check 抛光水晶 闪光 odds for wild 遭遇, static 宝可梦, 蛋, Wonder Trade, 闪光 Charm, and the Masuda Method, with exact rate comparisons."
+  },
+  {
+    "id": "damage-formula",
+    "title": "Damage Formula & Integer Rounding - How Polished Crystal Calculates Damage",
+    "description": "A technical reference for Polished Crystal's exact damage formula, its integer rounding order, and how it differs from Gen 9 / Pokémon Showdown's damage calculation.",
+    "category": "core-mechanics",
+    "hero": null,
+    "titleZh": "伤害 Formula & Integer Rounding - How 抛光水晶 Calculates 伤害",
+    "descriptionZh": "A technical reference for 抛光水晶's exact 伤害 formula, its integer rounding order, and how it differs from Gen 9 / 宝可梦 Showdown's 伤害 calculation."
+  },
+  {
+    "id": "rematch-trainers",
+    "title": "Rematch Trainers",
+    "description": "A guide to rematch trainers in Polished Crystal",
+    "category": "walkthrough-battles",
+    "hero": null,
+    "titleZh": "Rematch Trainers",
+    "descriptionZh": "A 指南 to rematch trainers in 抛光水晶"
+  },
+  {
+    "id": "special-trainers",
+    "title": "Special Trainers and Guest Battles",
+    "description": "Where to find special guest trainers in Polished Crystal, including Cynthia, Steven, Marlon, Piers, and Lorelei, plus how their rematches work.",
+    "category": "walkthrough-battles",
+    "hero": null,
+    "titleZh": "Special Trainers and Guest 战斗",
+    "descriptionZh": "Where to find special guest trainers in 抛光水晶, including Cynthia, Steven, Marlon, Piers, and Lorelei, plus how their rematches work."
+  },
+  {
+    "id": "a-stupid-way-to-beat-pryce",
+    "title": "A \"Stupid\" Way to Beat Pryce",
+    "description": "A strategy guide on how to defeat Pryce using a Dudunsparce and Meganium!",
+    "category": "walkthrough-battles",
+    "hero": null,
+    "titleZh": "A \"Stupid\" Way to Beat Pryce",
+    "descriptionZh": "A strategy 指南 on 如何 defeat Pryce using a Dudunsparce and Meganium!"
+  },
+  {
+    "id": "sirfetchd-evolution",
+    "title": "Easy Sirfetch'd Evolution Method",
+    "description": "A safe Ditto setup for evolving Galarian Farfetch'd into Sirfetch'd in Polished Crystal by farming three critical hits without relying on Smeargle. Includes an alternative wild Gloom method using Dire Hit and Feint Attack.",
+    "category": "walkthrough-battles",
+    "hero": null,
+    "titleZh": "Easy Sirfetch'd 进化 Method",
+    "descriptionZh": "A safe Ditto setup for evolving Galarian Farfetch'd into Sirfetch'd in 抛光水晶 by farming three critical hits without relying on Smeargle. Includes an alternative wild Gloom method using Dire Hit and Feint Attack."
+  },
+  {
+    "id": "ev-training-guide",
+    "title": "EV Training Guide - Best Locations, Power Items & Optimal Spreads",
+    "description": "Master EV training in Polished Crystal. Learn optimal EV spreads (252/252/4), best training locations for each stat, Power Items strategy (+8 EVs), Macho Brace mechanics, EV resetting with berries, and efficient training routes. Maximize your Pokémon's competitive potential.",
+    "category": "team-building-training",
+    "hero": null,
+    "titleZh": "EV Training 指南 - Best 地点, Power 物品 & Optimal Spreads",
+    "descriptionZh": "Master EV training in 抛光水晶. Learn optimal EV spreads (252/252/4), best training 地点 for each stat, Power 物品 strategy (+8 EVs), Macho Brace mechanics, EV resetting with berries, and efficient training routes. Maximize your 宝可梦's competitive potential."
+  },
+  {
+    "id": "ditto-ev-training",
+    "title": "Ditto EV Training",
+    "description": "Use Route 47 Ditto encounters in Pokémon Polished Crystal as flexible EV-training targets by having Ditto transform into a Pokémon with the EV yield you want.",
+    "category": "team-building-training",
+    "hero": null,
+    "titleZh": "Ditto EV Training",
+    "descriptionZh": "Use 道路 47 Ditto 遭遇 in 宝可梦 抛光水晶 as flexible EV-training targets by having Ditto transform into a 宝可梦 with the EV yield you want."
+  },
+  {
+    "id": "experience-farming",
+    "title": "Experience Farming Guide - Best Pokémon & Locations for Fast Leveling",
+    "description": "In Pokémon Polished Crystal, grinding experience is just part of the game—read this guide to find out which spots are best to farm experience and how to stack multipliers!",
+    "category": "team-building-training",
+    "hero": null,
+    "titleZh": "Experience Farming 指南 - Best 宝可梦 & 地点 for Fast Leveling",
+    "descriptionZh": "In 宝可梦 抛光水晶, grinding experience is just part of the game—read this 指南 to find out which spots are best to farm experience and 如何 stack multipliers!"
+  },
+  {
+    "id": "held-items-guide",
+    "title": "Held Items Strategy Guide",
+    "description": "Comprehensive guide to finding commonly sought held items used for evolution in Pokémon Polished Crystal",
+    "category": "team-building-training",
+    "hero": null,
+    "titleZh": "Held 物品 Strategy 指南",
+    "descriptionZh": "Comprehensive 指南 to finding commonly sought held 物品 used for 进化 in 宝可梦 抛光水晶"
+  },
+  {
+    "id": "pickup-table",
+    "title": "Pickup Ability and Item Table",
+    "description": "Complete item table for the Pickup ability in Pokémon Polished Crystal",
+    "category": "items-services",
+    "hero": null,
+    "titleZh": "Pickup 特性 and 物品 Table",
+    "descriptionZh": "Complete 物品 table for the Pickup 特性 in 宝可梦 抛光水晶"
+  },
+  {
+    "id": "helpful-npcs",
+    "title": "Helpful NPCs",
+    "description": "Ever wonder where the Move Tutor is? Or how to check happiness? This guide covers all the helpful NPCs in Polished Crystal, their locations, and the services they provide!",
+    "category": "items-services",
+    "hero": null,
+    "titleZh": "Helpful NPCs",
+    "descriptionZh": "Ever wonder where the 技能 Tutor is? Or 如何 check happiness? This 指南 covers all the helpful NPCs in 抛光水晶, their 地点, and the services they provide!"
+  },
+  {
+    "id": "buenas-password",
+    "title": "Buena's Password",
+    "description": "Complete guide to Buena's Password mini-game in Polished Crystal. Learn how to earn Blue Card points, daily password mechanics, and redeem points for rare items like Ultra Balls, Rare Candies, and Nuggets.",
+    "category": "items-services",
+    "hero": null,
+    "titleZh": "Buena's Password",
+    "descriptionZh": "Complete 指南 to Buena's Password mini-game in 抛光水晶. Learn 如何 earn Blue Card points, daily password mechanics, and redeem points for rare 物品 like Ultra Balls, Rare Candies, and Nuggets."
+  },
+  {
+    "id": "hidden-grottoes",
+    "title": "Polished Crystal Hidden Grottoes: All 22 Locations, Pokémon & Items",
+    "description": "Find all 22 Hidden Grottoes in Pokémon Polished Crystal, including encounter Pokémon, Hidden Abilities, item pools, badge scaling, and daily reset mechanics.",
+    "category": "pokemon-collecting",
+    "hero": null,
+    "titleZh": "抛光水晶 Hidden Grottoes: All 22 地点, 宝可梦 & 物品",
+    "descriptionZh": "Find all 22 Hidden Grottoes in 宝可梦 抛光水晶, including 遭遇 宝可梦, Hidden 特性, 物品 pools, 徽章 scaling, and daily reset mechanics."
+  },
+  {
+    "id": "wonder-trade",
+    "title": "Wonder Trade Guide - Shiny Odds, Hidden Abilities & Mechanics",
+    "description": "Complete Wonder Trade guide for Polished Crystal. Trade any Pokémon for a random one at the same level in Goldenrod. 4x shiny rate (1/1024), 33% Hidden Ability chance, held items possible, 50/50 gender ratio. Offline Wonder Trade system explained with full mechanics and optimal strategies.",
+    "category": "pokemon-collecting",
+    "hero": null,
+    "titleZh": "Wonder Trade 指南 - 闪光 Odds, Hidden 特性 & Mechanics",
+    "descriptionZh": "Complete Wonder Trade 指南 for 抛光水晶. Trade any 宝可梦 for a random one at the same 等级 in Goldenrod. 4x 闪光 rate (1/1024), 33% Hidden 特性 chance, held 物品 possible, 50/50 gender ratio. Offline Wonder Trade system explained with full mechanics and optimal strategies."
+  },
+  {
+    "id": "ev-yields",
+    "title": "EV Yields",
+    "description": "Complete list of EV yields for all Pokémon in Pokémon Polished Crystal",
+    "category": "pokemon-collecting",
+    "hero": null,
+    "titleZh": "EV Yields",
+    "descriptionZh": "Complete list of EV yields for all 宝可梦 in 宝可梦 抛光水晶"
+  }
+]

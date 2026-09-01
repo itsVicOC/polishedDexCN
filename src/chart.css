@@ -1,0 +1,11 @@
+.chart-wrap{overflow:auto;background:#fff;border:1px solid #e8eaf0;border-radius:14px}
+.chart{border-collapse:collapse;min-width:980px;width:100%;font-size:11px}
+.chart th,.chart td{border:1px solid #edf0f4;padding:7px;text-align:center}
+.chart thead th{background:#f7f8fb;color:#667085;position:sticky;top:0}
+.chart thead small,.chart tbody small{display:block;font-size:9px;color:#9aa3b3;font-weight:400}
+.chart tbody th{text-align:left;white-space:nowrap}
+.chart td.super{background:#dff4e5;color:#227548;font-weight:700}
+.chart td.resist{background:#fff2de;color:#a46320}
+.chart td.immune{background:#eceef3;color:#7d8492}
+.dark .chart-wrap{background:#171e2d;border-color:#2a3448}.dark .chart th,.dark .chart td{border-color:#2a3448}.dark .chart thead th{background:#202a3d}
+.sprite-gallery{display:grid;grid-template-columns:repeat(2,minmax(90px,1fr));gap:8px}.sprite-gallery figure{margin:0;text-align:center;background:#f7f8fb;border-radius:9px;padding:5px}.sprite-gallery img{width:80px;height:80px;object-fit:contain}.sprite-gallery figcaption{display:block;font-size:9px;color:#7e8798}.dark .sprite-gallery figure{background:#202a3d}

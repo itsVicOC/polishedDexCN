@@ -1,0 +1,1 @@
+{"id":623,"slug":"iceislandroof","name":{"en":"Ice Island Roof","zh":"Ice 岛 Roof","aliases":["Ice Island Roof","iceislandroof"]},"region":"Orange","kind":"route","description":"Ice Island Roof in Pokémon Polished Crystal.","pokemon":[],"items":[],"itemDetails":[],"trainers":[],"children":[],"connections":[{"direction":"warp","to":"Ice Island","toId":"iceisland"}],"encounters":[]}

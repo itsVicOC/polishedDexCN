@@ -1,0 +1,1 @@
+{"id":237,"slug":"transform","name":{"en":"Transform","zh":"变身","aliases":["Transform","transform"]},"type":"Normal","category":"Status","power":0,"accuracy":100,"pp":10,"effect":"The user assumes the foe's guise.","learners":[{"slug":"ditto","methods":["升级 · Level up"]},{"slug":"mew","methods":["升级 · Level up"]}],"machines":[]}

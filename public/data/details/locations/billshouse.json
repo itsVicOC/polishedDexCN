@@ -1,0 +1,1 @@
+{"id":356,"slug":"billshouse","name":{"en":"Bills House","zh":"Bills 的家","aliases":["Bills House","billshouse"]},"region":"Kanto","kind":"indoor","description":"Bills House in Pokémon Polished Crystal.","pokemon":[],"items":[],"itemDetails":[],"trainers":["billt"],"children":[],"connections":[{"direction":"warp","to":"Cerulean Cape","toId":"ceruleancape"}],"encounters":[]}

@@ -1,0 +1,52 @@
+{
+  "source": "https://www.polisheddex.app",
+  "generatedAt": "2026-09-01T02:35:57.840Z",
+  "collections": {
+    "pokemon": {
+      "path": "/pokemon",
+      "count": 289,
+      "dataCount": 289,
+      "snapshot": true
+    },
+    "moves": {
+      "path": "/moves",
+      "count": 255,
+      "dataCount": 255,
+      "snapshot": true
+    },
+    "items": {
+      "path": "/items",
+      "count": 396,
+      "dataCount": 396,
+      "snapshot": true
+    },
+    "abilities": {
+      "path": "/abilities",
+      "count": 154,
+      "dataCount": 154,
+      "snapshot": true
+    },
+    "locations": {
+      "path": "/locations",
+      "count": 141,
+      "dataCount": 649,
+      "snapshot": true
+    },
+    "trainers": {
+      "path": "/trainers",
+      "count": 761,
+      "dataCount": 761,
+      "snapshot": true
+    },
+    "events": {
+      "path": "/events",
+      "count": 37,
+      "snapshot": true
+    },
+    "guides": {
+      "path": "/guides",
+      "count": 47,
+      "snapshot": true
+    }
+  }
+}

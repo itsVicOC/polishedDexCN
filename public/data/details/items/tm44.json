@@ -1,0 +1,1 @@
+{"id":359,"slug":"tm44","name":{"en":"TM44","zh":"招式学习器４４","aliases":["TM44","tm44"]},"category":"Tm","buy":0,"sell":0,"effect":"Teaches the move rest to a compatible Pokémon.","use":"—","locations":["Dim Cave 3F · item"],"moveName":"rest","locationDetails":[{"area":"dimcave3f","locationId":"dimcave3f","name":"Dim Cave 3F","method":"item"}],"pickup":[]}

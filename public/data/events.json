@@ -1,0 +1,457 @@
+{
+  "daily": [
+    {
+      "id": "sunny",
+      "name": "Sunny",
+      "day": "sunday",
+      "location": "route37",
+      "locationName": "Route 37",
+      "type": "daily-sibling",
+      "item": "magnet",
+      "itemName": "Magnet",
+      "description": "Sunny appears on Route 37 every Sunday and gives you a Magnet."
+    },
+    {
+      "id": "monica",
+      "name": "Monica",
+      "day": "monday",
+      "location": "route40",
+      "locationName": "Route 40",
+      "type": "daily-sibling",
+      "item": "sharpbeak",
+      "itemName": "Sharp Beak",
+      "description": "Monica appears on Route 40 every Monday and gives you a Sharp Beak."
+    },
+    {
+      "id": "tuscany",
+      "name": "Tuscany",
+      "day": "tuesday",
+      "location": "route29",
+      "locationName": "Route 29",
+      "type": "daily-sibling",
+      "item": "silkscarf",
+      "itemName": "Silk Scarf",
+      "description": "Tuscany appears on Route 29 every Tuesday and gives you a Silk Scarf."
+    },
+    {
+      "id": "wesley",
+      "name": "Wesley",
+      "day": "wednesday",
+      "location": "lakeofrage",
+      "locationName": "Lake of Rage",
+      "type": "daily-sibling",
+      "item": "blackbelt",
+      "itemName": "Black Belt",
+      "description": "Wesley appears at the Lake of Rage every Wednesday and gives you a Black Belt."
+    },
+    {
+      "id": "arthur",
+      "name": "Arthur",
+      "day": "thursday",
+      "location": "route36",
+      "locationName": "Route 36",
+      "type": "daily-sibling",
+      "item": "hardstone",
+      "itemName": "Hard Stone",
+      "description": "Arthur appears on Route 36 every Thursday and gives you a Hard Stone."
+    },
+    {
+      "id": "frieda",
+      "name": "Frieda",
+      "day": "friday",
+      "location": "route32",
+      "locationName": "Route 32",
+      "type": "daily-sibling",
+      "item": "poisonbarb",
+      "itemName": "Poison Barb",
+      "description": "Frieda appears on Route 32 every Friday and gives you a Poison Barb."
+    },
+    {
+      "id": "santos",
+      "name": "Santos",
+      "day": "saturday",
+      "location": "blackthorncity",
+      "locationName": "Blackthorn City",
+      "type": "daily-sibling",
+      "item": "spelltag",
+      "itemName": "Spell Tag",
+      "description": "Santos appears in Blackthorn City every Saturday and gives you a Spell Tag."
+    }
+  ],
+  "weekly": [
+    {
+      "id": "lapras",
+      "name": "Lapras",
+      "days": [
+        "friday"
+      ],
+      "location": "unioncaveb2f",
+      "locationName": "Union Cave B2F",
+      "type": "weekly",
+      "subtype": "wild-pokemon",
+      "pokemon": "lapras",
+      "level": 25,
+      "description": "A wild Lapras appears in the basement of Union Cave every Friday. It can be battled and caught."
+    },
+    {
+      "id": "bug-catching-contest",
+      "name": "Bug Catching Contest",
+      "days": [
+        "tuesday",
+        "thursday",
+        "saturday"
+      ],
+      "location": "nationalpark",
+      "locationName": "National Park",
+      "type": "weekly",
+      "subtype": "contest",
+      "description": "The Bug Catching Contest is held at National Park on Tuesdays, Thursdays, and Saturdays. Compete to catch the best Bug-type Pokémon!"
+    },
+    {
+      "id": "ss-aqua",
+      "name": "S.S. Aqua",
+      "days": [
+        "monday",
+        "friday"
+      ],
+      "location": "olivineport",
+      "locationName": "Olivine Port",
+      "type": "weekly",
+      "subtype": "travel",
+      "description": "The S.S. Aqua departs from Olivine Port on Mondays and Fridays, traveling between Johto and Kanto."
+    },
+    {
+      "id": "older-haircut-brother",
+      "name": "Older Haircut Brother",
+      "days": [
+        "tuesday",
+        "thursday",
+        "saturday"
+      ],
+      "location": "goldenrodundergroundwarehouse",
+      "locationName": "Goldenrod Underground",
+      "type": "weekly",
+      "subtype": "service",
+      "price": 500,
+      "description": "The older haircut brother works on Tuesdays, Thursdays, and Saturdays for ¥500. He has a higher chance of making your Pokémon much happier."
+    },
+    {
+      "id": "younger-haircut-brother",
+      "name": "Younger Haircut Brother",
+      "days": [
+        "sunday",
+        "wednesday",
+        "friday"
+      ],
+      "location": "goldenrodundergroundwarehouse",
+      "locationName": "Goldenrod Underground",
+      "type": "weekly",
+      "subtype": "service",
+      "price": 300,
+      "description": "The younger haircut brother works on Sundays, Wednesdays, and Fridays for ¥300. He has more variable results but costs less."
+    },
+    {
+      "id": "bargain-merchant",
+      "name": "Bargain Merchant",
+      "days": [
+        "monday"
+      ],
+      "location": "goldenrodundergroundwarehouse",
+      "locationName": "Goldenrod Underground",
+      "type": "weekly",
+      "subtype": "shop",
+      "description": "The Bargain Merchant appears on Monday mornings only in the Goldenrod Underground, selling items at discounted prices."
+    },
+    {
+      "id": "bitter-merchant",
+      "name": "Bitter Merchant",
+      "days": [
+        "saturday",
+        "sunday"
+      ],
+      "location": "goldenrodundergroundwarehouse",
+      "locationName": "Goldenrod Underground",
+      "type": "weekly",
+      "subtype": "shop",
+      "description": "The Bitter Merchant appears on weekends (Saturday and Sunday) in the Goldenrod Underground, selling bitter herbs that heal Pokémon but reduce happiness."
+    }
+  ],
+  "rematches": [
+    {
+      "id": "brent",
+      "name": "Brent",
+      "trainerClass": "POKEMANIAC",
+      "trainerId": "pokemaniacbrent",
+      "location": "route43",
+      "locationName": "Route 43",
+      "day": "monday",
+      "time": "morning",
+      "type": "rematch",
+      "prerequisites": "enginebrentmondaymorning"
+    },
+    {
+      "id": "jack",
+      "name": "Jack",
+      "trainerClass": "SCHOOLBOY",
+      "trainerId": "schoolboyjack",
+      "location": "nationalpark",
+      "locationName": "National Park",
+      "day": "monday",
+      "time": "morning",
+      "type": "rematch",
+      "prerequisites": "enginejackmondaymorning"
+    },
+    {
+      "id": "joey",
+      "name": "Joey",
+      "trainerClass": "YOUNGSTER",
+      "trainerId": "youngsterjoey",
+      "location": "route30",
+      "locationName": "Route 30",
+      "day": "monday",
+      "time": "day",
+      "type": "rematch",
+      "prerequisites": "enginejoeymondayafternoon"
+    },
+    {
+      "id": "arnie",
+      "name": "Arnie",
+      "trainerClass": "BUG_CATCHER",
+      "trainerId": "bugcatcherarnie",
+      "location": "route35",
+      "locationName": "Route 35",
+      "day": "tuesday",
+      "time": "morning",
+      "type": "rematch",
+      "prerequisites": "enginearnietuesdaymorning, engineyanmaswarm"
+    },
+    {
+      "id": "tiffany",
+      "name": "Tiffany",
+      "trainerClass": "PICNICKER",
+      "trainerId": "picnickertiffany",
+      "location": "route43",
+      "locationName": "Route 43",
+      "day": "tuesday",
+      "time": "day",
+      "type": "rematch",
+      "prerequisites": "enginetiffanytuesdayafternoon, enginetiffanyhaspinkbow"
+    },
+    {
+      "id": "wade",
+      "name": "Wade",
+      "trainerClass": "BUG_CATCHER",
+      "trainerId": "bugcatcherwade",
+      "location": "route31",
+      "locationName": "Route 31",
+      "day": "tuesday",
+      "time": "night",
+      "type": "rematch",
+      "prerequisites": "enginewadetuesdaynight, enginewadehasitem, enginedailybugcontest, engineflypointgoldenrod"
+    },
+    {
+      "id": "alan",
+      "name": "Alan",
+      "trainerClass": "SCHOOLBOY",
+      "trainerId": "schoolboyalan",
+      "location": "route36",
+      "locationName": "Route 36",
+      "day": "wednesday",
+      "time": "day",
+      "type": "rematch",
+      "prerequisites": "enginealanwednesdayafternoon, enginealanhasfirestone"
+    },
+    {
+      "id": "huey",
+      "name": "Huey",
+      "trainerClass": "SAILOR",
+      "trainerId": "sailorhuey",
+      "location": "olivinelighthouse2f",
+      "locationName": "Olivine Lighthouse 2F",
+      "day": "wednesday",
+      "time": "night",
+      "type": "rematch",
+      "prerequisites": "enginehueywednesdaynight"
+    },
+    {
+      "id": "ralph",
+      "name": "Ralph",
+      "trainerClass": "FISHER",
+      "trainerId": "fisherralph",
+      "location": "route32",
+      "locationName": "Route 32",
+      "day": "wednesday",
+      "time": "morning",
+      "type": "rematch",
+      "prerequisites": "engineralphwednesdaymorning, enginefishswarm, engineflypointgoldenrod"
+    },
+    {
+      "id": "vance",
+      "name": "Vance",
+      "trainerClass": "BIRD_KEEPER",
+      "trainerId": "birdkeepervance",
+      "location": "route44",
+      "locationName": "Route 44",
+      "day": "wednesday",
+      "time": "night",
+      "type": "rematch",
+      "prerequisites": "enginevancewednesdaynight"
+    },
+    {
+      "id": "dana",
+      "name": "Dana",
+      "trainerClass": "LASS",
+      "trainerId": "lassdana",
+      "location": "route38",
+      "locationName": "Route 38",
+      "day": "thursday",
+      "time": "night",
+      "type": "rematch",
+      "prerequisites": "enginedanathursdaynight, enginedanahasthunderstone"
+    },
+    {
+      "id": "gaven",
+      "name": "Gaven",
+      "trainerClass": "COOLTRAINERM",
+      "trainerId": "cooltrainermgaven",
+      "location": "route26",
+      "locationName": "route26",
+      "day": "thursday",
+      "time": "morning",
+      "type": "rematch",
+      "prerequisites": "enginegaventhursdaymorning"
+    },
+    {
+      "id": "liz",
+      "name": "Liz",
+      "trainerClass": "PICNICKER",
+      "trainerId": "picnickerliz",
+      "location": "route32",
+      "locationName": "Route 32",
+      "day": "thursday",
+      "time": "day",
+      "type": "rematch",
+      "prerequisites": "enginelizthursdayafternoon, engineflypointgoldenrod"
+    },
+    {
+      "id": "anthony",
+      "name": "Anthony",
+      "trainerClass": "HIKER",
+      "trainerId": "hikeranthony",
+      "location": "route33",
+      "locationName": "route33",
+      "day": "friday",
+      "time": "night",
+      "type": "rematch",
+      "prerequisites": "engineanthonyfridaynight, enginedunsparceswarm, engineflypointgoldenrod"
+    },
+    {
+      "id": "beth",
+      "name": "Beth",
+      "trainerClass": "COOLTRAINERF",
+      "trainerId": "cooltrainerfbeth",
+      "location": "route26",
+      "locationName": "route26",
+      "day": "friday",
+      "time": "day",
+      "type": "rematch",
+      "prerequisites": "enginebethfridayafternoon"
+    },
+    {
+      "id": "chad",
+      "name": "Chad",
+      "trainerClass": "SCHOOLBOY",
+      "trainerId": "schoolboychad",
+      "location": "route38",
+      "locationName": "Route 38",
+      "day": "friday",
+      "time": "morning",
+      "type": "rematch",
+      "prerequisites": "enginechadfridaymorning"
+    },
+    {
+      "id": "parry",
+      "name": "Parry",
+      "trainerClass": "HIKER",
+      "trainerId": "hikerparry",
+      "location": "route45",
+      "locationName": "Route 45",
+      "day": "friday",
+      "time": "day",
+      "type": "rematch",
+      "prerequisites": "engineparryfridayafternoon"
+    },
+    {
+      "id": "erin",
+      "name": "Erin",
+      "trainerClass": "PICNICKER",
+      "trainerId": "picnickererin",
+      "location": "route46",
+      "locationName": "route46",
+      "day": "saturday",
+      "time": "night",
+      "type": "rematch",
+      "prerequisites": "engineerinsaturdaynight"
+    },
+    {
+      "id": "jose",
+      "name": "Jose",
+      "trainerClass": "BIRD_KEEPER",
+      "trainerId": "birdkeeperjose",
+      "location": "route27",
+      "locationName": "route27",
+      "day": "saturday",
+      "time": "night",
+      "type": "rematch",
+      "prerequisites": "enginejosesaturdaynight, enginejosehasstarpiece"
+    },
+    {
+      "id": "todd",
+      "name": "Todd",
+      "trainerClass": "CAMPER",
+      "trainerId": "campertodd",
+      "location": "route34",
+      "locationName": "Route 34",
+      "day": "saturday",
+      "time": "morning",
+      "type": "rematch",
+      "prerequisites": "enginetoddsaturdaymorning, enginegoldenroddeptstoresaleison, engineflypointgoldenrod"
+    },
+    {
+      "id": "gina",
+      "name": "Gina",
+      "trainerClass": "PICNICKER",
+      "trainerId": "picnickergina",
+      "location": "route34",
+      "locationName": "Route 34",
+      "day": "sunday",
+      "time": "day",
+      "type": "rematch",
+      "prerequisites": "engineginasundayafternoon, engineginahasleafstone, enginerocketsinradiotower, engineflypointgoldenrod"
+    },
+    {
+      "id": "reena",
+      "name": "Reena",
+      "trainerClass": "COOLTRAINERF",
+      "trainerId": "cooltrainerfreena",
+      "location": "route27",
+      "locationName": "route27",
+      "day": "sunday",
+      "time": "morning",
+      "type": "rematch",
+      "prerequisites": "enginereenasundaymorning"
+    },
+    {
+      "id": "tully",
+      "name": "Tully",
+      "trainerClass": "FISHER",
+      "trainerId": "fishertully",
+      "location": "route42",
+      "locationName": "Route 42",
+      "day": "sunday",
+      "time": "night",
+      "type": "rematch",
+      "prerequisites": "enginetullysundaynight, enginetullyhaswaterstone"
+    }
+  ]
+}
