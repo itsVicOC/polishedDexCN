@@ -1,1 +1,1 @@
-{"id":15,"slug":"aurorabeam","name":{"en":"Aurora Beam","zh":"极光束","aliases":["Aurora Beam","aurorabeam"]},"type":"Ice","category":"Special","power":65,"accuracy":100,"pp":20,"effect":"An attack that may lower Attack.","learners":[],"machines":[]}
+{"id":15,"slug":"aurorabeam","name":{"en":"Aurora Beam","zh":"极光束","aliases":["Aurora Beam","aurorabeam"]},"type":"Ice","category":"Special","power":65,"accuracy":100,"pp":20,"effect":"An attack that may lower Attack.","effectZh":"An 攻击 that may lower 攻击.","learners":[],"machines":[]}

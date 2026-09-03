@@ -1,1 +1,1 @@
-{"id":30,"slug":"bulletpunch","name":{"en":"Bullet Punch","zh":"子弹拳","aliases":["Bullet Punch","bulletpunch"]},"type":"Steel","category":"Physical","power":40,"accuracy":100,"pp":30,"effect":"A tough punch that always goes first.","learners":[],"machines":[]}
+{"id":30,"slug":"bulletpunch","name":{"en":"Bullet Punch","zh":"子弹拳","aliases":["Bullet Punch","bulletpunch"]},"type":"Steel","category":"Physical","power":40,"accuracy":100,"pp":30,"effect":"A tough punch that always goes first.","effectZh":"A tough punch that always goes first.","learners":[],"machines":[]}

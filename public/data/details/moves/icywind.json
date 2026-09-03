@@ -1,1 +1,1 @@
-{"id":121,"slug":"icywind","name":{"en":"Icy Wind","zh":"冰冻之风","aliases":["Icy Wind","icywind"]},"type":"Ice","category":"Special","power":55,"accuracy":95,"pp":15,"effect":"An icy attack that lowers Speed.","learners":[],"machines":[]}
+{"id":121,"slug":"icywind","name":{"en":"Icy Wind","zh":"冰冻之风","aliases":["Icy Wind","icywind"]},"type":"Ice","category":"Special","power":55,"accuracy":95,"pp":15,"effect":"An icy attack that lowers Speed.","effectZh":"An icy 攻击 that lowers Speed.","learners":[],"machines":[]}

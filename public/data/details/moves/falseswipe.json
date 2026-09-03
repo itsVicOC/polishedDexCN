@@ -1,1 +1,1 @@
-{"id":75,"slug":"falseswipe","name":{"en":"False Swipe","zh":"点到为止","aliases":["False Swipe","falseswipe"]},"type":"Normal","category":"Physical","power":40,"accuracy":100,"pp":40,"effect":"Leaves the foe with at least 1HP.","learners":[],"machines":["tm54"]}
+{"id":75,"slug":"falseswipe","name":{"en":"False Swipe","zh":"点到为止","aliases":["False Swipe","falseswipe"]},"type":"Normal","category":"Physical","power":40,"accuracy":100,"pp":40,"effect":"Leaves the foe with at least 1HP.","effectZh":"Leaves the foe with at least 1HP.","learners":[],"machines":["tm54"]}

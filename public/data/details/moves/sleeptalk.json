@@ -1,1 +1,1 @@
-{"id":199,"slug":"sleeptalk","name":{"en":"Sleep Talk","zh":"梦话","aliases":["Sleep Talk","sleeptalk"]},"type":"Normal","category":"Status","power":0,"accuracy":100,"pp":10,"effect":"Randomly attacks while asleep.","learners":[],"machines":[]}
+{"id":199,"slug":"sleeptalk","name":{"en":"Sleep Talk","zh":"梦话","aliases":["Sleep Talk","sleeptalk"]},"type":"Normal","category":"Status","power":0,"accuracy":100,"pp":10,"effect":"Randomly attacks while asleep.","effectZh":"Randomly attacks while asleep.","learners":[],"machines":[]}

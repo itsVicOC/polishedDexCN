@@ -1,1 +1,1 @@
-{"id":7,"slug":"airslash","name":{"en":"Air Slash","zh":"空气斩","aliases":["Air Slash","airslash"]},"type":"Flying","category":"Special","power":75,"accuracy":95,"pp":15,"effect":"An attack that may cause flinching.","learners":[],"machines":[]}
+{"id":7,"slug":"airslash","name":{"en":"Air Slash","zh":"空气斩","aliases":["Air Slash","airslash"]},"type":"Flying","category":"Special","power":75,"accuracy":95,"pp":15,"effect":"An attack that may cause flinching.","effectZh":"An 攻击 that may cause flinching.","learners":[],"machines":[]}

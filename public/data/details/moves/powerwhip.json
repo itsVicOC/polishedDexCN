@@ -1,1 +1,1 @@
-{"id":159,"slug":"powerwhip","name":{"en":"Power Whip","zh":"强力鞭打","aliases":["Power Whip","powerwhip"]},"type":"Grass","category":"Physical","power":120,"accuracy":85,"pp":10,"effect":"A violent lash attack.","learners":[],"machines":[]}
+{"id":159,"slug":"powerwhip","name":{"en":"Power Whip","zh":"强力鞭打","aliases":["Power Whip","powerwhip"]},"type":"Grass","category":"Physical","power":120,"accuracy":85,"pp":10,"effect":"A violent lash attack.","effectZh":"A violent lash 攻击.","learners":[],"machines":[]}

@@ -1,1 +1,1 @@
-{"id":124,"slug":"karatechop","name":{"en":"Karate Chop","zh":"空手劈","aliases":["Karate Chop","karatechop"]},"type":"Fighting","category":"Physical","power":50,"accuracy":100,"pp":25,"effect":"Has a high critical hit ratio.","learners":[],"machines":[]}
+{"id":124,"slug":"karatechop","name":{"en":"Karate Chop","zh":"空手劈","aliases":["Karate Chop","karatechop"]},"type":"Fighting","category":"Physical","power":50,"accuracy":100,"pp":25,"effect":"Has a high critical hit ratio.","effectZh":"Has a high critical hit ratio.","learners":[],"machines":[]}

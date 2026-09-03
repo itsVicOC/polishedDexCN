@@ -1,1 +1,1 @@
-{"id":52,"slug":"doublekick","name":{"en":"Double Kick","zh":"二连踢","aliases":["Double Kick","doublekick"]},"type":"Fighting","category":"Physical","power":30,"accuracy":100,"pp":30,"effect":"A double kicking attack.","learners":[],"machines":[]}
+{"id":52,"slug":"doublekick","name":{"en":"Double Kick","zh":"二连踢","aliases":["Double Kick","doublekick"]},"type":"Fighting","category":"Physical","power":30,"accuracy":100,"pp":30,"effect":"A double kicking attack.","effectZh":"A double kicking 攻击.","learners":[],"machines":[]}

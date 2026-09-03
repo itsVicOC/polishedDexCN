@@ -1,1 +1,1 @@
-{"id":27,"slug":"bugbuzz","name":{"en":"Bug Buzz","zh":"虫鸣","aliases":["Bug Buzz","bugbuzz"]},"type":"Bug","category":"Special","power":90,"accuracy":100,"pp":10,"effect":"An attack that may lower Sp.Def.","learners":[],"machines":[]}
+{"id":27,"slug":"bugbuzz","name":{"en":"Bug Buzz","zh":"虫鸣","aliases":["Bug Buzz","bugbuzz"]},"type":"Bug","category":"Special","power":90,"accuracy":100,"pp":10,"effect":"An attack that may lower Sp.Def.","effectZh":"An 攻击 that may lower 特防.","learners":[],"machines":[]}

@@ -1,1 +1,1 @@
-{"id":11,"slug":"aquatail","name":{"en":"Aqua Tail","zh":"水流尾","aliases":["Aqua Tail","aquatail"]},"type":"Water","category":"Physical","power":90,"accuracy":90,"pp":10,"effect":"Swings tail like a wave in a storm.","learners":[],"machines":[]}
+{"id":11,"slug":"aquatail","name":{"en":"Aqua Tail","zh":"水流尾","aliases":["Aqua Tail","aquatail"]},"type":"Water","category":"Physical","power":90,"accuracy":90,"pp":10,"effect":"Swings tail like a wave in a storm.","effectZh":"Swings tail like a wave in a storm.","learners":[],"machines":[]}

@@ -1,1 +1,1 @@
-{"id":251,"slug":"wingattack","name":{"en":"Wing Attack","zh":"翅膀攻击","aliases":["Wing Attack","wingattack"]},"type":"Flying","category":"Physical","power":60,"accuracy":100,"pp":35,"effect":"Strikes the foe with wings.","learners":[],"machines":[]}
+{"id":251,"slug":"wingattack","name":{"en":"Wing Attack","zh":"翅膀攻击","aliases":["Wing Attack","wingattack"]},"type":"Flying","category":"Physical","power":60,"accuracy":100,"pp":35,"effect":"Strikes the foe with wings.","effectZh":"Strikes the foe with wings.","learners":[],"machines":[]}

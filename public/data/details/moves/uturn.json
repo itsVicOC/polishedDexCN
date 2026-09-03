@@ -1,1 +1,1 @@
-{"id":241,"slug":"uturn","name":{"en":"U Turn","zh":"急速折返","aliases":["U Turn","uturn"]},"type":"Bug","category":"Physical","power":70,"accuracy":100,"pp":20,"effect":"Switches out after making its attack.","learners":[],"machines":["tm69"]}
+{"id":241,"slug":"uturn","name":{"en":"U Turn","zh":"急速折返","aliases":["U Turn","uturn"]},"type":"Bug","category":"Physical","power":70,"accuracy":100,"pp":20,"effect":"Switches out after making its attack.","effectZh":"Switches out after making its 攻击.","learners":[],"machines":["tm69"]}

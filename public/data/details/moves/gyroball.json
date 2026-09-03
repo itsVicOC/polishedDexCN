@@ -1,1 +1,1 @@
-{"id":99,"slug":"gyroball","name":{"en":"Gyro Ball","zh":"陀螺球","aliases":["Gyro Ball","gyroball"]},"type":"Steel","category":"Physical","power":1,"accuracy":100,"pp":5,"effect":"Does more damage at lower speed.","learners":[],"machines":["tm74"]}
+{"id":99,"slug":"gyroball","name":{"en":"Gyro Ball","zh":"陀螺球","aliases":["Gyro Ball","gyroball"]},"type":"Steel","category":"Physical","power":1,"accuracy":100,"pp":5,"effect":"Does more damage at lower speed.","effectZh":"Does more damage at lower speed.","learners":[],"machines":["tm74"]}

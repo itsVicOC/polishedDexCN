@@ -1,1 +1,1 @@
-{"id":111,"slug":"hydropump","name":{"en":"Hydro Pump","zh":"水炮","aliases":["Hydro Pump","hydropump"]},"type":"Water","category":"Special","power":110,"accuracy":80,"pp":5,"effect":"A powerful Watertype attack.","learners":[],"machines":[]}
+{"id":111,"slug":"hydropump","name":{"en":"Hydro Pump","zh":"水炮","aliases":["Hydro Pump","hydropump"]},"type":"Water","category":"Special","power":110,"accuracy":80,"pp":5,"effect":"A powerful Watertype attack.","effectZh":"A powerful Watertype 攻击.","learners":[],"machines":[]}

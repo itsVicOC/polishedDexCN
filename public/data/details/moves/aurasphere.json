@@ -1,1 +1,1 @@
-{"id":14,"slug":"aurasphere","name":{"en":"Aura Sphere","zh":"波导弹","aliases":["Aura Sphere","aurasphere"]},"type":"Fighting","category":"Special","power":80,"accuracy":100,"pp":20,"effect":"An attack that never misses.","learners":[],"machines":[]}
+{"id":14,"slug":"aurasphere","name":{"en":"Aura Sphere","zh":"波导弹","aliases":["Aura Sphere","aurasphere"]},"type":"Fighting","category":"Special","power":80,"accuracy":100,"pp":20,"effect":"An attack that never misses.","effectZh":"An 攻击 that never misses.","learners":[],"machines":[]}

@@ -1,1 +1,1 @@
-{"id":253,"slug":"xscissor","name":{"en":"X Scissor","zh":"十字剪","aliases":["X Scissor","xscissor"]},"type":"Bug","category":"Physical","power":80,"accuracy":100,"pp":15,"effect":"Slashes foe with scythes or claws.","learners":[],"machines":["tm56"]}
+{"id":253,"slug":"xscissor","name":{"en":"X Scissor","zh":"十字剪","aliases":["X Scissor","xscissor"]},"type":"Bug","category":"Physical","power":80,"accuracy":100,"pp":15,"effect":"Slashes foe with scythes or claws.","effectZh":"Slashes foe with scythes or claws.","learners":[],"machines":["tm56"]}

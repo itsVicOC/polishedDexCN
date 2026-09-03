@@ -1,1 +1,1 @@
-{"id":212,"slug":"stringshot","name":{"en":"String Shot","zh":"吐丝","aliases":["String Shot","stringshot"]},"type":"Bug","category":"Status","power":0,"accuracy":95,"pp":40,"effect":"A move that lowers the foe's Speed.","learners":[],"machines":[]}
+{"id":212,"slug":"stringshot","name":{"en":"String Shot","zh":"吐丝","aliases":["String Shot","stringshot"]},"type":"Bug","category":"Status","power":0,"accuracy":95,"pp":40,"effect":"A move that lowers the foe's Speed.","effectZh":"A move that lowers the foe's Speed.","learners":[],"machines":[]}

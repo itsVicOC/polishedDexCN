@@ -1,1 +1,1 @@
-{"id":158,"slug":"powergem","name":{"en":"Power Gem","zh":"力量宝石","aliases":["Power Gem","powergem"]},"type":"Rock","category":"Special","power":80,"accuracy":100,"pp":20,"effect":"Attacks with a ray of gem-like light.","learners":[],"machines":[]}
+{"id":158,"slug":"powergem","name":{"en":"Power Gem","zh":"力量宝石","aliases":["Power Gem","powergem"]},"type":"Rock","category":"Special","power":80,"accuracy":100,"pp":20,"effect":"Attacks with a ray of gem-like light.","effectZh":"Attacks with a ray of gem-like light.","learners":[],"machines":[]}

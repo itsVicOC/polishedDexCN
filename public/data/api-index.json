@@ -3,45 +3,45 @@
   "collections": [
     {
       "name": "pokemon",
-      "path": "/data/pokemon.json"
+      "path": "data/pokemon.json"
     },
     {
       "name": "moves",
-      "path": "/data/moves.json"
+      "path": "data/moves.json"
     },
     {
       "name": "items",
-      "path": "/data/items.json"
+      "path": "data/items.json"
     },
     {
       "name": "abilities",
-      "path": "/data/abilities.json"
+      "path": "data/abilities.json"
     },
     {
       "name": "locations",
-      "path": "/data/locations.json"
+      "path": "data/locations.json"
     },
     {
       "name": "trainers",
-      "path": "/data/trainers.json"
+      "path": "data/trainers.json"
     }
   ],
   "details": [
     {
       "name": "pokemon",
-      "path": "/data/pokemon-details.json"
+      "path": "data/pokemon-details.json"
     },
     {
       "name": "evolutions",
-      "path": "/data/evolutions.json"
+      "path": "data/evolutions.json"
     },
     {
       "name": "events",
-      "path": "/data/events.json"
+      "path": "data/events.json"
     },
     {
       "name": "guides",
-      "path": "/data/guides.json"
+      "path": "data/guides.json"
     }
   ]
 }

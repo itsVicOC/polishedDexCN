@@ -5,6 +5,7 @@
  */
 import { mkdir, writeFile, readFile } from 'node:fs/promises'
 import { resolve } from 'node:path'
+import { translateHtmlProtected, translateProtected } from './deeplx.mjs'
 
 const source = 'https://www.polisheddex.app'
 const collections = {
@@ -15,10 +16,21 @@ const collections = {
   locations: { path: '/locations', expected: 141, expectedData: 649 }, trainers: { path: '/trainers', expected: 761 }
 }
 
-async function fetchText(url) {
-  const res = await fetch(url)
-  if (!res.ok) throw new Error(`${url} returned ${res.status}`)
-  return res.text()
+async function fetchText(url, { retries = 3, timeoutMs = 20_000 } = {}) {
+  let lastError
+  for (let attempt = 0; attempt <= retries; attempt += 1) {
+    const controller = new AbortController()
+    const timer = setTimeout(() => controller.abort(), timeoutMs)
+    try {
+      const res = await fetch(url, { signal: controller.signal, headers: { 'user-agent': 'polished-dex-cn-sync/1.0' } })
+      if (!res.ok) throw new Error(`${url} returned ${res.status}`)
+      return await res.text()
+    } catch (error) {
+      lastError = error
+      if (attempt < retries) await new Promise(resolve => setTimeout(resolve, 500 * 2 ** attempt))
+    } finally { clearTimeout(timer) }
+  }
+  throw lastError
 }
 function decodeNext(html) {
   const m = html.match(/self\.__next_f\.push\(\[1,\"([\s\S]*?)\"\]\)/)
@@ -89,7 +101,7 @@ function compactPokemonForm(form = {}) {
 }
 
 const guideTerms = [['Polished Crystal','抛光水晶'],['Pokémon','宝可梦'],['Pokédex','图鉴'],['Introduction','简介'],['Overview','概览'],['Walkthrough','流程攻略'],['Guide','指南'],['Guides','攻略'],['Route','道路'],['City','市'],['Town','镇'],['Cave','洞窟'],['Forest','森林'],['Tower','塔'],['Lake','湖'],['Gym','道馆'],['Badge','徽章'],['Trainer','训练家'],['Battle','战斗'],['Battles','战斗'],['Wild Pokémon','野生宝可梦'],['Encounter','遭遇'],['Encounters','遭遇'],['Items','物品'],['Item','物品'],['Moves','技能'],['Move','技能'],['Ability','特性'],['Abilities','特性'],['Evolution','进化'],['Evolutions','进化'],['Breeding','繁殖'],['Egg','蛋'],['Eggs','蛋'],['Team','队伍'],['Stats','能力值'],['Type','属性'],['Types','属性'],['Damage','伤害'],['Catch','捕获'],['Shiny','闪光'],['Location','地点'],['Locations','地点'],['Reward','奖励'],['Rewards','奖励'],['Tips','提示'],['Tip','提示'],['How to','如何'],['available','可用'],['required','需要'],['Level','等级'],['level','等级'],['Time','时间'],['Morning','早晨'],['Day','白天'],['Night','夜晚']]
-const localizeGuide = value => guideTerms.reduce((text, [en, zh]) => text.replace(new RegExp(`\\b${en.replace(/[.*+?^${}()|[\\]\\\\]/g, '\\\\$&')}\\b`, 'gi'), zh), String(value || ''))
+const glossary = value => guideTerms.reduce((text, [en, zh]) => text.replace(new RegExp(`\\b${en.replace(/[.*+?^${}()|[\\]\\\\]/g, '\\\\$&')}\\b`, 'gi'), zh), String(value || ''))
 function extractGuideArticle(html) {
   const start = html.search(/<div[^>]*class="[^"]*prose prose-neutral[^"]*"[^>]*>/i)
   if (start < 0) return null
@@ -111,6 +123,7 @@ function extractGuideArticle(html) {
 }
 
 const manifest = { source, generatedAt: new Date().toISOString(), collections: {} }
+const canonicalTerms = ['Pokémon', 'Pokédex', 'Polished Crystal']
 for (const [name, cfg] of Object.entries(collections)) {
   const html = await fetchText(source + cfg.path)
   const count = countFromHtml(html, name)
@@ -118,9 +131,12 @@ for (const [name, cfg] of Object.entries(collections)) {
   const decoded = decodeNext(html)
   const key = name === 'pokemon' ? 'pokemonList' : name
   const records = extractArray(decoded, key, cfg.expectedData || cfg.expected)
-  const validRecords = records && records.length === (cfg.expectedData || cfg.expected) ? records : null
-  if (validRecords) await writeFile(resolve('public/data', `${name}-source.json`), JSON.stringify(validRecords, null, 2))
-  manifest.collections[name] = { path: cfg.path, count, dataCount: validRecords?.length || null, snapshot: Boolean(validRecords) }
+  const required = cfg.expectedData || cfg.expected
+  if (!records || records.length !== required) throw new Error(`${name}: data extraction returned ${records?.length || 0}/${required} records`)
+  const validRecords = records
+  await writeFile(resolve('public/data', `${name}-source.json`), JSON.stringify(validRecords, null, 2))
+  for (const record of validRecords) { canonicalTerms.push(record.name); for (const value of Object.values(record.versions || {})) if (value?.name) canonicalTerms.push(value.name) }
+  manifest.collections[name] = { path: cfg.path, count, dataCount: validRecords.length, snapshot: true }
 }
 
 // Events are a standalone reference page rather than a paginated collection.
@@ -167,7 +183,8 @@ if (process.env.FULL_GUIDES === '1') {
       const category = html.match(/<meta name="category" content="([^"]*)"/i)?.[1] || 'guide'
       const article = extractGuideArticle(html)
       const hero = html.match(/src="(\/images\/guides\/[^"]+)"/)?.[1]
-      return article ? { id: slug, title, titleZh: localizeGuide(title), description, descriptionZh: localizeGuide(description), category, hero: hero ? hero.replace('/images/guides/', '/assets/guides/') : null, html: article, htmlZh: localizeGuide(article) } : null
+      if (!article) return null
+      return { id: slug, title, titleZh: await translateProtected(title, canonicalTerms, glossary), description, descriptionZh: await translateProtected(description, canonicalTerms, glossary), category, hero: hero ? hero.replace('/images/guides/', '/assets/guides/') : null, html: article, htmlZh: await translateHtmlProtected(article, canonicalTerms, glossary) }
     }))
     guides.push(...batch.filter(Boolean))
     console.log(`Fetched guides ${Math.min(i + 8, slugs.length)}/${slugs.length}`)

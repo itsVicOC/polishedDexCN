@@ -1,1 +1,1 @@
-{"id":249,"slug":"wildcharge","name":{"en":"Wild Charge","zh":"疯狂伏特","aliases":["Wild Charge","wildcharge"]},"type":"Electric","category":"Physical","power":90,"accuracy":100,"pp":15,"effect":"A charge that also hurts the user.","learners":[],"machines":["tm57"]}
+{"id":249,"slug":"wildcharge","name":{"en":"Wild Charge","zh":"疯狂伏特","aliases":["Wild Charge","wildcharge"]},"type":"Electric","category":"Physical","power":90,"accuracy":100,"pp":15,"effect":"A charge that also hurts the user.","effectZh":"A charge that also hurts the user.","learners":[],"machines":["tm57"]}

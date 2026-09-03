@@ -1,1 +1,1 @@
-{"id":80,"slug":"flamecharge","name":{"en":"Flame Charge","zh":"蓄能焰袭","aliases":["Flame Charge","flamecharge"]},"type":"Fire","category":"Physical","power":50,"accuracy":100,"pp":20,"effect":"An attack that may up user's Speed.","learners":[],"machines":["tm43"]}
+{"id":80,"slug":"flamecharge","name":{"en":"Flame Charge","zh":"蓄能焰袭","aliases":["Flame Charge","flamecharge"]},"type":"Fire","category":"Physical","power":50,"accuracy":100,"pp":20,"effect":"An attack that may up user's Speed.","effectZh":"An 攻击 that may up user's Speed.","learners":[],"machines":["tm43"]}

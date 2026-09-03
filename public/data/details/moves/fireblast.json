@@ -1,1 +1,1 @@
-{"id":77,"slug":"fireblast","name":{"en":"Fire Blast","zh":"大字爆炎","aliases":["Fire Blast","fireblast"]},"type":"Fire","category":"Special","power":110,"accuracy":85,"pp":5,"effect":"An attack that may inflict a burn.","learners":[],"machines":["tm38"]}
+{"id":77,"slug":"fireblast","name":{"en":"Fire Blast","zh":"大字爆炎","aliases":["Fire Blast","fireblast"]},"type":"Fire","category":"Special","power":110,"accuracy":85,"pp":5,"effect":"An attack that may inflict a burn.","effectZh":"An 攻击 that may inflict a burn.","learners":[],"machines":["tm38"]}

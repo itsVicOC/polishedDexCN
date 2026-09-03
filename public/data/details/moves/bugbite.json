@@ -1,1 +1,1 @@
-{"id":26,"slug":"bugbite","name":{"en":"Bug Bite","zh":"虫咬","aliases":["Bug Bite","bugbite"]},"type":"Bug","category":"Physical","power":60,"accuracy":100,"pp":20,"effect":"Bites the foe and eats a held Berry.","learners":[],"machines":[]}
+{"id":26,"slug":"bugbite","name":{"en":"Bug Bite","zh":"虫咬","aliases":["Bug Bite","bugbite"]},"type":"Bug","category":"Physical","power":60,"accuracy":100,"pp":20,"effect":"Bites the foe and eats a held Berry.","effectZh":"Bites the foe and eats a held Berry.","learners":[],"machines":[]}

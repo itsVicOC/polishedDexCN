@@ -1,1 +1,1 @@
-{"id":127,"slug":"leechseed","name":{"en":"Leech Seed","zh":"寄生种子","aliases":["Leech Seed","leechseed"]},"type":"Grass","category":"Status","power":0,"accuracy":90,"pp":10,"effect":"Steals HP from the foe on every turn.","learners":[],"machines":[]}
+{"id":127,"slug":"leechseed","name":{"en":"Leech Seed","zh":"寄生种子","aliases":["Leech Seed","leechseed"]},"type":"Grass","category":"Status","power":0,"accuracy":90,"pp":10,"effect":"Steals HP from the foe on every turn.","effectZh":"Steals HP from the foe on every turn.","learners":[],"machines":[]}

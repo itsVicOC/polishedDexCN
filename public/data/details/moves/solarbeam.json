@@ -1,1 +1,1 @@
-{"id":202,"slug":"solarbeam","name":{"en":"Solar Beam","zh":"日光束","aliases":["Solar Beam","solarbeam"]},"type":"Grass","category":"Special","power":120,"accuracy":100,"pp":10,"effect":"1st turn: Prepare 2nd turn: Attack","learners":[],"machines":["tm22"]}
+{"id":202,"slug":"solarbeam","name":{"en":"Solar Beam","zh":"日光束","aliases":["Solar Beam","solarbeam"]},"type":"Grass","category":"Special","power":120,"accuracy":100,"pp":10,"effect":"1st turn: Prepare 2nd turn: Attack","effectZh":"1st turn: Prepare 2nd turn: 攻击","learners":[],"machines":["tm22"]}

@@ -1,1 +1,1 @@
-{"id":240,"slug":"trickroom","name":{"en":"Trick Room","zh":"戏法空间","aliases":["Trick Room","trickroom"]},"type":"Psychic","category":"Status","power":0,"accuracy":100,"pp":5,"effect":"Slow Pokémon move first for 5 turns.","learners":[],"machines":[]}
+{"id":240,"slug":"trickroom","name":{"en":"Trick Room","zh":"戏法空间","aliases":["Trick Room","trickroom"]},"type":"Psychic","category":"Status","power":0,"accuracy":100,"pp":5,"effect":"Slow Pokémon move first for 5 turns.","effectZh":"Slow 宝可梦 move first for 5 turns.","learners":[],"machines":[]}

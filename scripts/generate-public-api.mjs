@@ -13,12 +13,14 @@ for (const [name, source] of Object.entries(aliases)) {
 }
 await writeFile('public/data/api-index.json', JSON.stringify({
   description: 'Offline Polished Crystal bilingual reference API',
-  collections: Object.keys(aliases).map(name => ({ name, path: `/data/${name}.json` })),
+  // Relative paths keep the generated API working on GitHub Pages project
+  // sites (for example /polishedDexCN/) as well as a domain root.
+  collections: Object.keys(aliases).map(name => ({ name, path: `data/${name}.json` })),
   details: [
-    { name: 'pokemon', path: '/data/pokemon-details.json' },
-    { name: 'evolutions', path: '/data/evolutions.json' },
-    { name: 'events', path: '/data/events.json' },
-    { name: 'guides', path: '/data/guides.json' },
+    { name: 'pokemon', path: 'data/pokemon-details.json' },
+    { name: 'evolutions', path: 'data/evolutions.json' },
+    { name: 'events', path: 'data/events.json' },
+    { name: 'guides', path: 'data/guides.json' },
   ],
 }, null, 2))
 console.log(`Generated ${Object.keys(aliases).length} public collection aliases.`)

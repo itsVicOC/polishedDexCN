@@ -1,1 +1,1 @@
-{"id":210,"slug":"stoneedge","name":{"en":"Stone Edge","zh":"尖石攻击","aliases":["Stone Edge","stoneedge"]},"type":"Rock","category":"Physical","power":100,"accuracy":80,"pp":5,"effect":"Has a high critical hit ratio.","learners":[],"machines":["tm71"]}
+{"id":210,"slug":"stoneedge","name":{"en":"Stone Edge","zh":"尖石攻击","aliases":["Stone Edge","stoneedge"]},"type":"Rock","category":"Physical","power":100,"accuracy":80,"pp":5,"effect":"Has a high critical hit ratio.","effectZh":"Has a high critical hit ratio.","learners":[],"machines":["tm71"]}

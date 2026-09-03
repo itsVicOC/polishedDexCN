@@ -1,1 +1,1 @@
-{"id":108,"slug":"honeclaws","name":{"en":"Hone Claws","zh":"磨爪","aliases":["Hone Claws","honeclaws"]},"type":"Dark","category":"Status","power":0,"accuracy":100,"pp":40,"effect":"Raises the user's Atk and accuracy.","learners":[],"machines":["tm12"]}
+{"id":108,"slug":"honeclaws","name":{"en":"Hone Claws","zh":"磨爪","aliases":["Hone Claws","honeclaws"]},"type":"Dark","category":"Status","power":0,"accuracy":100,"pp":40,"effect":"Raises the user's Atk and accuracy.","effectZh":"Raises the user's Atk and accuracy.","learners":[],"machines":["tm12"]}

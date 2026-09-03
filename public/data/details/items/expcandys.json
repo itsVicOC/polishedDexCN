@@ -1,1 +1,1 @@
-{"id":301,"slug":"expcandys","name":{"en":"Exp.Candy S","zh":"经验糖果Ｓ","aliases":["Exp.Candy S","expcandys"]},"category":"Candy","buy":0,"sell":0,"effect":"Increases a Pokémon's Exp. Points by 800.","use":"—","locations":[],"locationDetails":[],"pickup":[]}
+{"id":301,"slug":"expcandys","name":{"en":"Exp.Candy S","zh":"经验糖果Ｓ","aliases":["Exp.Candy S","expcandys"]},"category":"Candy","buy":0,"sell":0,"effect":"Increases a Pokémon's Exp. Points by 800.","effectZh":"Increases a 宝可梦's Exp. Points by 800.","use":"—","useZh":"—","locations":[],"locationDetails":[],"pickup":[]}

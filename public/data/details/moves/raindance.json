@@ -1,1 +1,1 @@
-{"id":167,"slug":"raindance","name":{"en":"Rain Dance","zh":"求雨","aliases":["Rain Dance","raindance"]},"type":"Water","category":"Status","power":0,"accuracy":100,"pp":5,"effect":"Boosts Water-type moves for 5 turns.","learners":[],"machines":["tm18"]}
+{"id":167,"slug":"raindance","name":{"en":"Rain Dance","zh":"求雨","aliases":["Rain Dance","raindance"]},"type":"Water","category":"Status","power":0,"accuracy":100,"pp":5,"effect":"Boosts Water-type moves for 5 turns.","effectZh":"Boosts Water-type moves for 5 turns.","learners":[],"machines":["tm18"]}

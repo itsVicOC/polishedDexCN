@@ -1,1 +1,1 @@
-{"id":250,"slug":"willowisp","name":{"en":"Will O Wisp","zh":"鬼火","aliases":["Will O Wisp","willowisp"]},"type":"Fire","category":"Status","power":0,"accuracy":85,"pp":15,"effect":"A move that may burn the foe.","learners":[],"machines":["tm61"]}
+{"id":250,"slug":"willowisp","name":{"en":"Will O Wisp","zh":"鬼火","aliases":["Will O Wisp","willowisp"]},"type":"Fire","category":"Status","power":0,"accuracy":85,"pp":15,"effect":"A move that may burn the foe.","effectZh":"A move that may burn the foe.","learners":[],"machines":["tm61"]}

@@ -1,1 +1,1 @@
-{"id":196,"slug":"skillswap","name":{"en":"Skill Swap","zh":"特性互换","aliases":["Skill Swap","skillswap"]},"type":"Psychic","category":"Status","power":0,"accuracy":100,"pp":10,"effect":"Swaps abilities with the foe.","learners":[],"machines":[]}
+{"id":196,"slug":"skillswap","name":{"en":"Skill Swap","zh":"特性互换","aliases":["Skill Swap","skillswap"]},"type":"Psychic","category":"Status","power":0,"accuracy":100,"pp":10,"effect":"Swaps abilities with the foe.","effectZh":"Swaps abilities with the foe.","learners":[],"machines":[]}

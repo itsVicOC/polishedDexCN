@@ -1,1 +1,1 @@
-{"id":56,"slug":"dragonclaw","name":{"en":"Dragon Claw","zh":"龙爪","aliases":["Dragon Claw","dragonclaw"]},"type":"Dragon","category":"Physical","power":80,"accuracy":100,"pp":15,"effect":"Slashes the foe with sharp claws.","learners":[],"machines":["tm02"]}
+{"id":56,"slug":"dragonclaw","name":{"en":"Dragon Claw","zh":"龙爪","aliases":["Dragon Claw","dragonclaw"]},"type":"Dragon","category":"Physical","power":80,"accuracy":100,"pp":15,"effect":"Slashes the foe with sharp claws.","effectZh":"Slashes the foe with sharp claws.","learners":[],"machines":["tm02"]}

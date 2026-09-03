@@ -29,7 +29,7 @@ npm run preview -- --host 127.0.0.1 --port 4177
 
 ## 开发
 
-环境要求：Node.js 20 或更高版本。
+环境要求：Node.js 22 或更高版本（Vite 8 的最低版本要求）。
 
 ```bash
 npm ci
@@ -46,6 +46,20 @@ npm run validate
 构建产物在 `dist/`。构建同时生成 `dist/404.html`，用于 GitHub Pages、Netlify、Vercel 等静态托管环境的深链接回退。
 
 ## 数据同步
+
+### DeepLX 自动翻译（可选）
+
+需要生成攻略中文内容时，脚本会优先调用 DeepLX；端点只从本地环境变量读取，不会写入前端代码或生成数据。将真实端点保存到被 Git 忽略的 `.env.local`：
+
+```bash
+DEEPLX_ENDPOINT=https://your-deeplx-host.example/translate
+```
+
+也可以在执行命令前临时设置 `DEEPLX_ENDPOINT`。请求失败、未配置端点或离线运行时，会自动回退到项目维护的离线术语表。不要把真实端点提交到 GitHub。
+
+可通过 `DEEPLX_ENDPOINTS` 提供逗号分隔的备用端点；脚本会按顺序尝试，并以批量请求减少限流。
+
+如果之前因限流生成过回退内容，端点恢复后使用 `DEEPLX_REFRESH=1 npm run locales` 重新精翻攻略与图鉴说明；脚本会保护官方宝可梦、招式、物品、特性和地点名称。
 
 基础同步从 PolishedDex 公开页面读取 Next.js 数据流，并在数量或页面结构变化时失败，避免静默生成不完整快照。
 
@@ -67,7 +81,8 @@ npm run sync:full
 各阶段作用：
 
 - `sync`：抓取 `public/data/*-source.json`、事件、进化和攻略详情快照。
-- `locales`：生成官方简体中文术语表，并为攻略生成 `titleZh`、`descriptionZh`、`htmlZh` 字段。
+- `locales`：生成官方简体中文术语表、攻略翻译，并自动恢复攻略 HTML 属性与静态资源路径；无法离线获取的上游图片使用透明占位，避免部署后出现破图。
+- `repair:guides`：单独修复已有攻略快照的标签属性、图片路径和缺失图片占位。
 - `data`：生成 `app-data.json`、各类详情 JSON、工具索引和 `app-manifest.json`。
 - `assets`：下载本地精灵图、动画 GIF、物品图标、训练家头像和地图瓦片。
 - `api`：生成 `/data/pokemon.json`、`/data/moves.json` 等公共数据别名。

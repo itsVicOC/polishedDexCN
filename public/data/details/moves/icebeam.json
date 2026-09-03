@@ -1,1 +1,1 @@
-{"id":116,"slug":"icebeam","name":{"en":"Ice Beam","zh":"冰冻光束","aliases":["Ice Beam","icebeam"]},"type":"Ice","category":"Special","power":90,"accuracy":100,"pp":10,"effect":"An attack that may freeze the foe.","learners":[],"machines":["tm13"]}
+{"id":116,"slug":"icebeam","name":{"en":"Ice Beam","zh":"冰冻光束","aliases":["Ice Beam","icebeam"]},"type":"Ice","category":"Special","power":90,"accuracy":100,"pp":10,"effect":"An attack that may freeze the foe.","effectZh":"An 攻击 that may freeze the foe.","learners":[],"machines":["tm13"]}

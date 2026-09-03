@@ -1,1 +1,1 @@
-{"id":87,"slug":"focusenergy","name":{"en":"Focus Energy","zh":"聚气","aliases":["Focus Energy","focusenergy"]},"type":"Normal","category":"Status","power":0,"accuracy":100,"pp":30,"effect":"Raises the critical hit ratio.","learners":[],"machines":[]}
+{"id":87,"slug":"focusenergy","name":{"en":"Focus Energy","zh":"聚气","aliases":["Focus Energy","focusenergy"]},"type":"Normal","category":"Status","power":0,"accuracy":100,"pp":30,"effect":"Raises the critical hit ratio.","effectZh":"Raises the critical hit ratio.","learners":[],"machines":[]}

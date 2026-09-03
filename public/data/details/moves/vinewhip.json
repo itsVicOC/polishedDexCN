@@ -1,1 +1,1 @@
-{"id":243,"slug":"vinewhip","name":{"en":"Vine Whip","zh":"藤鞭","aliases":["Vine Whip","vinewhip"]},"type":"Grass","category":"Physical","power":45,"accuracy":100,"pp":25,"effect":"Whips the foe with slender vines.","learners":[],"machines":[]}
+{"id":243,"slug":"vinewhip","name":{"en":"Vine Whip","zh":"藤鞭","aliases":["Vine Whip","vinewhip"]},"type":"Grass","category":"Physical","power":45,"accuracy":100,"pp":25,"effect":"Whips the foe with slender vines.","effectZh":"Whips the foe with slender vines.","learners":[],"machines":[]}

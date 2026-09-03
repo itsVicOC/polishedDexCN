@@ -1,1 +1,1 @@
-{"id":236,"slug":"toxicspikes","name":{"en":"Toxic Spikes","zh":"毒菱","aliases":["Toxic Spikes","toxicspikes"]},"type":"Poison","category":"Status","power":0,"accuracy":100,"pp":20,"effect":"Poisons foes when they switch in.","learners":[],"machines":[]}
+{"id":236,"slug":"toxicspikes","name":{"en":"Toxic Spikes","zh":"毒菱","aliases":["Toxic Spikes","toxicspikes"]},"type":"Poison","category":"Status","power":0,"accuracy":100,"pp":20,"effect":"Poisons foes when they switch in.","effectZh":"Poisons foes when they switch in.","learners":[],"machines":[]}

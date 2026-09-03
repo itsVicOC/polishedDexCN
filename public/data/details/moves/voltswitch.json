@@ -1,1 +1,1 @@
-{"id":244,"slug":"voltswitch","name":{"en":"Volt Switch","zh":"伏特替换","aliases":["Volt Switch","voltswitch"]},"type":"Electric","category":"Special","power":70,"accuracy":100,"pp":20,"effect":"Switches out after making its attack.","learners":[],"machines":["tm72"]}
+{"id":244,"slug":"voltswitch","name":{"en":"Volt Switch","zh":"伏特替换","aliases":["Volt Switch","voltswitch"]},"type":"Electric","category":"Special","power":70,"accuracy":100,"pp":20,"effect":"Switches out after making its attack.","effectZh":"Switches out after making its 攻击.","learners":[],"machines":["tm72"]}

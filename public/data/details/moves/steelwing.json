@@ -1,1 +1,1 @@
-{"id":208,"slug":"steelwing","name":{"en":"Steel Wing","zh":"钢翼","aliases":["Steel Wing","steelwing"]},"type":"Steel","category":"Physical","power":70,"accuracy":90,"pp":25,"effect":"An attack that may up user's Defense.","learners":[],"machines":["tm47"]}
+{"id":208,"slug":"steelwing","name":{"en":"Steel Wing","zh":"钢翼","aliases":["Steel Wing","steelwing"]},"type":"Steel","category":"Physical","power":70,"accuracy":90,"pp":25,"effect":"An attack that may up user's Defense.","effectZh":"An 攻击 that may up user's 防御.","learners":[],"machines":["tm47"]}

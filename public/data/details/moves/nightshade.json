@@ -1,1 +1,1 @@
-{"id":144,"slug":"nightshade","name":{"en":"Night Shade","zh":"黑夜魔影","aliases":["Night Shade","nightshade"]},"type":"Ghost","category":"Special","power":1,"accuracy":100,"pp":15,"effect":"Damage equals the user's level.","learners":[],"machines":[]}
+{"id":144,"slug":"nightshade","name":{"en":"Night Shade","zh":"黑夜魔影","aliases":["Night Shade","nightshade"]},"type":"Ghost","category":"Special","power":1,"accuracy":100,"pp":15,"effect":"Damage equals the user's level.","effectZh":"Damage equals the user's level.","learners":[],"machines":[]}

@@ -1,1 +1,1 @@
-{"id":217,"slug":"sunnyday","name":{"en":"Sunny Day","zh":"大晴天","aliases":["Sunny Day","sunnyday"]},"type":"Fire","category":"Status","power":0,"accuracy":100,"pp":5,"effect":"Boosts Fire-type moves for 5 turns.","learners":[],"machines":["tm11"]}
+{"id":217,"slug":"sunnyday","name":{"en":"Sunny Day","zh":"大晴天","aliases":["Sunny Day","sunnyday"]},"type":"Fire","category":"Status","power":0,"accuracy":100,"pp":5,"effect":"Boosts Fire-type moves for 5 turns.","effectZh":"Boosts Fire-type moves for 5 turns.","learners":[],"machines":["tm11"]}

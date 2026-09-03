@@ -1,1 +1,1 @@
-{"id":224,"slug":"swordsdance","name":{"en":"Swords Dance","zh":"剑舞","aliases":["Swords Dance","swordsdance"]},"type":"Normal","category":"Status","power":0,"accuracy":100,"pp":20,"effect":"Sharply raises the user's Attack.","learners":[],"machines":["tm75"]}
+{"id":224,"slug":"swordsdance","name":{"en":"Swords Dance","zh":"剑舞","aliases":["Swords Dance","swordsdance"]},"type":"Normal","category":"Status","power":0,"accuracy":100,"pp":20,"effect":"Sharply raises the user's Attack.","effectZh":"Sharply raises the user's 攻击.","learners":[],"machines":["tm75"]}

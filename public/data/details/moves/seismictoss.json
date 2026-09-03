@@ -1,1 +1,1 @@
-{"id":190,"slug":"seismictoss","name":{"en":"Seismic Toss","zh":"地球上投","aliases":["Seismic Toss","seismictoss"]},"type":"Fighting","category":"Physical","power":1,"accuracy":100,"pp":20,"effect":"Damage equals the user's level.","learners":[],"machines":[]}
+{"id":190,"slug":"seismictoss","name":{"en":"Seismic Toss","zh":"地球上投","aliases":["Seismic Toss","seismictoss"]},"type":"Fighting","category":"Physical","power":1,"accuracy":100,"pp":20,"effect":"Damage equals the user's level.","effectZh":"Damage equals the user's level.","learners":[],"machines":[]}

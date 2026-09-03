@@ -1,1 +1,1 @@
-{"id":112,"slug":"hyperbeam","name":{"en":"Hyper Beam","zh":"破坏光线","aliases":["Hyper Beam","hyperbeam"]},"type":"Normal","category":"Special","power":150,"accuracy":90,"pp":5,"effect":"1st turn: Attack 2nd turn: Rest","learners":[],"machines":["tm15"]}
+{"id":112,"slug":"hyperbeam","name":{"en":"Hyper Beam","zh":"破坏光线","aliases":["Hyper Beam","hyperbeam"]},"type":"Normal","category":"Special","power":150,"accuracy":90,"pp":5,"effect":"1st turn: Attack 2nd turn: Rest","effectZh":"1st turn: 攻击 2nd turn: Rest","learners":[],"machines":["tm15"]}

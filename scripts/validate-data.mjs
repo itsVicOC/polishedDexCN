@@ -13,6 +13,7 @@ const details = await load('pokemon-details'), itemDetails = await load('item-de
 const locationDetails = await load('location-details-source'), trainerDetails = await load('trainer-details-source')
 const evolutions = await load('evolutions'), events = await load('events'), guides = await load('guides')
 const appData = await load('app-data')
+const contentZh = await load('content-zh')
 const appManifest = await load('app-manifest')
 const mapTiles = await load('map-tiles')
 const normalize = value => String(value || '').toLowerCase().normalize('NFKD').replace(/[^a-z0-9]/g, '')
@@ -29,8 +30,16 @@ for (const [group, count] of [['daily', 7], ['weekly', 7], ['rematches', 23]]) {
 }
 if (!Array.isArray(guides) || guides.length !== 47) { console.error(`guides: expected 47, got ${guides?.length ?? 0}`); failed = true }
 for (const guide of guides) {
-  try { const detail = JSON.parse(await readFile(`public/data/guides/${guide.id}.json`, 'utf8')); if (!detail.html || !detail.htmlZh || !detail.titleZh || !detail.descriptionZh || detail.id !== guide.id) throw new Error('missing bilingual article fields') }
-  catch { console.error(`Missing guide detail: ${guide.id}`); failed = true }
+  try {
+    const detail = JSON.parse(await readFile(`public/data/guides/${guide.id}.json`, 'utf8'))
+    if (!detail.html || !detail.htmlZh || !detail.titleZh || !detail.descriptionZh || detail.id !== guide.id) throw new Error('missing bilingual article fields')
+    const sourceTags = [...detail.html.matchAll(/<[^>]+>/g)].map(match => match[0].replace(/\s+/g, ' ').trim())
+    const translatedTags = [...detail.htmlZh.matchAll(/<[^>]+>/g)].map(match => match[0].replace(/\s+/g, ' ').trim())
+    if (sourceTags.length !== translatedTags.length || sourceTags.some((tag, index) => tag !== translatedTags[index])) throw new Error('translated HTML attributes differ from source')
+    if (/(?:href|src|class|id)="[^"]*(?:宝可梦|物品|技能|地点|训练家|特性)/.test(detail.htmlZh)) throw new Error('translated HTML contains localized structural attributes')
+    if (/_next\/image|src="\/sprites\//.test(detail.html) || /_next\/image|src="\/sprites\//.test(detail.htmlZh)) throw new Error('guide contains an upstream-only asset URL')
+  }
+  catch (error) { console.error(`Invalid guide detail: ${guide.id} (${error.message})`); failed = true }
 }
 if (guides.some(guide => !guide.titleZh || !guide.descriptionZh)) { console.error('Guide index is missing bilingual metadata'); failed = true }
 for (const p of pokemon) {
@@ -112,6 +121,12 @@ for (const [file, expectedNames] of [['pokemon-zh', officialPokemonNames], ['mov
   const locale = await load(file)
   for (const [id, expectedName] of Object.entries(expectedNames)) if (locale[id] !== expectedName) { console.error(`Incorrect official locale: ${file}.${id}`); failed = true }
 }
+for (const [kind, count] of [['pokemon', 289], ['moves', 255], ['items', 396], ['abilities', 154], ['locations', 649]]) {
+  const rows = contentZh[kind] || {}
+  if (Object.keys(rows).length !== count) { console.error(`Invalid content translation table: ${kind}`); failed = true }
+}
+const moveCategories = new Set(moves.map(move => move.versions?.polished?.category || move.versions?.faithful?.category))
+for (const category of ['physical', 'special', 'status']) if (!moveCategories.has(category)) { console.error(`Missing source move category: ${category}`); failed = true }
 if (appData.schemaVersion !== 2) { console.error(`Unsupported app-data schema: ${appData.schemaVersion}`); failed = true }
 if (appManifest.schemaVersion !== 2 || appManifest.source !== 'https://www.polisheddex.app') { console.error('Invalid app-manifest metadata'); failed = true }
 if (!mapTiles.source?.includes('/tiles/{z}/{x}/{y}.webp') || !Array.isArray(mapTiles.tiles) || mapTiles.tiles.length !== 10) { console.error('Invalid map tile manifest'); failed = true }

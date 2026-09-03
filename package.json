@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
+  "engines": { "node": ">=22.12.0" },
   "scripts": {
     "prebuild": "node scripts/build-app-data.mjs",
     "dev": "vite",
@@ -11,23 +12,25 @@
     "sync": "node scripts/sync-polisheddex.mjs",
     "sync:full": "FULL_EVOLUTION_DETAILS=1 FULL_GUIDES=1 FULL_DETAILS=1 FULL_LOCATION_DETAILS=1 FULL_TRAINER_DETAILS=1 FULL_ITEM_DETAILS=1 npm run sync && npm run locales && npm run data && npm run assets && npm run api && npm run validate",
     "assets": "node scripts/download-assets.mjs",
-    "locales": "node scripts/generate-locales.mjs && node scripts/localize-guides.mjs",
+    "repair:guides": "node scripts/repair-guides.mjs",
+    "locales": "node scripts/generate-locales.mjs && node scripts/localize-guides.mjs && node scripts/repair-guides.mjs && node scripts/localize-content.mjs",
+    "content": "node scripts/localize-content.mjs",
     "compact": "node scripts/compact-pokemon-data.mjs",
     "api": "node scripts/generate-public-api.mjs",
     "data": "node scripts/build-app-data.mjs",
     "validate": "node scripts/validate-data.mjs"
   },
   "dependencies": {
-    "@vitejs/plugin-react": "latest",
-    "lucide-react": "latest",
-    "react": "latest",
-    "react-dom": "latest",
-    "typescript": "latest",
-    "vite": "latest"
+    "lucide-react": "^1.38.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
   },
   "devDependencies": {
     "@types/node": "^26.4.0",
-    "@types/react": "latest",
-    "@types/react-dom": "latest"
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.5",
+    "@vitejs/plugin-react": "^6.1.1",
+    "typescript": "^7.0.2",
+    "vite": "^8.2.2"
   }
 }

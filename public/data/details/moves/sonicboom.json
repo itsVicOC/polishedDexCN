@@ -1,1 +1,1 @@
-{"id":203,"slug":"sonicboom","name":{"en":"Sonic Boom","zh":"音爆","aliases":["Sonic Boom","sonicboom"]},"type":"Normal","category":"Special","power":20,"accuracy":90,"pp":20,"effect":"Always inflicts 20HP damage.","learners":[],"machines":[]}
+{"id":203,"slug":"sonicboom","name":{"en":"Sonic Boom","zh":"音爆","aliases":["Sonic Boom","sonicboom"]},"type":"Normal","category":"Special","power":20,"accuracy":90,"pp":20,"effect":"Always inflicts 20HP damage.","effectZh":"Always inflicts 20HP damage.","learners":[],"machines":[]}

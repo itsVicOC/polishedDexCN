@@ -1,1 +1,1 @@
-{"id":148,"slug":"painsplit","name":{"en":"Pain Split","zh":"分担痛楚","aliases":["Pain Split","painsplit"]},"type":"Ghost","category":"Status","power":0,"accuracy":100,"pp":20,"effect":"Adds user & foe's HPs. Shares total.","learners":[],"machines":[]}
+{"id":148,"slug":"painsplit","name":{"en":"Pain Split","zh":"分担痛楚","aliases":["Pain Split","painsplit"]},"type":"Ghost","category":"Status","power":0,"accuracy":100,"pp":20,"effect":"Adds user & foe's HPs. Shares total.","effectZh":"Adds user & foe's HPs. Shares total.","learners":[],"machines":[]}

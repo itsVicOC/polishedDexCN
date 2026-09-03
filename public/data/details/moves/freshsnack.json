@@ -1,1 +1,1 @@
-{"id":89,"slug":"freshsnack","name":{"en":"Fresh Snack","zh":"Fresh Snack","aliases":["Fresh Snack","freshsnack"]},"type":"Normal","category":"Status","power":0,"accuracy":100,"pp":10,"effect":"Restores HP by 1/2 the user's max HP.","learners":[],"machines":[]}
+{"id":89,"slug":"freshsnack","name":{"en":"Fresh Snack","zh":"Fresh Snack","aliases":["Fresh Snack","freshsnack"]},"type":"Normal","category":"Status","power":0,"accuracy":100,"pp":10,"effect":"Restores HP by 1/2 the user's max HP.","effectZh":"Restores HP by 1/2 the user's max HP.","learners":[],"machines":[]}

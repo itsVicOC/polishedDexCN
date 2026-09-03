@@ -1,1 +1,1 @@
-{"id":125,"slug":"knockoff","name":{"en":"Knock Off","zh":"拍落","aliases":["Knock Off","knockoff"]},"type":"Dark","category":"Physical","power":65,"accuracy":100,"pp":20,"effect":"Slaps down the foe's held item.","learners":[],"machines":[]}
+{"id":125,"slug":"knockoff","name":{"en":"Knock Off","zh":"拍落","aliases":["Knock Off","knockoff"]},"type":"Dark","category":"Physical","power":65,"accuracy":100,"pp":20,"effect":"Slaps down the foe's held item.","effectZh":"Slaps down the foe's held item.","learners":[],"machines":[]}

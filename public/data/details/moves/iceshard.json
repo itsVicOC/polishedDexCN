@@ -1,1 +1,1 @@
-{"id":118,"slug":"iceshard","name":{"en":"Ice Shard","zh":"冰砾","aliases":["Ice Shard","iceshard"]},"type":"Ice","category":"Physical","power":40,"accuracy":100,"pp":30,"effect":"Hurls icy shards. Always goes first.","learners":[],"machines":[]}
+{"id":118,"slug":"iceshard","name":{"en":"Ice Shard","zh":"冰砾","aliases":["Ice Shard","iceshard"]},"type":"Ice","category":"Physical","power":40,"accuracy":100,"pp":30,"effect":"Hurls icy shards. Always goes first.","effectZh":"Hurls icy shards. Always goes first.","learners":[],"machines":[]}

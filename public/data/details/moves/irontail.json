@@ -1,1 +1,1 @@
-{"id":123,"slug":"irontail","name":{"en":"Iron Tail","zh":"铁尾","aliases":["Iron Tail","irontail"]},"type":"Steel","category":"Physical","power":100,"accuracy":75,"pp":15,"effect":"An attack that may lower Defense.","learners":[],"machines":["tm23"]}
+{"id":123,"slug":"irontail","name":{"en":"Iron Tail","zh":"铁尾","aliases":["Iron Tail","irontail"]},"type":"Steel","category":"Physical","power":100,"accuracy":75,"pp":15,"effect":"An attack that may lower Defense.","effectZh":"An 攻击 that may lower 防御.","learners":[],"machines":["tm23"]}

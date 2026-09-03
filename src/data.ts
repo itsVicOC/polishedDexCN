@@ -1,17 +1,18 @@
 export type Localized = { en:string; zh:string; aliases?:string[] }
 export type Pokemon = {
   id:number; slug:string; name:Localized; types:string[]; genus:string; description:string;
-  abilities:{name:Localized;role:string;effect:string}[]; stats:Record<string,number>;
+  descriptionZh?:string;
+  abilities:{name:Localized;role:string;effect:string;effectZh?:string}[]; stats:Record<string,number>;
   growth:string; gender:string; eggGroups:string[]; hatch:string; hatchCycles?:number; height?:number; weight?:number; catchRate:number; baseExp:number;
   evYield:string; weak:string[]; resist:string[]; evolution?:string[]; obtain:string[]; moves:string[]; eggMoves?:string[]; tmMoves?:string[]; tutorMoves?:string[]; sprite:string;
   heldItems?:{id:string;name:Localized;rarity:string}[];
 }
-export type Move = { id:number; slug:string; name:Localized; type:string; category:string; power:number; accuracy:number; pp:number; effect:string; tm?:string }
+export type Move = { id:number; slug:string; name:Localized; type:string; category:string; power:number; accuracy:number; pp:number; effect:string; effectZh?:string; tm?:string }
 export type ItemLocation = { area:string; locationId?:string; name:string; method:string; npcName?:string; prerequisites?:Record<string,unknown> }
-export type Item = { id:number; slug:string; name:Localized; category:string; buy:number; sell:number; effect:string; use:string; locations:string[]; moveName?:string; locationDetails?:ItemLocation[]; pickup?:{min:number;max:number;probability:number}[] }
-export type Ability = { id:number; slug:string; name:Localized; effect:string }
+export type Item = { id:number; slug:string; name:Localized; category:string; buy:number; sell:number; effect:string; effectZh?:string; use:string; useZh?:string; locations:string[]; moveName?:string; locationDetails?:ItemLocation[]; pickup?:{min:number;max:number;probability:number}[] }
+export type Ability = { id:number; slug:string; name:Localized; effect:string; effectZh?:string }
 export type LocationItem = { id:string; name:string; type:string; chance?:number; npcName?:string }
-export type Location = { id:number; slug:string; name:Localized; region:string; kind:string; description:string; pokemon:string[]; items:string[]; itemDetails?:LocationItem[]; trainers:string[]; children?:{id:string;name:string}[]; connections?:{direction:string;to:string;toId:string}[]; encounters?:{pokemon:string;pokemonId?:string;method:string;levelRange?:string;rate?:number;formName?:string;version?:string;isSwarm?:boolean;encounterTier?:string;asleep?:string[]}[] }
+export type Location = { id:number; slug:string; name:Localized; region:string; kind:string; description:string; descriptionZh?:string; pokemon:string[]; items:string[]; itemDetails?:LocationItem[]; trainers:string[]; children?:{id:string;name:string}[]; connections?:{direction:string;to:string;toId:string}[]; encounters?:{pokemon:string;pokemonId?:string;method:string;levelRange?:string;rate?:number;formName?:string;version?:string;isSwarm?:boolean;encounterTier?:string;asleep?:string[]}[] }
 export type Trainer = { id:number; slug:string; name:Localized; className:string; portrait?:string; location:string; locationId?:string; battles:{matchCount?:number;level:number;levelDisplay?:string;pokemon:string;formName?:string;ability?:string;nature?:string;item?:string;dvs?:string;evs?:string;moves:string[]}[] }
 export type EvolutionStep = { from:{name:string;formName:string}; to:{name:string;formName:string}; method:{action:string;parameter?:string|number} }
 export type EvolutionChain = { id:string; relatedPokemon:string[]; evolutionChain:EvolutionStep[][] }

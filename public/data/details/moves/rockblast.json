@@ -1,1 +1,1 @@
-{"id":176,"slug":"rockblast","name":{"en":"Rock Blast","zh":"岩石爆击","aliases":["Rock Blast","rockblast"]},"type":"Rock","category":"Physical","power":25,"accuracy":90,"pp":25,"effect":"Hurls boulders to hit 2-5 times.","learners":[],"machines":[]}
+{"id":176,"slug":"rockblast","name":{"en":"Rock Blast","zh":"岩石爆击","aliases":["Rock Blast","rockblast"]},"type":"Rock","category":"Physical","power":25,"accuracy":90,"pp":25,"effect":"Hurls boulders to hit 2-5 times.","effectZh":"Hurls boulders to hit 2-5 times.","learners":[],"machines":[]}

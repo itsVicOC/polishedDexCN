@@ -1,1 +1,1 @@
-{"id":97,"slug":"gunkshot","name":{"en":"Gunk Shot","zh":"垃圾射击","aliases":["Gunk Shot","gunkshot"]},"type":"Poison","category":"Physical","power":120,"accuracy":80,"pp":5,"effect":"An attack that may poison the foe.","learners":[],"machines":[]}
+{"id":97,"slug":"gunkshot","name":{"en":"Gunk Shot","zh":"垃圾射击","aliases":["Gunk Shot","gunkshot"]},"type":"Poison","category":"Physical","power":120,"accuracy":80,"pp":5,"effect":"An attack that may poison the foe.","effectZh":"An 攻击 that may poison the foe.","learners":[],"machines":[]}

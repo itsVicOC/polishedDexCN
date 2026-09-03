@@ -1,1 +1,1 @@
-{"id":126,"slug":"leechlife","name":{"en":"Leech Life","zh":"吸血","aliases":["Leech Life","leechlife"]},"type":"Bug","category":"Physical","power":80,"accuracy":100,"pp":10,"effect":"Steals 1/2 of the damage inflicted.","learners":[],"machines":["tm50"]}
+{"id":126,"slug":"leechlife","name":{"en":"Leech Life","zh":"吸血","aliases":["Leech Life","leechlife"]},"type":"Bug","category":"Physical","power":80,"accuracy":100,"pp":10,"effect":"Steals 1/2 of the damage inflicted.","effectZh":"Steals 1/2 of the damage inflicted.","learners":[],"machines":["tm50"]}

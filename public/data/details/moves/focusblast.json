@@ -1,1 +1,1 @@
-{"id":86,"slug":"focusblast","name":{"en":"Focus Blast","zh":"真气弹","aliases":["Focus Blast","focusblast"]},"type":"Fighting","category":"Special","power":120,"accuracy":70,"pp":5,"effect":"An attack that may lower Sp.Def.","learners":[],"machines":["tm52"]}
+{"id":86,"slug":"focusblast","name":{"en":"Focus Blast","zh":"真气弹","aliases":["Focus Blast","focusblast"]},"type":"Fighting","category":"Special","power":120,"accuracy":70,"pp":5,"effect":"An attack that may lower Sp.Def.","effectZh":"An 攻击 that may lower 特防.","learners":[],"machines":["tm52"]}

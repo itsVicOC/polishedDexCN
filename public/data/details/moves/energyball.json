@@ -1,1 +1,1 @@
-{"id":70,"slug":"energyball","name":{"en":"Energy Ball","zh":"能量球","aliases":["Energy Ball","energyball"]},"type":"Grass","category":"Special","power":90,"accuracy":100,"pp":10,"effect":"An attack that may lower Sp.Def.","learners":[],"machines":["tm53"]}
+{"id":70,"slug":"energyball","name":{"en":"Energy Ball","zh":"能量球","aliases":["Energy Ball","energyball"]},"type":"Grass","category":"Special","power":90,"accuracy":100,"pp":10,"effect":"An attack that may lower Sp.Def.","effectZh":"An 攻击 that may lower 特防.","learners":[],"machines":["tm53"]}

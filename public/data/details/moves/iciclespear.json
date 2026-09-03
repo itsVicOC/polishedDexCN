@@ -1,1 +1,1 @@
-{"id":120,"slug":"iciclespear","name":{"en":"Icicle Spear","zh":"冰锥","aliases":["Icicle Spear","iciclespear"]},"type":"Ice","category":"Physical","power":25,"accuracy":100,"pp":30,"effect":"Fires icicles to hit 2-5 times.","learners":[],"machines":[]}
+{"id":120,"slug":"iciclespear","name":{"en":"Icicle Spear","zh":"冰锥","aliases":["Icicle Spear","iciclespear"]},"type":"Ice","category":"Physical","power":25,"accuracy":100,"pp":30,"effect":"Fires icicles to hit 2-5 times.","effectZh":"Fires icicles to hit 2-5 times.","learners":[],"machines":[]}

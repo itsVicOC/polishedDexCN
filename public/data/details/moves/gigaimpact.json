@@ -1,1 +1,1 @@
-{"id":93,"slug":"gigaimpact","name":{"en":"Giga Impact","zh":"终极冲击","aliases":["Giga Impact","gigaimpact"]},"type":"Normal","category":"Physical","power":150,"accuracy":90,"pp":5,"effect":"1st turn: Attack 2nd turn: Rest","learners":[],"machines":["tm68"]}
+{"id":93,"slug":"gigaimpact","name":{"en":"Giga Impact","zh":"终极冲击","aliases":["Giga Impact","gigaimpact"]},"type":"Normal","category":"Physical","power":150,"accuracy":90,"pp":5,"effect":"1st turn: Attack 2nd turn: Rest","effectZh":"1st turn: 攻击 2nd turn: Rest","learners":[],"machines":["tm68"]}

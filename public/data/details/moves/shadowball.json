@@ -1,1 +1,1 @@
-{"id":191,"slug":"shadowball","name":{"en":"Shadow Ball","zh":"暗影球","aliases":["Shadow Ball","shadowball"]},"type":"Ghost","category":"Special","power":80,"accuracy":100,"pp":15,"effect":"An attack that may lower Sp.Def.","learners":[],"machines":["tm30"]}
+{"id":191,"slug":"shadowball","name":{"en":"Shadow Ball","zh":"暗影球","aliases":["Shadow Ball","shadowball"]},"type":"Ghost","category":"Special","power":80,"accuracy":100,"pp":15,"effect":"An attack that may lower Sp.Def.","effectZh":"An 攻击 that may lower 特防.","learners":[],"machines":["tm30"]}

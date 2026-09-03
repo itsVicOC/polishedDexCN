@@ -1,1 +1,1 @@
-{"id":155,"slug":"poisonjab","name":{"en":"Poison Jab","zh":"毒击","aliases":["Poison Jab","poisonjab"]},"type":"Poison","category":"Physical","power":80,"accuracy":100,"pp":20,"effect":"An attack that may poison the foe.","learners":[],"machines":["tm66"]}
+{"id":155,"slug":"poisonjab","name":{"en":"Poison Jab","zh":"毒击","aliases":["Poison Jab","poisonjab"]},"type":"Poison","category":"Physical","power":80,"accuracy":100,"pp":20,"effect":"An attack that may poison the foe.","effectZh":"An 攻击 that may poison the foe.","learners":[],"machines":["tm66"]}

@@ -1,1 +1,1 @@
-{"id":45,"slug":"defensecurl","name":{"en":"Defense Curl","zh":"变圆","aliases":["Defense Curl","defensecurl"]},"type":"Normal","category":"Status","power":0,"accuracy":100,"pp":40,"effect":"Raises the user's Defense.","learners":[],"machines":[]}
+{"id":45,"slug":"defensecurl","name":{"en":"Defense Curl","zh":"变圆","aliases":["Defense Curl","defensecurl"]},"type":"Normal","category":"Status","power":0,"accuracy":100,"pp":40,"effect":"Raises the user's Defense.","effectZh":"Raises the user's 防御.","learners":[],"machines":[]}

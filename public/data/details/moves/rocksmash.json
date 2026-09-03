@@ -1,1 +1,1 @@
-{"id":178,"slug":"rocksmash","name":{"en":"Brick Break","zh":"劈瓦","aliases":["Brick Break","rocksmash"]},"type":"Fighting","category":"Physical","power":75,"accuracy":100,"pp":15,"effect":"Removes Reflect and Light Screen.","learners":[],"machines":["tm31"]}
+{"id":178,"slug":"rocksmash","name":{"en":"Brick Break","zh":"劈瓦","aliases":["Brick Break","rocksmash"]},"type":"Fighting","category":"Physical","power":75,"accuracy":100,"pp":15,"effect":"Removes Reflect and Light Screen.","effectZh":"Removes Reflect and Light Screen.","learners":[],"machines":["tm31"]}
